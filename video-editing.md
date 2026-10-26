@@ -6,6 +6,13 @@ Editors, motion graphics, programmatic video, and launch films.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [HyperFrames](https://github.com/heygen-com/hyperframes)
+`status: watching` · `tags: html-to-video, programmatic-video, agent-skill, claude-code, gsap, ffmpeg, motion-graphics` · added 2026-10
+
+HeyGen's open-source framework for turning HTML, CSS, media, and seekable animations (GSAP etc.) into deterministic MP4s. "Write HTML. Render video. Built for agents." Use it from the CLI, as skills/a plugin in coding agents, or as the rendering engine behind other tools.
+**Why I care:** A rendering stack agents are already trained to use. [cinematic-shot](#cinematic-shot) and [Prompt Motion](#prompt-motion) prompts describe the look; HyperFrames turns it into the actual MP4. Good for launch videos, PR walkthroughs with animated diffs, chart and map animations, and social videos with captions. An HTML-first alternative to Remotion, with a migration skill for existing Remotion code.
+**Notes:** Claude Code: `claude plugin marketplace add heygen-com/hyperframes` then `claude plugin install hyperframes@hyperframes`, and use `/hyperframes:hyperframes`. Other agents: `npx hyperframes skills update` installs the core skills (`/hyperframes`, `/hyperframes-cli`, `/hyperframes-registry`, `/media-use`). Manual: `npx hyperframes init my-video`, then `preview` / `render`. The registry has about 450 ready-made blocks (transitions, titles, kinetic type, captions, charts, 3D). `frame.md` adapts a brand's `design.md` for video. Needs Node 22+ and FFmpeg. Apache-2.0, ~72k stars. Docs: <https://hyperframes.heygen.com>.
+
 ### [Prompt Motion](https://prompt-motion.com/)
 `status: watching` · `tags: inspiration, prompts, agent-skill, motion-graphics, ai-video` · added 2026-10
 
