@@ -6,6 +6,20 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Long-exposure light trail silhouette prompt](https://www.threads.com/@bibanskiy/post/DfM8BNhiL68)
+`status: watching` · `tags: prompt, portrait, silhouette, long-exposure, cinematic, film, identity-reference` · added 2026-11
+
+A long prompt by Denis Bibanskih (@bibanskiy) that turns an uploaded photo of a person into a dark silhouette standing in shallow water, with a ribbon of glowing light curving around them, mountains behind, and an analog film look.
+**Why I care:** It works like a shot brief, with separate sections for composition, light, water, sky, camera, and film. The key rule is that the world blurs while the figure stays still, and that contrast is what makes the image work.
+**Notes:** Upload a clear photo of the person first, since the prompt relies on it for identity. Only use photos of yourself or someone who agreed to it. The post doesn't say which image model it was made for. The prompt asks for gold, but the examples came out closer to rose copper, so expect some drift in color. The full prompt is in the second post of the thread (in English).
+
+<p>
+  <img src="assets/image-generation/light-trail-silhouette-1.webp" width="190" alt="Silhouette in water with a curved light trail, example 1">
+  <img src="assets/image-generation/light-trail-silhouette-2.webp" width="190" alt="Silhouette in water with a curved light trail, example 2">
+</p>
+
+<sub>AI-generated examples from @bibanskiy's post.</sub>
+
 ### [Motion Haze portrait prompts](https://www.threads.com/@ecolab_studio/post/DfMFpmhEexo)
 `status: watching` · `tags: prompt, midjourney, portrait, motion-blur, cinematic, editorial` · added 2026-11
 
