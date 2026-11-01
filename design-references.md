@@ -6,6 +6,21 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Mid-century geometric travel posters](https://www.threads.com/@reelscene_ai/post/DfKOyWyEkFf)
+`status: watching` · `tags: poster, travel, mid-century, geometric, ai-generated, midjourney` · added 2026-11
+
+Three AI travel posters of New York, Sydney, and Paris shared by 릴씬 (@reelscene_ai), made with Midjourney v8.2: flat geometric landmarks, hard diagonal shadows, and a muted palette of teal, cream, rust, and mustard.
+**Why I care:** A big diagonal band of light gives each poster its energy and links all three as a series, even though the landmarks are very different shapes.
+**Notes:** The post doesn't share a prompt, so it's here as a style reference. To try it, describe the era, flat shapes, diagonal light, and limited palette, then check the text and fine details in the result. The post thanks @ai_traveler_k but doesn't say what they contributed.
+
+<p>
+  <img src="assets/design-references/midcentury-travel-1.webp" width="190" alt="Mid-century style New York poster">
+  <img src="assets/design-references/midcentury-travel-2.webp" width="190" alt="Mid-century style Sydney poster">
+  <img src="assets/design-references/midcentury-travel-3.webp" width="190" alt="Mid-century style Paris poster">
+</p>
+
+<sub>AI-generated examples from @reelscene_ai's post.</sub>
+
 ### [Culinary Blueprints daily sketches](https://www.threads.com/@archfinn_/post/DfL4c7dEmHU)
 `status: watching` · `tags: illustration, food, infographic, hand-lettering, paper-texture, editorial` · added 2026-11
 
