@@ -6,6 +6,22 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Second World photo poster prompt](https://www.threads.com/@inkacalinka/post/Ddqm8Alm9e1)
+`status: watching` · `tags: prompt, photo-to-poster, concept, line-art, visual-metaphor, reusable-template` · added 2026-11
+
+A prompt by michelle (@inkacalinka) that extends a photo into blank paper with thin black line drawings: a coffee pour becomes a river, or a beach umbrella's shade becomes a tiny pool.
+**Why I care:** This is the smartest one in the set. Instead of giving a style, it tells the model to find one visual structure in the photo and ask what it would become if you could touch or use it, so every result has its own idea.
+**Notes:** Upload a photo and paste the prompt. It works best on photos with a clear structure, such as water, roads, or light. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in English).
+
+<p>
+  <img src="assets/image-generation/second-world-1.webp" width="190" alt="Beach umbrella with its shade drawn as a tiny pool">
+  <img src="assets/image-generation/second-world-2.webp" width="190" alt="Water path drawn out from a green island">
+  <img src="assets/image-generation/second-world-3.webp" width="190" alt="Light from a sunset drawn as a stream behind a church">
+  <img src="assets/image-generation/second-world-4.webp" width="190" alt="Sunlit water drawn below a flowering swing">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, kept whole because the photo and the drawing connect.</sub>
+
 ### [Naive folk illustration prompt](https://www.threads.com/@inkacalinka/post/DeBxUkkG2RL)
 `status: watching` · `tags: prompt, photo-to-poster, folk-art, crayon, naive, side-by-side` · added 2026-11
 
