@@ -6,6 +6,21 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Geometric deconstruction poster prompt](https://www.threads.com/@inkacalinka/post/DdDHrkclL7P)
+`status: watching` · `tags: prompt, photo-to-poster, geometric, cut-paper, modernist, editorial` · added 2026-11
+
+A prompt by michelle (@inkacalinka) that rebuilds the subject of a photo from large cut-paper blocks in a soft modernist palette, with subtle print texture and lots of empty space.
+**Why I care:** It pushes for fewer, larger shapes and warns against tiny fragments, which helps the subject stay recognizable. It also gives separate guidance for people, buildings, and other subjects.
+**Notes:** Upload a photo and paste the prompt. Compared with the other geometric prompts here, it's the most blocky and collage-like. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in English).
+
+<p>
+  <img src="assets/image-generation/block-geometric-1.webp" width="190" alt="Winged figures in cut-paper blocks">
+  <img src="assets/image-generation/block-geometric-2.webp" width="190" alt="Cave Buddhas in cut-paper blocks">
+  <img src="assets/image-generation/block-geometric-3.webp" width="190" alt="Two figures on grass in cut-paper blocks">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Journal collage poster prompt](https://www.threads.com/@inkacalinka/post/DdTeQxvm6F7)
 `status: watching` · `tags: prompt, photo-to-poster, collage, scrapbook, die-cut, short-prompt` · added 2026-11
 
