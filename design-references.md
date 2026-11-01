@@ -6,6 +6,13 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [百鬼曼荼羅 skull ukiyo-e series](https://www.threads.com/@takumi_3_22/post/DfNL9jrkzMi)
+`status: watching` · `tags: ukiyo-e, woodblock, skulls, poster, ai-generated, visual-pun` · added 2026-11
+
+A ten-image AI series from 一匠斎 / Isshosai (@takumi_3_22) that hides skulls inside classic woodblock print scenes: a great wave with a skull in its crest, a giant seated figure built from small skulls, and a snowy slope that turns out to be a skeleton.
+**Why I care:** Each image starts as a calm, familiar scene and then shows you the skull, so the idea works like a visual pun. The tall format and the same print texture and red seal hold the set together.
+**Notes:** **No images are saved here on purpose.** The artist's profile says the images are free for wallpapers and editing, but forbids redistribution, resale, and trademark registration, so open the post to see them. It doesn't share a prompt or name an image model.
+
 ### [Pumpkin village miniature](https://www.threads.com/@tanaka_tatsuya/post/DfJIREnoDeJ)
 `status: watching` · `tags: miniature, mitate, photography, halloween, visual-pun` · added 2026-11
 
