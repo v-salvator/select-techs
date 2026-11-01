@@ -6,6 +6,23 @@ Image models, prompting tools, and design assets.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Krums bakery brand identity](https://www.threads.com/@anita__designer/post/DfKu7-ijn2V)
+`status: watching` · `tags: style-reference, branding, packaging, typography, layout` · added 2026-11
+
+An AI-labelled brand identity by @anita__designer for a bakery called Krums, shown across cups, pastry boxes, posters, and a storefront.
+**Why I care:** The design looks great, and it holds together across every item. Worth copying: one pale sky-blue color with a heavy black wordmark, a mix of monospace, clean sans-serif, and red handwritten script, spec-sheet style product labels, and the logo cropped large off the edge.
+**Notes:** **No prompt is shared**, and the post doesn't say which AI tool was used, so this is a style reference only. It has no caption, just 10 images. To recreate the look, I could write a prompt from the notes above, then swap in my own brand and colors.
+
+<p>
+  <img src="assets/image-generation/krums-brand-1.webp" width="155" alt="Krums bakery brand example 1">
+  <img src="assets/image-generation/krums-brand-2.webp" width="155" alt="Krums bakery brand example 2">
+  <img src="assets/image-generation/krums-brand-3.webp" width="155" alt="Krums bakery brand example 3">
+  <img src="assets/image-generation/krums-brand-4.webp" width="155" alt="Krums bakery brand example 4">
+  <img src="assets/image-generation/krums-brand-5.webp" width="155" alt="Krums bakery brand example 5">
+</p>
+
+<sub>Examples from @anita__designer's post.</sub>
+
 ### [Taiwan vintage engraving poster prompt](https://www.threads.com/@jerry6151/post/DfLi2OdmGHm)
 `status: watching` · `tags: prompt, poster, travel, vintage, engraving, taiwan, reusable-template` · added 2026-11
 
