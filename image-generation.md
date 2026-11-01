@@ -6,6 +6,23 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Motion Haze portrait prompts](https://www.threads.com/@ecolab_studio/post/DfMFpmhEexo)
+`status: watching` · `tags: prompt, midjourney, portrait, motion-blur, cinematic, editorial` · added 2026-11
+
+A set of Midjourney portrait prompts by Eco Lab | Studio (@ecolab_studio) built around long-exposure blur: heads smeared into ghostly trails, faces half lost in haze, and sharp figures against streaks of city light.
+**Why I care:** Each prompt spells out exactly what stays sharp and what blurs, instead of just asking for "motion blur". Most of the mood comes from that split, plus huge negative space and a restrained palette.
+**Notes:** Three prompts are printed on the carousel images, so swipe through the post to read them. They use `--ar 4:5`, and two also set `--v 8.2`, `--hd`, `--stylize` at 300 to 350, and several `--sref` codes, which do a lot of the styling. The last slide says to comment to get all the prompts, so the post may not show every one. Reuse the structure with your own subject rather than the age and appearance details written into them.
+
+<p>
+  <img src="assets/image-generation/motion-haze-1.webp" width="155" alt="Motion Haze portrait example 1">
+  <img src="assets/image-generation/motion-haze-2.webp" width="155" alt="Motion Haze portrait example 2">
+  <img src="assets/image-generation/motion-haze-3.webp" width="155" alt="Motion Haze portrait example 3">
+  <img src="assets/image-generation/motion-haze-4.webp" width="155" alt="Motion Haze portrait example 4">
+  <img src="assets/image-generation/motion-haze-5.webp" width="155" alt="Motion Haze portrait example 5">
+</p>
+
+<sub>AI-generated examples from @ecolab_studio's post, using the slides without text.</sub>
+
 ### [Taiwan vintage engraving poster prompt](https://www.threads.com/@jerry6151/post/DfLi2OdmGHm)
 `status: watching` · `tags: prompt, poster, travel, vintage, engraving, taiwan, reusable-template` · added 2026-11
 
