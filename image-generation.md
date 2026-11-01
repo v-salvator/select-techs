@@ -6,6 +6,21 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Naive folk illustration prompt](https://www.threads.com/@inkacalinka/post/DeBxUkkG2RL)
+`status: watching` · `tags: prompt, photo-to-poster, folk-art, crayon, naive, side-by-side` · added 2026-11
+
+A prompt by michelle (@inkacalinka) for a 4:3 side-by-side poster that redraws a photo as a charming, naive folk illustration with crayon texture, flattened space, and a few bright spot colors.
+**Why I care:** It tells the model to leave things out instead of tracing the photo, so the drawing retells the scene with some humor. The dark areas stay scratchy, which is what makes it look hand-drawn.
+**Notes:** Upload a photo and paste the prompt. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in Simplified Chinese).
+
+<p>
+  <img src="assets/image-generation/naive-folk-1.webp" width="190" alt="Naive crayon drawing of Tokyo Tower">
+  <img src="assets/image-generation/naive-folk-2.webp" width="190" alt="Naive crayon drawing of a dog in a knitted sheep outfit">
+  <img src="assets/image-generation/naive-folk-3.webp" width="190" alt="Naive crayon drawing of a river valley">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Side-by-side paper illustration prompt](https://www.threads.com/@inkacalinka/post/DeOuirQG5hs)
 `status: watching` · `tags: prompt, photo-to-poster, gouache, side-by-side, everyday, no-text` · added 2026-11
 
