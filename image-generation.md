@@ -6,6 +6,23 @@ Image models, prompting tools, and design assets.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Frosted glass photo poster prompt](https://www.threads.com/@emersonigpost/post/DewTH-Tibw0)
+`status: watching` · `tags: prompt, photo-to-poster, frosted-glass, abstract, editorial, pastel` · added 2026-11
+
+A GPT prompt by @emersonigpost that turns each uploaded photo into a 3:4 poster: the original photo on top, and an abstract version below made of translucent frosted-glass layers, soft blur, bright airy colors, and small editorial type.
+**Why I care:** It makes everyday photos look like exhibition posters, even dull subjects like a fuel pump or a construction site. The key idea is selective blur: some areas stay sharp and others look like they're behind matte glass, instead of blurring everything.
+**Notes:** Copy the prompt and upload photos. It handles several at once and outputs one poster per photo. The author says it works best on photos with lots of edges and shapes, like furniture and windows, and won't help out-of-focus shots. The full prompt is in the second post of the thread (in English).
+
+<p>
+  <img src="assets/image-generation/frosted-glass-1.webp" width="155" alt="Frosted glass poster example 1">
+  <img src="assets/image-generation/frosted-glass-2.webp" width="155" alt="Frosted glass poster example 2">
+  <img src="assets/image-generation/frosted-glass-3.webp" width="155" alt="Frosted glass poster example 3">
+  <img src="assets/image-generation/frosted-glass-4.webp" width="155" alt="Frosted glass poster example 4">
+  <img src="assets/image-generation/frosted-glass-5.webp" width="155" alt="Frosted glass poster example 5">
+</p>
+
+<sub>Examples from @emersonigpost's post, cropped to the generated half. The source photos are from Pexels.</sub>
+
 ### [mono-color-skill](https://github.com/yanliudesign/mono-color-skill)
 `status: watching` · `tags: agent-skill, claude-code, editorial-design, poster, risograph, halftone, packaging` · added 2026-11
 
