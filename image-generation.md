@@ -6,6 +6,22 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Loose Watercolor Drift prompt](https://www.threads.com/@azed_ai/post/DfMlPyrmyfP)
+`status: watching` · `tags: prompt, text-to-image, watercolor, wet-on-wet, minimal, short-prompt` · added 2026-11
+
+A one-line text-to-image prompt by Amira Zairi (@azed_ai) that paints any subject as a loose watercolor wash, with big brushstrokes, bleeding pigment, and no outlines on a white background.
+**Why I care:** It's a template with a single slot for the subject, and it reaches the look by removing things: little detail, simple forms, no linework. The figure dissolves into paint at the edges, so the empty paper does a lot of the work.
+**Notes:** Swap in a subject and paste the prompt. Unlike the photo-to-poster prompts here, it needs no upload. The post doesn't say which image model it was made for. The full prompt is in the post (in English).
+
+<p>
+  <img src="assets/image-generation/watercolor-drift-1.webp" width="170" alt="Robed figure with a staff in teal watercolor">
+  <img src="assets/image-generation/watercolor-drift-2.webp" width="170" alt="Woman in a kimono with a fan in loose watercolor">
+  <img src="assets/image-generation/watercolor-drift-3.webp" width="170" alt="Ballerina in red watercolor">
+  <img src="assets/image-generation/watercolor-drift-4.webp" width="170" alt="Galloping horse in indigo watercolor">
+</p>
+
+<sub>AI-generated examples from @azed_ai's post.</sub>
+
 ### [Geometric deconstruction poster prompt](https://www.threads.com/@inkacalinka/post/DdDHrkclL7P)
 `status: watching` · `tags: prompt, photo-to-poster, geometric, cut-paper, modernist, editorial` · added 2026-11
 
