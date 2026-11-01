@@ -6,6 +6,20 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Someone's Home lamp poster](https://www.threads.com/@jiaan.anan/post/DfKgAcMo_gX)
+`status: watching` · `tags: style-reference, illustration, poster, color, day-night, motion` · added 2026-11
+
+A Halloween illustration by @jiaan.anan, a freelance graphic designer in brand and packaging work: three retro table lamps on a warm flat background, which switch on at night and reveal ghost cats in the dark.
+**Why I care:** A clever idea built on one simple change. The same layout works twice, with the day version in warm flat color and the night version showing glow and hidden characters. The grainy texture and restrained type keep it feeling handmade.
+**Notes:** **Style reference only.** There's no prompt, and the post isn't labelled as AI. The post also has an 8-second video, so open the link to see it move. The day-to-night reveal could work for a poster pair, a hover effect, or a short animation.
+
+<p>
+  <img src="assets/design-references/someones-home-1.webp" width="200" alt="Someone's Home lamp poster, day version">
+  <img src="assets/design-references/someones-home-2.webp" width="200" alt="Someone's Home lamp poster, night version">
+</p>
+
+<sub>Artwork © Jiaan (@jiaan.anan), shown as small thumbnails for reference.</sub>
+
 ### [Krums bakery brand identity](https://www.threads.com/@anita__designer/post/DfKu7-ijn2V)
 `status: watching` · `tags: style-reference, branding, packaging, typography, layout` · added 2026-11
 
