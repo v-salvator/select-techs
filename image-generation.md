@@ -6,6 +6,22 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Hard-edged geometric poster prompt](https://www.threads.com/@inkacalinka/post/DdYqN5tG9E9)
+`status: watching` · `tags: prompt, photo-to-poster, geometric, flat, risograph, editorial` · added 2026-11
+
+A prompt by michelle (@inkacalinka) that redraws a photo below itself as hard-edged flat art made of triangles, rectangles, and arcs, with a palette of 5 to 6 colors from the photo and small archival-style type.
+**Why I care:** It explains how small the type should stay, which is the part most poster prompts get wrong. About 60% of the artwork is kept as empty paper, so it feels calm rather than busy.
+**Notes:** Upload a photo and paste the prompt. It suits structured subjects like buildings and street scenes, and it can also handle pets. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in English).
+
+<p>
+  <img src="assets/image-generation/hard-geometric-1.webp" width="170" alt="Traffic light flower planter in flat geometric art">
+  <img src="assets/image-generation/hard-geometric-2.webp" width="170" alt="Venice in flat geometric art">
+  <img src="assets/image-generation/hard-geometric-3.webp" width="170" alt="Ginkgo street in flat geometric art">
+  <img src="assets/image-generation/hard-geometric-4.webp" width="170" alt="Alpine village in flat geometric art">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Second World photo poster prompt](https://www.threads.com/@inkacalinka/post/Ddqm8Alm9e1)
 `status: watching` · `tags: prompt, photo-to-poster, concept, line-art, visual-metaphor, reusable-template` · added 2026-11
 
