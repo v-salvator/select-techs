@@ -39,7 +39,7 @@ Daily food illustrations by Finn (@archfinn_): one full-color dessert in the cen
 ### [Chance and Destiny tattoo flash](https://www.threads.com/@da.gomin/post/DfMq2pMmX1B)
 `status: watching` · `tags: tattoo, flash, illustration, retro, character, lettering` · added 2026-11
 
-A 2026 tattoo flash set by Taiwanese tattoo artist 大過敏 (@da.gomin): two archers whose beaded arrows spell CHANCE and DESTINY, a flower with letter beads on its stem, a small blue creature hugging an apple, and a cupid with a LOVE ME banner.
+A 2026 tattoo flash set by tattoo artist 大過敏 (@da.gomin): two archers whose beaded arrows spell CHANCE and DESTINY, a flower with letter beads on its stem, a small blue creature hugging an apple, and a cupid with a LOVE ME banner.
 **Why I care:** The thick wobbly outlines and a tight palette of coral, blue, and green make very different subjects feel like one set. The words are part of the drawing, not captions added on top.
 **Notes:** It's human-made work with no prompt. The post title plays on the Chance and Destiny cards in Monopoly, which is a nice example of one small idea carrying a whole set. The first image is the full sheet, and the rest are single designs.
 
