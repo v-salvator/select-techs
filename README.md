@@ -11,7 +11,8 @@ My personal, curated list of repos, tools, and tech stacks: what I use now, what
 | [DevOps](devops.md) | CI/CD, hosting, containers, infra, monitoring |
 | [Code review](code-review.md) | Review tools, linters, static analysis, AI reviewers |
 | [Video editing](video-editing.md) | Editors, motion graphics, programmatic video, launch films |
-| [Image generation](image-generation.md) | Image models, prompting tools, design assets |
+| [Image generation](image-generation.md) | Image models, prompts, skills, and tools you can generate with |
+| [Design references](design-references.md) | Design work to learn from, with no reusable prompt |
 | [3D rendering](3d-rendering.md) | 3D engines, WebGL, modeling, rendering pipelines |
 
 ## Status legend
