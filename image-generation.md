@@ -6,6 +6,23 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Impasto diorama photo poster prompt](https://www.threads.com/@inkacalinka/post/DfMh_ZpmxHo)
+`status: watching` · `tags: prompt, photo-to-poster, impasto, oil-paint, diorama, editorial` · added 2026-11
+
+A prompt by michelle (@inkacalinka) that turns each uploaded photo into a 3:4 poster: the photo on top, and below it the same scene rebuilt as a small sculptural landscape of thick palette-knife paint on warm white paper.
+**Why I care:** The paint has real volume, so the result feels like a tiny object sitting on the page rather than a filter. It's especially good for autumn scenes, which is what the post uses it for.
+**Notes:** Upload a photo and paste the prompt. It works on people, animals, plants, buildings, and scenes, and adds a short English title. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in Simplified Chinese).
+
+<p>
+  <img src="assets/image-generation/impasto-diorama-1.webp" width="155" alt="Red gate with autumn trees in thick paint">
+  <img src="assets/image-generation/impasto-diorama-2.webp" width="155" alt="Rainy alley in thick paint">
+  <img src="assets/image-generation/impasto-diorama-3.webp" width="155" alt="Small white dog and leaves in thick paint">
+  <img src="assets/image-generation/impasto-diorama-4.webp" width="155" alt="Tram by the sea in Kamakura in thick paint">
+  <img src="assets/image-generation/impasto-diorama-5.webp" width="155" alt="Autumn valley village in thick paint">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Long-exposure light trail silhouette prompt](https://www.threads.com/@bibanskiy/post/DfM8BNhiL68)
 `status: watching` · `tags: prompt, portrait, silhouette, long-exposure, cinematic, film, identity-reference` · added 2026-11
 
