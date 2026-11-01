@@ -6,6 +6,22 @@ Image models, prompting tools, and design assets.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Modern Eastern culture poster prompt](https://www.threads.com/@orisynthai/post/DdW5C9wAdn7)
+`status: watching` · `tags: prompt, poster, editorial, paper-collage, chinese-typography` · added 2026-11
+
+A fill-in-the-blanks prompt by @orisynthai for cultural event posters in a modern Eastern editorial style. It sets huge torn-paper color fields against one tiny story scene, where people and props take up only about 2 to 5% of the image.
+**Why I care:** The results look like real design-studio work, not typical AI posters. It gives clear layout rules: one large color shape that still reads at feed size, a small accent color, restrained serif titles, and asymmetric layouts with lots of white space. Those rules are worth reusing in my own design prompts.
+**Notes:** Fill in the eight slots: theme, title, main color, micro-scene, character action, cultural elements, event info, and aspect ratio. The post says it was made with "image-2.5". The full prompt runs across the second and third posts of the thread (written in Simplified Chinese).
+
+<p>
+  <img src="assets/image-generation/eastern-poster-1.webp" width="140" alt="Eastern culture poster example 1">
+  <img src="assets/image-generation/eastern-poster-2.webp" width="140" alt="Eastern culture poster example 2">
+  <img src="assets/image-generation/eastern-poster-3.webp" width="140" alt="Eastern culture poster example 3">
+  <img src="assets/image-generation/eastern-poster-4.webp" width="140" alt="Eastern culture poster example 4">
+</p>
+
+<sub>Examples from @orisynthai's post.</sub>
+
 ### [Hand-drawn manga comparison poster prompt](https://www.threads.com/@jenniferzhao08/post/De8X3P3Dpey)
 `status: watching` · `tags: prompt, photo-to-illustration, manga, poster, limited-palette` · added 2026-11
 
