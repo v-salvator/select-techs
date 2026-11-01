@@ -6,6 +6,22 @@ Image models, prompting tools, and design assets.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Taiwan vintage engraving poster prompt](https://www.threads.com/@jerry6151/post/DfLi2OdmGHm)
+`status: watching` · `tags: prompt, poster, travel, vintage, engraving, taiwan, reusable-template` · added 2026-11
+
+A template prompt by @jerry6151 for a series of vintage travel posters of Taiwan: fine engraved line art of a landmark in muted greens on aged ivory paper, with coordinates, a small red seal, and magazine-style type.
+**Why I care:** It's a ready-made poster set for Taiwan, with labels in both Chinese and English. The fixed palette, layout, and series tagline keep every poster matching, so it's a good example of how to build a consistent series with one prompt.
+**Notes:** Fill in the city, the landmark, and their English names. The series text is hard-coded to Taiwan, so change those lines to use it for other places. The post doesn't say which image model it was made for. Check the coordinates and Chinese text in each result, since AI can get small details wrong. The full prompt is in the second post of the thread (in Traditional Chinese).
+
+<p>
+  <img src="assets/image-generation/taiwan-engraving-1.webp" width="140" alt="Taiwan vintage engraving poster example 1">
+  <img src="assets/image-generation/taiwan-engraving-2.webp" width="140" alt="Taiwan vintage engraving poster example 2">
+  <img src="assets/image-generation/taiwan-engraving-3.webp" width="140" alt="Taiwan vintage engraving poster example 3">
+  <img src="assets/image-generation/taiwan-engraving-4.webp" width="140" alt="Taiwan vintage engraving poster example 4">
+</p>
+
+<sub>Examples from @jerry6151's post.</sub>
+
 ### [Frosted glass photo poster prompt](https://www.threads.com/@emersonigpost/post/DewTH-Tibw0)
 `status: watching` · `tags: prompt, photo-to-poster, frosted-glass, abstract, editorial, pastel` · added 2026-11
 
