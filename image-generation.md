@@ -6,6 +6,21 @@ Image models, prompting tools, and design assets.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [mono-color-skill](https://github.com/yanliudesign/mono-color-skill)
+`status: watching` · `tags: agent-skill, claude-code, editorial-design, poster, risograph, halftone, packaging` · added 2026-11
+
+A Claude Code skill by Yan Liu that turns a theme, sentence, object, or photo into a printed-look editorial image: one or two inks on paper, halftone or risograph texture, lots of empty space, and restrained typography. It suits posters, zines, packaging, and portraits.
+**Why I care:** It's a full visual system instead of a one-off prompt, with reference files for type, color, and layout, so an agent can keep a consistent style across a whole set. It's also a good model for how to package my own design style as a skill.
+**Notes:** Install with `git clone https://github.com/yanliudesign/mono-color-skill.git ~/.claude/skills/mono-color`, then restart Claude Code. It returns the image, the exact prompt, and a short recipe. The code is MIT, but the example images aren't: [ASSET-LICENSE.md](https://github.com/yanliudesign/mono-color-skill/blob/main/ASSET-LICENSE.md) only allows viewing and linking, so they're shown here from the author's repo and not copied. Found via [@prompt_case on Threads](https://www.threads.com/@prompt_case/post/Dcs6FiCHCn3). ~3.5k stars.
+
+<p>
+  <img src="https://raw.githubusercontent.com/yanliudesign/mono-color-skill/main/examples/example-cycling.png" width="190" alt="Summer cycling editorial print">
+  <img src="https://raw.githubusercontent.com/yanliudesign/mono-color-skill/main/examples/example-zebra.png" width="190" alt="Zebra field-study editorial print">
+  <img src="https://raw.githubusercontent.com/yanliudesign/mono-color-skill/main/examples/example-chair.png" width="190" alt="Chair zine editorial print">
+</p>
+
+<sub>Images © Yan Liu, loaded directly from the author's repo.</sub>
+
 ### [Floating cutaway city poster prompt](https://www.threads.com/@naik_nelofar/post/DdREHihCcVw)
 `status: watching` · `tags: prompt, poster, architecture, 3d-style, miniature, reusable-template` · added 2026-11
 

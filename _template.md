@@ -16,3 +16,4 @@ One line on what it is.
 - **added:** when you added the entry, so you know how old the note is
 - For `dropped`, say why you moved on and what you use instead.
 - For `image-generation.md`, add 1 to 5 example images in `assets/image-generation/`. Crop out real photos of people and credit the source.
+- Check the license first. If it forbids copying the images, load them from the source with a link and don't save copies.
