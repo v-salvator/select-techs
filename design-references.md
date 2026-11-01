@@ -6,6 +6,21 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Culinary Blueprints daily sketches](https://www.threads.com/@archfinn_/post/DfL4c7dEmHU)
+`status: watching` · `tags: illustration, food, infographic, hand-lettering, paper-texture, editorial` · added 2026-11
+
+Daily food illustrations by Finn (@archfinn_): one full-color dessert in the center of textured paper, circled by blue ink sketches of its ingredients, with handwritten tasting notes and a short description.
+**Why I care:** It's a clear way to explain a dish at a glance. Only the food has color, so the eye lands there first, and the blue sketches stay in the background as supporting detail.
+**Notes:** It's an illustrator's work with no prompt. The same blueprint layout could work for menus, packaging, or product breakdowns. Ingredient labels are also shown in the dish's own language, which adds a sense of place. These three are Es Dawet Telasih, Kakigōri, and Coconut Ice Cream.
+
+<p>
+  <img src="assets/design-references/culinary-blueprints-1.webp" width="190" alt="Es Dawet Telasih illustration with ingredient sketches">
+  <img src="assets/design-references/culinary-blueprints-2.webp" width="190" alt="Kakigori illustration with ingredient sketches">
+  <img src="assets/design-references/culinary-blueprints-3.webp" width="190" alt="Coconut Ice Cream illustration with ingredient sketches">
+</p>
+
+<sub>Artwork © Finn (@archfinn_), shown as small thumbnails for reference.</sub>
+
 ### [Chance and Destiny tattoo flash](https://www.threads.com/@da.gomin/post/DfMq2pMmX1B)
 `status: watching` · `tags: tattoo, flash, illustration, retro, character, lettering` · added 2026-11
 
