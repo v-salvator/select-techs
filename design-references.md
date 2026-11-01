@@ -6,6 +6,20 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Clean food and drink menu layouts](https://www.threads.com/@jagg3rbomb/post/DfK5fBlEq7T)
+`status: watching` · `tags: style-reference, menu, food-photography, layout, typography, cafe` · added 2026-11
+
+Three examples of clean, photo-led menus, collected by @jagg3rbomb in a post looking for a food photographer in Bali.
+**Why I care:** A simple recipe for menus that feel premium: top-down or cut-out product shots on a plain background, hard natural shadows, plenty of space, and small tidy type. Each item gets the same angle and size, so the page reads like a neat grid or a card set.
+**Notes:** **Style reference only.** The post is a hiring request, not a design showcase, and it doesn't credit the original designers, so I don't know who made these. The first image is a menu for the brand Earl of East. The third image in the post, a cocktail menu, has a good layout but is left out here because it has a "free font" QR code on it. The replies include portfolios from food photographers.
+
+<p>
+  <img src="assets/design-references/clean-menu-1.webp" width="200" alt="Cafe product menu with a neat grid of cups and cookies">
+  <img src="assets/design-references/clean-menu-2.webp" width="200" alt="Drink menu cards laid out on a stone surface">
+</p>
+
+<sub>From @jagg3rbomb's post, original designers not credited there. Shown as small thumbnails for reference.</sub>
+
 ### [Geometric pumpkin still life (かぼちゃ)](https://www.threads.com/@dada_610/post/DfKARIoiYRm)
 `status: watching` · `tags: style-reference, illustration, geometric, still-life, color, texture` · added 2026-11
 
