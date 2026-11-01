@@ -6,6 +6,21 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Pastel vector travel poster prompt](https://www.threads.com/@inkacalinka/post/DfB59FhG2rw)
+`status: watching` · `tags: prompt, photo-to-poster, flat-vector, travel, pastel, editorial` · added 2026-11
+
+A prompt by michelle (@inkacalinka) that redraws a photo as a soft flat-vector travel poster in airy pale blues and creams, with a short title and tagline.
+**Why I care:** It asks for a fresh layout built around each photo, so a set of posters avoids looking like one template with the names swapped.
+**Notes:** Upload a photo and paste the prompt. It adds 2 to 4 supporting details that say something about the place, and it keeps pink to tiny accents. The post doesn't say which image model it was made for. Check any Japanese or place-name text in the result. The full prompt is in the second post of the thread (in Simplified Chinese).
+
+<p>
+  <img src="assets/image-generation/pastel-vector-1.webp" width="190" alt="Summer clouds over a town, flat vector">
+  <img src="assets/image-generation/pastel-vector-2.webp" width="190" alt="Tokyo Tower afternoon, flat vector">
+  <img src="assets/image-generation/pastel-vector-3.webp" width="190" alt="Lake Garda, flat vector">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Paper cover illustration prompt](https://www.threads.com/@inkacalinka/post/Dc7fl2ulBQ5)
 `status: watching` · `tags: prompt, photo-to-poster, hand-drawn, negative-space, editorial, reusable-template` · added 2026-11
 
