@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Ancestors cyberpunk portrait series](https://www.threads.com/@feedingthegods/post/DfMp2K0jft-)
+`status: watching` · `tags: illustration, cyberpunk, cyborg, poster, symmetry, limited-palette` · added 2026-11
+
+A 20-image series from FeedingTheGods (@feedingthegods) of stern, repeated heads over dense circuit-like machinery, drawn with fine engraved lines in cream, gray, and red.
+**Why I care:** Twenty variations stay together as one series because the rules barely change: a central face, copies at its sides, strict symmetry, and red as the only strong color.
+**Notes:** The post doesn't say how the images were made and shares no prompt. I saved five of the twenty.
+
+<p>
+  <img src="assets/design-references/ancestors-1.webp" width="155" alt="Head with red goggles between two profiles">
+  <img src="assets/design-references/ancestors-2.webp" width="155" alt="Pale repeated heads over red circuitry">
+  <img src="assets/design-references/ancestors-3.webp" width="155" alt="Older man with red glasses and matching profiles">
+  <img src="assets/design-references/ancestors-4.webp" width="155" alt="Spiked pale masks with red eyes">
+  <img src="assets/design-references/ancestors-5.webp" width="155" alt="Rows of heads with red glasses">
+</p>
+
+<sub>Images © FeedingTheGods (@feedingthegods), shown as small thumbnails for reference.</sub>
+
 ### [Hantum Architectural Studio branding](https://www.threads.com/@imagenewpic/post/DfNLbBGE_C2)
 `status: watching` · `tags: branding, logo, architecture, monochrome, grid-construction, editorial` · added 2026-11
 
