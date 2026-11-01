@@ -6,6 +6,21 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Bastards Dancing to the Black Hit of Space](https://www.threads.com/@adorable_bastards/post/DfMKdguDW9X)
+`status: watching` · `tags: poster, typography, experimental-type, red-black, ai-generated, editorial` · added 2026-11
+
+A set of AI poster designs from Max (@adorable_bastards): dark portraits under blocky, almost unreadable red type, with fine lines of small text around the edges.
+**Why I care:** The red letterforms work more like shapes than words, and the figures overlap them, which adds depth to a flat layout. The contrast between huge blocks and tiny text does most of the work.
+**Notes:** The post doesn't share a prompt or name an image model. The account's profile says all its images are AI-generated. I saved three of the four.
+
+<p>
+  <img src="assets/design-references/black-hit-1.webp" width="190" alt="Portrait under blocky red type">
+  <img src="assets/design-references/black-hit-2.webp" width="190" alt="Dancer over blocky red type">
+  <img src="assets/design-references/black-hit-3.webp" width="190" alt="Reclining figure with vertical red bars">
+</p>
+
+<sub>AI-generated examples from @adorable_bastards' post.</sub>
+
 ### [Ancestors cyberpunk portrait series](https://www.threads.com/@feedingthegods/post/DfMp2K0jft-)
 `status: watching` · `tags: illustration, cyberpunk, cyborg, poster, symmetry, limited-palette` · added 2026-11
 
