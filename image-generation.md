@@ -6,6 +6,38 @@ Image models, prompting tools, and design assets.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Minimalist travel poster prompt](https://www.threads.com/@dreamy.designs.ai/post/DcwUmGuGsxr)
+`status: watching` · `tags: prompt, poster, travel, flat-illustration, vintage, reusable-template` · added 2026-11
+
+A short template prompt by @dreamy.designs.ai for vintage-style city posters: bold outlines, flat color, lots of empty space, small human figures for scale, and the place name in uppercase typewriter lettering.
+**Why I care:** The easiest prompt here to reuse. Swap the three slots and it should hold for any location, which makes it useful for a matching series.
+**Notes:** Slots: `[PLACE]`, `[COLOR_PALETTE]`, and `["PLACE_NAME"]`. Made with GPT Image 2, according to the post's label. The prompt ends with Midjourney-style `--ar 2:3 --raw` flags, which other models may treat as plain text. The full prompt is in the second post of the thread (in English). The third post promotes the author's free PDF of more prompts.
+
+<p>
+  <img src="assets/image-generation/travel-poster-1.webp" width="120" alt="Travel poster example 1">
+  <img src="assets/image-generation/travel-poster-2.webp" width="120" alt="Travel poster example 2">
+  <img src="assets/image-generation/travel-poster-3.webp" width="120" alt="Travel poster example 3">
+  <img src="assets/image-generation/travel-poster-4.webp" width="120" alt="Travel poster example 4">
+  <img src="assets/image-generation/travel-poster-5.webp" width="120" alt="Travel poster example 5">
+</p>
+
+<sub>Examples from @dreamy.designs.ai's post.</sub>
+
+### [Japan scenery poster style](https://www.threads.com/@ryobiyori/post/Dc7b9C8E6-m)
+`status: watching` · `tags: style-reference, poster, japan, limited-palette, photo-to-poster` · added 2026-11
+
+Real travel photos turned into retro screen-print posters by @ryobiyori using ChatGPT: navy, red, and mustard on cream paper, with geometric shapes and a big place name at the bottom.
+**Why I care:** A striking way to turn my own travel photos into a matching poster series. The post went viral, with over 500k views.
+**Notes:** **No prompt is shared.** The author says they're still refining it and may explain later, so this entry is a style reference only. To try it, I could write my own prompt from the look above, or combine it with the [travel poster prompt](#minimalist-travel-poster-prompt). There's also a follow-up autumn version in the replies.
+
+<p>
+  <img src="assets/image-generation/japan-poster-1.webp" width="140" alt="Japan scenery poster example 1">
+  <img src="assets/image-generation/japan-poster-2.webp" width="140" alt="Japan scenery poster example 2">
+  <img src="assets/image-generation/japan-poster-3.webp" width="140" alt="Japan scenery poster example 3">
+</p>
+
+<sub>Examples from @ryobiyori's post, cropped to the generated poster.</sub>
+
 ### [Modern Eastern culture poster prompt](https://www.threads.com/@orisynthai/post/DdW5C9wAdn7)
 `status: watching` · `tags: prompt, poster, editorial, paper-collage, chinese-typography` · added 2026-11
 
