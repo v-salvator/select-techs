@@ -6,6 +6,22 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Paper cover illustration prompt](https://www.threads.com/@inkacalinka/post/Dc7fl2ulBQ5)
+`status: watching` · `tags: prompt, photo-to-poster, hand-drawn, negative-space, editorial, reusable-template` · added 2026-11
+
+A popular prompt by michelle (@inkacalinka) that pairs each photo with a tiny hand-drawn version on rough paper, like the cover of an independent art book.
+**Why I care:** The whole idea is a small subject in a lot of empty space. Limiting the palette to four colors from the photo keeps the drawing tied to the picture above it.
+**Notes:** Upload a photo and paste the prompt. It outputs one poster per photo. The author replied that they ran it on aienhancer.ai. There's also a [shorter version](https://www.threads.com/@inkacalinka/post/DddAv77FDu5) of the same prompt that's easier to edit. Both are in the second post of their threads (in English).
+
+<p>
+  <img src="assets/image-generation/paper-cover-1.webp" width="170" alt="Tiny swimmers on pale paper">
+  <img src="assets/image-generation/paper-cover-2.webp" width="170" alt="Tiny snowy house on pale paper">
+  <img src="assets/image-generation/paper-cover-3.webp" width="170" alt="Tiny street scene in London on pale paper">
+  <img src="assets/image-generation/paper-cover-4.webp" width="170" alt="Tiny park scene in Rome on pale paper">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Impasto diorama photo poster prompt](https://www.threads.com/@inkacalinka/post/DfMh_ZpmxHo)
 `status: watching` · `tags: prompt, photo-to-poster, impasto, oil-paint, diorama, editorial` · added 2026-11
 
