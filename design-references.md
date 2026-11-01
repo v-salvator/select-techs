@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Negative space logos](https://www.threads.com/@malinacosmica/post/DfKJHISCiQ2)
+`status: watching` · `tags: logo, negative-space, branding, black-and-white, marks` · added 2026-11
+
+Five black logo marks by logo designer Malina Cosmica (@malinacosmica) on a warm off-white background, where the cut-out shapes do the work: a cross inside linked bars, a name carved through an afro silhouette, a nail shape holding lettering and stripes, and a hand against bold stripes.
+**Why I care:** Each mark gets a lot from a single color. The empty space reads as a second shape, so the logo holds up small and stays memorable without gradients or effects.
+**Notes:** It's human-made work with no prompt, and the post is only a title and the images. Try the same trick when a logo feels too busy: remove a shape instead of adding one, then check it still reads at favicon size.
+
+<p>
+  <img src="assets/design-references/negative-space-logos-1.webp" width="155" alt="Negative space logo example 1">
+  <img src="assets/design-references/negative-space-logos-2.webp" width="155" alt="Negative space logo example 2">
+  <img src="assets/design-references/negative-space-logos-3.webp" width="155" alt="Negative space logo example 3">
+  <img src="assets/design-references/negative-space-logos-4.webp" width="155" alt="Negative space logo example 4">
+  <img src="assets/design-references/negative-space-logos-5.webp" width="155" alt="Negative space logo example 5">
+</p>
+
+<sub>Artwork © Malina Cosmica (@malinacosmica), shown as small thumbnails for reference.</sub>
+
 ### [Japanese typography posters](https://www.threads.com/@noydesign_minami/post/DfKKrjYidEZ)
 `status: watching` · `tags: style-reference, typography, kanji, poster, black-and-white, geometric` · added 2026-11
 
