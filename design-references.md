@@ -11,7 +11,13 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 A still life of a pumpkin slice by 六角堂DADA (@dada_610), an illustrator in Tokyo. Everything, even the seeds, is built from angular flat planes that overlap in glowing orange against a dark navy and brown background.
 **Why I care:** It shows how far simple geometry can go. Nothing is curved, yet it still reads as a soft, real pumpkin. The offset color layers, like misaligned print plates, plus a paper-grain texture give it depth and a printed feel.
-**Notes:** **Style reference only.** There's no prompt, and the post isn't labelled as AI. Open the link to see the artwork; it isn't copied here because it's the artist's own single signed piece.
+**Notes:** **Style reference only.** There's no prompt, and the post isn't labelled as AI.
+
+<p>
+  <img src="assets/design-references/pumpkin-still-life.webp" width="260" alt="Geometric pumpkin still life by 六角堂DADA">
+</p>
+
+<sub>Artwork © 六角堂DADA (@dada_610), shown as a small thumbnail for reference.</sub>
 
 ### [Someone's Home lamp poster](https://www.threads.com/@jiaan.anan/post/DfKgAcMo_gX)
 `status: watching` · `tags: style-reference, illustration, poster, color, day-night, motion` · added 2026-11

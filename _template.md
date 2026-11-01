@@ -16,4 +16,5 @@ One line on what it is.
 - **added:** when you added the entry, so you know how old the note is
 - For `dropped`, say why you moved on and what you use instead.
 - For `image-generation.md` and `design-references.md`, add 1 to 5 example images in the matching `assets/` folder. Crop out real photos of people and credit the source.
+- For an artist's own work, use small thumbnails (about 400px wide) and credit the artist.
 - Check the license first. If it forbids copying the images, load them from the source with a link and don't save copies.
