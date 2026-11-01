@@ -6,6 +6,22 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Fluted glass photo poster prompt](https://www.threads.com/@inkacalinka/post/De092Zwm6T_)
+`status: watching` · `tags: prompt, photo-to-poster, fluted-glass, refraction, editorial, short-prompt` · added 2026-11
+
+A short prompt by michelle (@inkacalinka) that shows a photo on top and the same scene below, seen through ribbed fluted glass with vertical streaks of refracted light.
+**Why I care:** It's only a few lines, so it's easy to adapt. The clever part is asking for softer distortion at the focal point and stronger distortion at the edges, which keeps the subject readable.
+**Notes:** Upload a photo and paste the prompt. It suits strong colors and simple shapes, like sunsets, sails, and silhouettes. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in English).
+
+<p>
+  <img src="assets/image-generation/fluted-glass-1.webp" width="170" alt="Tree and sunset behind fluted glass">
+  <img src="assets/image-generation/fluted-glass-2.webp" width="170" alt="Red sailboat behind fluted glass">
+  <img src="assets/image-generation/fluted-glass-3.webp" width="170" alt="Cat silhouette at sunset behind fluted glass">
+  <img src="assets/image-generation/fluted-glass-4.webp" width="170" alt="Running figure behind fluted glass">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Pastel vector travel poster prompt](https://www.threads.com/@inkacalinka/post/DfB59FhG2rw)
 `status: watching` · `tags: prompt, photo-to-poster, flat-vector, travel, pastel, editorial` · added 2026-11
 
