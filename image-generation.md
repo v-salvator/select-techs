@@ -6,6 +6,21 @@ Image models, prompting tools, and design assets.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Floating cutaway city poster prompt](https://www.threads.com/@naik_nelofar/post/DdREHihCcVw)
+`status: watching` · `tags: prompt, poster, architecture, 3d-style, miniature, reusable-template` · added 2026-11
+
+A template prompt by @naik_nelofar for a 4:5 architecture poster: a city built as a floating miniature model, sliced open to show subways, tunnels, and foundations underneath, on an ivory background with faint blueprint lines.
+**Why I care:** It looks far more expensive than a normal AI travel image, and the template should work for any city or country. The detailed cross-section makes it good for a poster series or a high-impact social post.
+**Notes:** Slots: `[CITY]`, `[COUNTRY]`, `[REGION]`, and the landmark or cultural feature. The post doesn't say which image model it was made for, and these examples have small blueprint labels worth checking for errors, since AI often gets fine text and facts wrong. The prompt is split across the author's replies (in English). Don't miss the last reply, which adds the cutaway effect.
+
+<p>
+  <img src="assets/image-generation/floating-city-1.webp" width="190" alt="Floating city poster example 1">
+  <img src="assets/image-generation/floating-city-2.webp" width="190" alt="Floating city poster example 2">
+  <img src="assets/image-generation/floating-city-3.webp" width="190" alt="Floating city poster example 3">
+</p>
+
+<sub>Examples from @naik_nelofar's post.</sub>
+
 ### [Macaron candy poster prompt](https://www.threads.com/@ryobiyori/post/DeENInEkwvV)
 `status: watching` · `tags: prompt, photo-to-illustration, poster, kawaii, pastel, travel` · added 2026-11
 
