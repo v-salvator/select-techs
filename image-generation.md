@@ -6,6 +6,22 @@ Image models, prompting tools, and design assets.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Macaron candy poster prompt](https://www.threads.com/@ryobiyori/post/DeENInEkwvV)
+`status: watching` · `tags: prompt, photo-to-illustration, poster, kawaii, pastel, travel` · added 2026-11
+
+A ChatGPT prompt by @ryobiyori that makes a side-by-side image: the real photo on the left, and a cute pastel version on the right, built from rounded color blocks that look like stickers or candy.
+**Why I care:** It's a very popular format (about 590k views) that turns ordinary travel photos into something shareable. The rules are precise: only five pastel colors, no sharp corners, white rounded outlines between shapes, and small smiling faces on the sun or clouds.
+**Notes:** It tells the model to keep any real sign text exactly as written. The poster title and "RYOBIYORI" branding in the examples aren't in the prompt excerpt I read, so expect to add my own title text. The full prompt is in the author's pinned reply (in Traditional Chinese), and only that reply has it, not the main post. Same author as the [Japan scenery poster style](#japan-scenery-poster-style).
+
+<p>
+  <img src="assets/image-generation/candy-poster-1.webp" width="140" alt="Macaron candy poster example 1">
+  <img src="assets/image-generation/candy-poster-2.webp" width="140" alt="Macaron candy poster example 2">
+  <img src="assets/image-generation/candy-poster-3.webp" width="140" alt="Macaron candy poster example 3">
+  <img src="assets/image-generation/candy-poster-4.webp" width="140" alt="Macaron candy poster example 4">
+</p>
+
+<sub>Examples from @ryobiyori's post, cropped to the generated poster.</sub>
+
 ### [Minimalist travel poster prompt](https://www.threads.com/@dreamy.designs.ai/post/DcwUmGuGsxr)
 `status: watching` · `tags: prompt, poster, travel, flat-illustration, vintage, reusable-template` · added 2026-11
 
