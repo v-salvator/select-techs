@@ -6,6 +6,20 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Journal collage poster prompt](https://www.threads.com/@inkacalinka/post/DdTeQxvm6F7)
+`status: watching` · `tags: prompt, photo-to-poster, collage, scrapbook, die-cut, short-prompt` · added 2026-11
+
+A short prompt by michelle (@inkacalinka) that cuts the subject out of a photo and places it on a handmade scrapbook page, with a sticker-style border, colored paper panels, torn notes, and small doodles.
+**Why I care:** It breaks the page into five numbered layers: subject, outline, scenery, base, and notes. That makes it easy to read, and easy to edit one layer at a time.
+**Notes:** Upload a photo and paste the prompt. The handwritten phrases tend to repeat between images, so edit them if you make a set. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in English).
+
+<p>
+  <img src="assets/image-generation/paper-collage-1.webp" width="190" alt="Cat in a bucket hat on a scrapbook page">
+  <img src="assets/image-generation/paper-collage-2.webp" width="190" alt="Cat in a frog hat on a scrapbook page">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Hard-edged geometric poster prompt](https://www.threads.com/@inkacalinka/post/DdYqN5tG9E9)
 `status: watching` · `tags: prompt, photo-to-poster, geometric, flat, risograph, editorial` · added 2026-11
 
