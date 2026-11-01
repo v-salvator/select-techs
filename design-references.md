@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Arbiter brand exploration](https://www.threads.com/@thebroadbrandings/post/DfNSDM3gZK_)
+`status: watching` · `tags: branding, logo, heraldry, blackletter, law-firm, editorial` · added 2026-11
+
+A brand exploration credited to [jky.design](http://jky.design/), featured by The Broad Brandings, for a real estate law firm with a medieval tilt: a heraldic lion, a blackletter-style wordmark, and landscape paintings of castles.
+**Why I care:** It takes "know your rights over your land" literally, so the castles and landscapes carry the idea of property. The medieval look could easily feel like a costume, but a lot of plain space and a warm, limited palette keep it serious.
+**Notes:** It works across billboards, letterhead, and even branded pencils, so it's a good example of how far one crest and one wordmark can go. The post calls it an exploration, so it may not be a real client.
+
+<p>
+  <img src="assets/design-references/arbiter-brand-1.webp" width="155" alt="Arbiter wordmark on a castle landscape painting">
+  <img src="assets/design-references/arbiter-brand-2.webp" width="155" alt="Arbiter billboard with a lion and a tagline">
+  <img src="assets/design-references/arbiter-brand-3.webp" width="155" alt="Heraldic lion crest in an oval">
+  <img src="assets/design-references/arbiter-brand-4.webp" width="155" alt="Arbiter letterhead">
+  <img src="assets/design-references/arbiter-brand-5.webp" width="155" alt="Three branded pencils">
+</p>
+
+<sub>Work credited to jky.design, from @thebroadbrandings' post, shown as small thumbnails for reference.</sub>
+
 ### [The Art of Pleats / 01](https://www.threads.com/@the.velth/post/DfNRRU_CF6V)
 `status: watching` · `tags: architecture, fashion, pleats, concrete, editorial, red-accent` · added 2026-11
 
