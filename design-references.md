@@ -6,6 +6,20 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Pumpkin village miniature](https://www.threads.com/@tanaka_tatsuya/post/DfJIREnoDeJ)
+`status: watching` · `tags: miniature, mitate, photography, halloween, visual-pun` · added 2026-11
+
+A Halloween piece from Tatsuya Tanaka (@tanaka_tatsuya), a Japanese miniature and mitate artist: a row of pumpkins turned into autumn hills, with tiny trees, a little house, and a witch and her cat standing beside a stem.
+**Why I care:** It shows how much a small change of scale can do. One tiny figure makes a pumpkin stem read as a tree trunk and the pumpkins read as a landscape you could walk through.
+**Notes:** It's a photographed handmade miniature with no prompt. Mitate means seeing one thing as another, which is a useful way to look for ideas: find a shape in an everyday object, then add one detail that changes how it reads.
+
+<p>
+  <img src="assets/design-references/pumpkin-houses-1.webp" width="190" alt="Tiny witch and cat beside a pumpkin stem, close view">
+  <img src="assets/design-references/pumpkin-houses-2.webp" width="190" alt="Row of pumpkins as autumn hills with tiny trees and a house">
+</p>
+
+<sub>Artwork © Tatsuya Tanaka 田中達也 (@tanaka_tatsuya), shown as small thumbnails for reference.</sub>
+
 ### [Mid-century geometric travel posters](https://www.threads.com/@reelscene_ai/post/DfKOyWyEkFf)
 `status: watching` · `tags: poster, travel, mid-century, geometric, ai-generated, midjourney` · added 2026-11
 
