@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Chance and Destiny tattoo flash](https://www.threads.com/@da.gomin/post/DfMq2pMmX1B)
+`status: watching` · `tags: tattoo, flash, illustration, retro, character, lettering` · added 2026-11
+
+A 2026 tattoo flash set by Taiwanese tattoo artist 大過敏 (@da.gomin): two archers whose beaded arrows spell CHANCE and DESTINY, a flower with letter beads on its stem, a small blue creature hugging an apple, and a cupid with a LOVE ME banner.
+**Why I care:** The thick wobbly outlines and a tight palette of coral, blue, and green make very different subjects feel like one set. The words are part of the drawing, not captions added on top.
+**Notes:** It's human-made work with no prompt. The post title plays on the Chance and Destiny cards in Monopoly, which is a nice example of one small idea carrying a whole set. The first image is the full sheet, and the rest are single designs.
+
+<p>
+  <img src="assets/design-references/chance-destiny-flash-1.webp" width="155" alt="Tattoo flash sheet with archers, flower, apple, and cupid">
+  <img src="assets/design-references/chance-destiny-flash-2.webp" width="155" alt="Archer with a CHANCE arrow">
+  <img src="assets/design-references/chance-destiny-flash-3.webp" width="155" alt="Flower with letter beads">
+  <img src="assets/design-references/chance-destiny-flash-4.webp" width="155" alt="Blue creature hugging an apple">
+  <img src="assets/design-references/chance-destiny-flash-5.webp" width="155" alt="Cupid with a LOVE ME banner">
+</p>
+
+<sub>Artwork © 大過敏 (@da.gomin), shown as small thumbnails for reference.</sub>
+
 ### [Negative space logos](https://www.threads.com/@malinacosmica/post/DfKJHISCiQ2)
 `status: watching` · `tags: logo, negative-space, branding, black-and-white, marks` · added 2026-11
 
