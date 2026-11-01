@@ -6,6 +6,21 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Travel stamp photo poster prompt](https://www.threads.com/@inkacalinka/post/DeYSk-zlDNB)
+`status: watching` · `tags: prompt, photo-to-poster, stamp, travel, vintage, hand-drawn` · added 2026-11
+
+A prompt by michelle (@inkacalinka) that turns a travel photo into a small handmade postage stamp on cream paper, with postmarks and handwritten notes around it.
+**Why I care:** A stamp is a nice way to frame a travel memory, and it gives the design a reason to be small and surrounded by empty space.
+**Notes:** Upload a photo and paste the prompt. The model invents the postmarks and small text, so check that spelling, places, and languages make sense. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in English).
+
+<p>
+  <img src="assets/image-generation/stamp-memory-1.webp" width="190" alt="Stamp of a white hillside town">
+  <img src="assets/image-generation/stamp-memory-2.webp" width="190" alt="Stamp of a Venice canal">
+  <img src="assets/image-generation/stamp-memory-3.webp" width="190" alt="Stamp of a hiker over a canyon">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Bauhaus abstract photo poster prompt](https://www.threads.com/@inkacalinka/post/Deq3MEtG6Yj)
 `status: watching` · `tags: prompt, photo-to-poster, bauhaus, geometric, risograph, editorial` · added 2026-11
 
