@@ -6,6 +6,20 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Sci-fi vehicle concept sketches](https://www.threads.com/@g_art_space/post/DfMqR7QGvwY)
+`status: watching` · `tags: concept-art, sci-fi, ink-sketch, spot-color, ai-generated, midjourney` · added 2026-11
+
+Two AI concept pieces from Duck82 (@g_art_space), made with Midjourney v8.1: a space station and a jet-engine vehicle drawn like ink sketches, with cream paint and small orange accents.
+**Why I care:** They look like pages from a design sketchbook rather than finished renders. Loose linework and one spot color keep the heavy mechanical detail easy to read.
+**Notes:** The post doesn't share a prompt, so it's here as a style reference. To try it, describe an ink sketch with construction lines, a pale paper background, and one accent color.
+
+<p>
+  <img src="assets/design-references/scifi-concept-1.webp" width="190" alt="Ink-sketch space station with orange accents">
+  <img src="assets/design-references/scifi-concept-2.webp" width="190" alt="Two views of a jet-engine vehicle">
+</p>
+
+<sub>AI-generated examples from @g_art_space's post.</sub>
+
 ### [Arbiter brand exploration](https://www.threads.com/@thebroadbrandings/post/DfNSDM3gZK_)
 `status: watching` · `tags: branding, logo, heraldry, blackletter, law-firm, editorial` · added 2026-11
 
