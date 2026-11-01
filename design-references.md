@@ -6,6 +6,21 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Japanese typography posters](https://www.threads.com/@noydesign_minami/post/DfKKrjYidEZ)
+`status: watching` · `tags: style-reference, typography, kanji, poster, black-and-white, geometric` · added 2026-11
+
+Black-and-white posters by Japanese designer Kenichi Minami (@noydesign_minami) that rebuild kanji from a small kit of circles, bars, and arches, each labelled with its reading and English meaning.
+**Why I care:** It's a masterclass in constraint. A few basic shapes and one color make a whole matching type system, and each character works like a logo. The idea could suit icon sets, brand marks, or Chinese-character logos.
+**Notes:** **Style reference only.** There's no prompt, and the post is tagged as art, not AI. The author sells these posters, so open the post for the full versions; these are small thumbnails.
+
+<p>
+  <img src="assets/design-references/japanese-typography-1.webp" width="190" alt="Japanese geometric typography poster 1">
+  <img src="assets/design-references/japanese-typography-2.webp" width="190" alt="Japanese geometric typography poster 2">
+  <img src="assets/design-references/japanese-typography-3.webp" width="190" alt="Japanese geometric typography poster 3">
+</p>
+
+<sub>Artwork © Kenichi Minami (@noydesign_minami), shown as small thumbnails for reference.</sub>
+
 ### [Clean food and drink menu layouts](https://www.threads.com/@jagg3rbomb/post/DfK5fBlEq7T)
 `status: watching` · `tags: style-reference, menu, food-photography, layout, typography, cafe` · added 2026-11
 
