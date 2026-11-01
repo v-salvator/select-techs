@@ -6,6 +6,22 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [The Art of Pleats / 01](https://www.threads.com/@the.velth/post/DfNRRU_CF6V)
+`status: watching` · `tags: architecture, fashion, pleats, concrete, editorial, red-accent` · added 2026-11
+
+An "architecture couture" series from VELTH (@the.velth) where concrete buildings fold like fabric, and a figure in a pleated red gown stands on the stairs below them.
+**Why I care:** The pleats repeat at two scales, in the gown and in the building, so the two read as one idea. Keeping everything gray except one saturated red makes the small figure the focus of a very large space.
+**Notes:** The post doesn't say how the images were made and shares no prompt. I saved four of the five.
+
+<p>
+  <img src="assets/design-references/pleats-couture-1.webp" width="140" alt="Red pleated gown on stairs below folded concrete">
+  <img src="assets/design-references/pleats-couture-2.webp" width="140" alt="Red gown below a twisting pleated concrete column">
+  <img src="assets/design-references/pleats-couture-3.webp" width="140" alt="Red pleated fabric flowing through a concrete stairwell">
+  <img src="assets/design-references/pleats-couture-4.webp" width="140" alt="Small red figure below dark pleated forms">
+</p>
+
+<sub>Images © VELTH (@the.velth), shown as small thumbnails for reference.</sub>
+
 ### [百鬼曼荼羅 skull ukiyo-e series](https://www.threads.com/@takumi_3_22/post/DfNL9jrkzMi)
 `status: watching` · `tags: ukiyo-e, woodblock, skulls, poster, ai-generated, visual-pun` · added 2026-11
 
