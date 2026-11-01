@@ -6,6 +6,23 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Bauhaus abstract photo poster prompt](https://www.threads.com/@inkacalinka/post/Deq3MEtG6Yj)
+`status: watching` · `tags: prompt, photo-to-poster, bauhaus, geometric, risograph, editorial` · added 2026-11
+
+A prompt by michelle (@inkacalinka) that rebuilds a photo as abstract Bauhaus-style art on warm paper: circles, arcs, and wedges clustered in the center, with slim serif type and a Risograph print feel.
+**Why I care:** Banning rectangles and grids is a smart constraint. It pushes the model toward curves and stops the result from looking like a default geometric filter.
+**Notes:** Upload a photo and paste the prompt. It works best on bright, simple subjects like flowers, hills, and clouds. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in Simplified Chinese).
+
+<p>
+  <img src="assets/image-generation/geometric-abstract-1.webp" width="155" alt="Abstract poster of a cat and flowers">
+  <img src="assets/image-generation/geometric-abstract-2.webp" width="155" alt="Abstract poster of tulips">
+  <img src="assets/image-generation/geometric-abstract-3.webp" width="155" alt="Abstract poster of grass by a stream">
+  <img src="assets/image-generation/geometric-abstract-4.webp" width="155" alt="Abstract poster of green hills">
+  <img src="assets/image-generation/geometric-abstract-5.webp" width="155" alt="Abstract poster of orange roses">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Fluted glass photo poster prompt](https://www.threads.com/@inkacalinka/post/De092Zwm6T_)
 `status: watching` · `tags: prompt, photo-to-poster, fluted-glass, refraction, editorial, short-prompt` · added 2026-11
 
