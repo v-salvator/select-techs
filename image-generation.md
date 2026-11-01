@@ -6,6 +6,20 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Side-by-side paper illustration prompt](https://www.threads.com/@inkacalinka/post/DeOuirQG5hs)
+`status: watching` · `tags: prompt, photo-to-poster, gouache, side-by-side, everyday, no-text` · added 2026-11
+
+A prompt by michelle (@inkacalinka) for a 4:3 side-by-side poster: the original photo on the left, and a loose gouache-style painting of the same moment on textured paper on the right.
+**Why I care:** It's made for everyday snapshots, and it's strict about keeping people and objects recognizable. Unlike the others in this set, it asks for no text at all.
+**Notes:** Upload a photo and paste the prompt. It outputs one wide image. The post doesn't say which image model it was made for. The full prompt is in the second post of the thread (in Simplified Chinese).
+
+<p>
+  <img src="assets/image-generation/gouache-pair-1.webp" width="190" alt="Painting of a bicycle basket with flowers and bread">
+  <img src="assets/image-generation/gouache-pair-2.webp" width="190" alt="Painting of flowers in a blue and white vase">
+</p>
+
+<sub>AI-generated examples from @inkacalinka's post, cropped to the generated half.</sub>
+
 ### [Travel stamp photo poster prompt](https://www.threads.com/@inkacalinka/post/DeYSk-zlDNB)
 `status: watching` · `tags: prompt, photo-to-poster, stamp, travel, vintage, hand-drawn` · added 2026-11
 
