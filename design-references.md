@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Hantum Architectural Studio branding](https://www.threads.com/@imagenewpic/post/DfNLbBGE_C2)
+`status: watching` · `tags: branding, logo, architecture, monochrome, grid-construction, editorial` · added 2026-11
+
+A black-and-white identity for an architecture studio, shared by @imagenewpic: a slanted monogram built on a visible grid, shown on concrete, posters, a billboard, and business cards.
+**Why I care:** The logo is drawn from thin strokes that feel like an architect's lines, and the construction sheet shows how it was made. Almost everything is black and white, so the one colored billboard stands out.
+**Notes:** The post has no caption or designer credit, so I don't know who made it or whether the studio is real.
+
+<p>
+  <img src="assets/design-references/hantum-brand-1.webp" width="155" alt="Hantum logo on a concrete facade">
+  <img src="assets/design-references/hantum-brand-2.webp" width="155" alt="Hantum logo construction grid">
+  <img src="assets/design-references/hantum-brand-3.webp" width="155" alt="Hantum poster in a lobby">
+  <img src="assets/design-references/hantum-brand-4.webp" width="155" alt="Hantum billboard">
+  <img src="assets/design-references/hantum-brand-5.webp" width="155" alt="Stack of Hantum business cards">
+</p>
+
+<sub>Designer not credited. From @imagenewpic's post, shown as small thumbnails for reference.</sub>
+
 ### [Sci-fi vehicle concept sketches](https://www.threads.com/@g_art_space/post/DfMqR7QGvwY)
 `status: watching` · `tags: concept-art, sci-fi, ink-sketch, spot-color, ai-generated, midjourney` · added 2026-11
 
