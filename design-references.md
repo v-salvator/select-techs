@@ -6,6 +6,13 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [八岐遠呂智 Yamata no Orochi ukiyo-e series](https://www.threads.com/@takumi_3_22/post/DfPxK7_E7kJ)
+`status: watching` · `tags: ukiyo-e, woodblock, mythology, storytelling, poster, ai-generated` · added 2026-11
+
+A ten-image AI series from 一匠斎 / Isshosai (@takumi_3_22) that tells the Japanese myth of the eight-headed serpent in woodblock print style: a tiny swordsman reflected in a giant red eye, heads rising above sake barrels, a sword in the scales, and hills that turn out to be the serpent's body.
+**Why I care:** It works like a storyboard, not a set of posters. Each image plays with scale in a new way, and some of the best ones hardly show the monster at all, like a black forest with only red eyes.
+**Notes:** **No images are saved here on purpose.** As with the 百鬼曼荼羅 series in this list, the artist's profile forbids redistribution, resale, and trademark registration, so open the post to see them. It doesn't share a prompt or name an image model.
+
 ### [Semantics landscape series](https://www.threads.com/@gualtieri_oo/post/DfP5EsrlZsT)
 `status: watching` · `tags: architecture, computational-design, landscape, painting, collage, speculative` · added 2026-11
 
