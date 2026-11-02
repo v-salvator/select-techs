@@ -6,6 +6,21 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Color kanji typography posters](https://www.threads.com/@noydesign_minami/post/DfPR5UWiVw-)
+`status: watching` · `tags: typography, poster, kanji, geometric, letterform, color` · added 2026-11
+
+Seven posters by Japanese designer Kenichi Minami (@noydesign_minami), each a grid of twelve kanji designs on black, with some English words mixed in. It's the color side of the [black-and-white posters](#japanese-typography-posters) already in this list.
+**Why I care:** Each character keeps its own bright color, so the eye moves across the grid from one to the next. Seen together, it also shows how many different characters the same kit of circles and bars can make.
+**Notes:** Saved three of the seven posters. His profile says prints are for sale and he takes client work.
+
+<p>
+  <img src="assets/design-references/minami-color-type-1.webp" width="190" alt="Grid of colored kanji built from circles and bars, first set">
+  <img src="assets/design-references/minami-color-type-2.webp" width="190" alt="Grid of colored kanji built from circles and bars, second set">
+  <img src="assets/design-references/minami-color-type-3.webp" width="190" alt="Grid of colored kanji built from circles and bars, third set">
+</p>
+
+<sub>Artwork © Kenichi Minami (@noydesign_minami), shown as small thumbnails for reference.</sub>
+
 ### [Aboard engraved website footer](https://www.threads.com/@yasrinoori/post/DfPluqylaL1)
 `status: watching` · `tags: web-design, footer, engraving, duotone, landing-page, illustration` · added 2026-11
 
