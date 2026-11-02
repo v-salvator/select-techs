@@ -11,7 +11,7 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 Seven posters by Japanese designer Kenichi Minami (@noydesign_minami), each a grid of twelve kanji designs on black, with some English words mixed in. It's the color side of the [black-and-white posters](#japanese-typography-posters) already in this list.
 **Why I care:** Each character keeps its own bright color, so the eye moves across the grid from one to the next. Seen together, it also shows how many different characters the same kit of circles and bars can make.
-**Notes:** Saved three of the seven posters. His profile says prints are for sale and he takes client work.
+**Notes:** Saved three of the seven posters. The designer sells prints, so open the post for the full versions; these are small thumbnails.
 
 <p>
   <img src="assets/design-references/minami-color-type-1.webp" width="190" alt="Grid of colored kanji built from circles and bars, first set">
