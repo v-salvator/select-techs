@@ -6,6 +6,19 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Aboard engraved website footer](https://www.threads.com/@yasrinoori/post/DfPluqylaL1)
+`status: watching` · `tags: web-design, footer, engraving, duotone, landing-page, illustration` · added 2026-11
+
+A website footer design by Yasir Ahmad Noori (@yasrinoori) for a product called Aboard: the usual link columns on cream, sitting above a blue engraved scene of passengers waiting beside a steam train.
+**Why I care:** A footer is usually the most ignored part of a page, and here it's a full illustration. The train is a visual pun on the name "Aboard", which is about getting new users on board.
+**Notes:** The illustration uses the same blue and cream as the rest of the footer, so it feels like part of the page rather than a picture placed on it. The links stay simple and readable above it. The post doesn't say how the illustration was made, or whether Aboard is a real client.
+
+<p>
+  <img src="assets/design-references/aboard-footer-1.webp" width="400" alt="Aboard footer with link columns above a blue engraved steam train scene">
+</p>
+
+<sub>Work by Yasir Ahmad Noori (@yasrinoori), shown as a small thumbnail for reference.</sub>
+
 ### [Bastards Dancing to the Black Hit of Space](https://www.threads.com/@adorable_bastards/post/DfMKdguDW9X)
 `status: watching` · `tags: poster, typography, experimental-type, red-black, ai-generated, editorial` · added 2026-11
 
