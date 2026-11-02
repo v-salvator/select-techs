@@ -6,6 +6,22 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Semantics landscape series](https://www.threads.com/@gualtieri_oo/post/DfP5EsrlZsT)
+`status: watching` · `tags: architecture, computational-design, landscape, painting, collage, speculative` · added 2026-11
+
+Four images from Felice Gualtieri (@gualtieri_oo), an architect and computational designer who directs LabOFF: faceted white buildings set in worn, fresco-like landscapes with grazing animals and floating plan fragments.
+**Why I care:** It mixes two eras that shouldn't fit together. Sharp computational geometry sits inside an old painted surface, so the buildings feel like something from a found painting rather than a render.
+**Notes:** The caption only says "semantics", "2026", and "it.u.3.1 [landscape]". It doesn't explain the project or say how the images were made, and there's no prompt.
+
+<p>
+  <img src="assets/design-references/semantics-landscape-1.webp" width="170" alt="Faceted white buildings by the sea with grazing animals">
+  <img src="assets/design-references/semantics-landscape-2.webp" width="170" alt="Faceted tower-like buildings in a mountain valley">
+  <img src="assets/design-references/semantics-landscape-3.webp" width="170" alt="Folded lattice roofs and a tower on a plain">
+  <img src="assets/design-references/semantics-landscape-4.webp" width="170" alt="Faceted forms between old buildings under floating fragments">
+</p>
+
+<sub>Work by Felice Gualtieri (@gualtieri_oo), shown as small thumbnails for reference.</sub>
+
 ### [Color kanji typography posters](https://www.threads.com/@noydesign_minami/post/DfPR5UWiVw-)
 `status: watching` · `tags: typography, poster, kanji, geometric, letterform, color` · added 2026-11
 
