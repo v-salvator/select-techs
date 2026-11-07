@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Design Rule No. 11: Negative Space](https://www.threads.com/@346eur/post/DfcTv1UEVNd)
+`status: watching` · `tags: design-education, negative-space, layout, principles, slides` · added 2026-11
+
+An educational carousel by Mohamed (@346eur) breaking down negative space as part of a 14-rule design principles series. Covers the definition ("breathing room" that gives clarity, balance, and focus), then distinguishes active (deliberately placed to guide attention), passive (natural gaps that aid readability), and macro (large empty areas that convey elegance).
+**Why I care:** A clear, visual reference for explaining why empty space matters. The simple red-dot diagrams make each concept easy to remember.
+**Notes:** Part of the creator's "Rules of Discovery" series. Shown here as first 5 of 7 slides.
+
+<p>
+  <img src="assets/design-references/space-rule-1.webp" width="155" alt="Cover slide: THE SPACE RULE!">
+  <img src="assets/design-references/space-rule-2.webp" width="155" alt="Definition: negative space as breathing room">
+  <img src="assets/design-references/space-rule-3.webp" width="155" alt="Active negative space diagram">
+  <img src="assets/design-references/space-rule-4.webp" width="155" alt="Passive negative space diagram">
+  <img src="assets/design-references/space-rule-5.webp" width="155" alt="Macro negative space diagram">
+</p>
+
+<sub>First 5 of 7 slides from [@346eur's post](https://www.threads.com/@346eur/post/DfcTv1UEVNd).</sub>
+
 ### [Portfolio hero motion reference](https://www.threads.com/@viktoroddy/post/Dfb6-UZDYkF)
 `status: watching` · `tags: portfolio, motion, 3d, video-ribbon, scroll-interaction` · added 2026-11
 
