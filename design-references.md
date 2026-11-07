@@ -6,6 +6,37 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Portfolio hero motion reference](https://www.threads.com/@viktoroddy/post/Dfb6-UZDYkF)
+`status: watching` · `tags: portfolio, motion, 3d, video-ribbon, scroll-interaction` · added 2026-11
+
+A portfolio hero concept described by Viktor (@viktoroddy): a ribbon of live project videos flowing through 3D space, bending as the user scrolls.
+**Why I care:** The idea of weaving video thumbnails through a 3D ribbon instead of a flat grid is a fresh take on portfolio presentation. The caption frames it as "AI designing is just designing now... taste is still the job."
+**Notes:** Video-only post; the video did not render during verification, so this entry is based on the caption description only. No prompt, tool, or model specified. The creator's profile links to designrocket.io, but it's unverified whether that site shows this specific demo.
+
+### [Three Kingdoms character posters](https://www.threads.com/@ofnnse/post/DfcDZ3Ak1h-)
+`status: watching` · `tags: illustration, character-design, geometric, historical, poster, three-kingdoms` · added 2026-11
+
+Seven character illustrations of Three Kingdoms heroes by Tokyo designer Nanase (@ofnnse): angular, faceted robes with muted teal, gold, and purple palettes on cream backgrounds, each with "THREE KINGDOMS" typography and the character's romanized name.
+**Why I care:** The geometric fabric folds give historical costume a modern, almost low-poly feel. The consistent layout and restrained palette make them work as a series while each character stays distinct.
+**Notes:** No prompt, AI model, or tool credited. Shown here as first 5 of 7 source images.
+
+<p>
+  <img src="assets/design-references/three-kingdoms-1.webp" width="155" alt="Wang Yuanji in geometric teal and cream robes">
+  <img src="assets/design-references/three-kingdoms-2.webp" width="155" alt="Du Yu with scroll and layered gray-green robes">
+  <img src="assets/design-references/three-kingdoms-3.webp" width="155" alt="Liu Shan in green and gold dragon robe">
+  <img src="assets/design-references/three-kingdoms-4.webp" width="155" alt="Xun Yu in purple and gold robes with booklet">
+  <img src="assets/design-references/three-kingdoms-5.webp" width="155" alt="Xu Huang in armor with battle axe">
+</p>
+
+<sub>First 5 of 7 images from [@ofnnse's post](https://www.threads.com/@ofnnse/post/DfcDZ3Ak1h-).</sub>
+
+### [Interactive 3D keyboard](https://www.threads.com/@pussmolly/post/DfZ1iYbjB04)
+`status: watching` · `tags: interactive, 3d, keyboard, webgl, demo` · added 2026-11
+
+An interactive 3D keyboard demo by @pussmolly titled "Feel": a textured mechanical keyboard in WebGL that responds to interaction.
+**Why I care:** A tactile, almost toy-like 3D object that invites clicking. Good reference for interactive product showcases or playful landing pages.
+**Notes:** [Live demo](https://sickmolly.space/play/) (mobile-friendly). The creator's [process reply](https://www.threads.com/@pussmolly/post/DfaEurcDDoL) says the 3D model was made by Codex at her request with supplied visual references and feedback on texture and interaction. Caption says "GPT 6 Astra + Three.js" (source wording, unverified). No thumbnail saved (source media is video; a second carousel item was inaccessible).
+
 ### [Wren illustrated footer concept](https://www.threads.com/@yasrinoori/post/Dfbll_AG2Ig)
 `status: watching` · `tags: web-design, footer, illustration, landscape, cream-navy, landing-page` · added 2026-11
 
