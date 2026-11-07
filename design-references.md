@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Outfit collage typography series](https://www.threads.com/@ha.ru57/post/DfZWMIDAewV)
+`status: watching` · `tags: fashion, editorial, cutout, typography, color-blocking, collage` · added 2026-11
+
+A series of outfit photography collages by はる (@ha.ru57): full-body cutouts on bold solid-color backgrounds with large brand typography layered behind or around the figure.
+**Why I care:** Each composition pairs a saturated background color with contrasting outfit tones and a single brand wordmark, creating an instant poster feel. The face is always obscured, keeping focus on the clothes and overall silhouette.
+**Notes:** The creator's profile states all colorful editing is done by hand. Dynamic poses interact with the typography, and the color palette shifts per image: beige/purple (UNIQLO), red-orange/blue (BIGMAC), yellow/magenta (JANSPORT), pale blue/brown (Columbia), chartreuse/violet (SILK). No prompt, tool, or model shared.
+
+<p>
+  <img src="assets/design-references/outfit-collage-1.webp" width="155" alt="Beige layered outfit with UNIQLO lettering on sage background">
+  <img src="assets/design-references/outfit-collage-2.webp" width="155" alt="Blue outerwear and patterned skirt with BIGMAC on red-orange">
+  <img src="assets/design-references/outfit-collage-3.webp" width="155" alt="Magenta sweatshirt and plaid shorts with JANSPORT on yellow">
+  <img src="assets/design-references/outfit-collage-4.webp" width="155" alt="Rear view with backpack and Columbia on pale blue">
+  <img src="assets/design-references/outfit-collage-5.webp" width="155" alt="Gray outfit with SILK lettering on chartreuse">
+</p>
+
+<sub>First 5 of 13 images from [@ha.ru57's post](https://www.threads.com/@ha.ru57/post/DfZWMIDAewV).</sub>
+
 ### [Blue and orange floral still-life series](https://www.threads.com/@prada3388/post/DfPcrIXiXQB)
 `status: watching` · `tags: floral, still-life, blue-orange, painterly, decorative, botanical` · added 2026-11
 
