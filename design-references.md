@@ -6,6 +6,19 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Wren illustrated footer concept](https://www.threads.com/@yasrinoori/post/Dfbll_AG2Ig)
+`status: watching` · `tags: web-design, footer, illustration, landscape, cream-navy, landing-page` · added 2026-11
+
+A footer design concept by Yasir Ahmad Noori (@yasrinoori) for a property management brand called Wren: warm cream background with Product, Company, and Resources navigation columns, anchored by a wide blue illustrated landscape of a mountain, forested hills, and a town.
+**Why I care:** The illustration does the heavy lifting. Instead of ending on plain links, the footer becomes a destination with generous whitespace above and the landscape drawing the eye down through the page.
+**Notes:** Designer-shared concept; no live site URL provided. Same creator as the [Aboard footer](#aboard-engraved-website-footer) in this list, with a similar cream-and-blue palette but a completely different illustration style.
+
+<p>
+  <img src="assets/design-references/wren-footer-1.webp" width="400" alt="Wren footer with nav columns on cream and blue illustrated mountain town landscape">
+</p>
+
+<sub>Work by Yasir Ahmad Noori (@yasrinoori), shown as a small thumbnail for reference.</sub>
+
 ### [Outfit collage typography series](https://www.threads.com/@ha.ru57/post/DfZWMIDAewV)
 `status: watching` · `tags: fashion, editorial, cutout, typography, color-blocking, collage` · added 2026-11
 
