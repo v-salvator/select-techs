@@ -14,10 +14,14 @@ A Midjourney style-reference set by Afzan | AI Creative Director (@afzanhilmi) f
 **Notes:** Uses three `--sref` codes together: `2576855236 4219424500 2971543141`. Source-reported parameters: `--ar 4:5 --stylize 400 --hd --v 8.2`. These are untested and may not all apply to current Midjourney versions. Example prompt structure (not the creator's verbatim text): `editorial portrait of [subject], center frame, eye contact, stoic expression, black hoodie, motion-blurred pedestrians as dark silhouettes, charcoal fog background, soft rim light, 85mm f/1.2, anamorphic --ar 4:5 --sref 2576855236 4219424500 2971543141 --stylize 400`.
 
 <p>
-  <img src="assets/image-generation/burnt-motion-1.webp" width="190" alt="Editorial portrait with motion-blurred pedestrians in orange and blue-grey tones">
+  <img src="assets/image-generation/burnt-motion-1.webp" width="155" alt="Cover slide with PROMPT and BURNT MOTION branding">
+  <img src="assets/image-generation/burnt-motion-2.webp" width="155" alt="Hooded model with orange motion streaks">
+  <img src="assets/image-generation/burnt-motion-3.webp" width="155" alt="Portrait with prompt and parameters overlay">
+  <img src="assets/image-generation/burnt-motion-4.webp" width="155" alt="Hooded model profile with orange blur">
+  <img src="assets/image-generation/burnt-motion-5.webp" width="155" alt="Hooded model with blurred orange foreground">
 </p>
 
-<sub>AI-generated example from [@afzanhilmi's post](https://www.threads.com/@afzanhilmi/post/DfYtoD4nyks).</sub>
+<sub>First 5 of 9 source images from [@afzanhilmi's post](https://www.threads.com/@afzanhilmi/post/DfYtoD4nyks).</sub>
 
 ### [Loose Watercolor Drift prompt](https://www.threads.com/@azed_ai/post/DfMlPyrmyfP)
 `status: watching` · `tags: prompt, text-to-image, watercolor, wet-on-wet, minimal, short-prompt` · added 2026-11

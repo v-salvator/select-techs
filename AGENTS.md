@@ -10,7 +10,7 @@ Entries in `image-generation.md` and `design-references.md` **must** include exa
 
 - Use **original images from the source post** in their **original order**.
 - Include `min(original_count, 5)` images — all images up to five; for carousels with more than five, use the first five unless the user specifies otherwise.
-- **Faithful content:** preserve prompt overlays, UI chrome, and other context visible in the original; do not crop art out of its surrounding frame unless the template already does (e.g., "cropped to the generated half" entries).
+- **Faithful content:** preserve source-embedded text, branding, and prompt overlays visible in the original images; do not crop art out of its surrounding frame unless the template already does (e.g., "cropped to the generated half" entries). This refers to content the creator added to the image, not browser or page UI captured in screenshots.
 - Do **not** substitute your own generated samples, reply images, or images from other posts.
 - Do **not** invent or fabricate missing images.
 
