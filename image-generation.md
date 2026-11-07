@@ -11,7 +11,17 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 A Midjourney style-reference set by Afzan | AI Creative Director (@afzanhilmi) for cinematic editorial portraits with selective motion blur: a sharp, centered subject surrounded by streaking pedestrian silhouettes in warm orange and cool blue-grey tones.
 **Why I care:** The effect isolates the subject dramatically without compositing. The look blends fashion editorial with street photography, and the color grade (crushed blacks, cyan shadows, neutral skin) gives it a campaign-ready feel.
-**Notes:** Uses three `--sref` codes together: `2576855236 4219424500 2971543141`. Source-reported parameters: `--ar 4:5 --stylize 400 --hd --v 8.2`. These are untested and may not all apply to current Midjourney versions. Example prompt structure (not the creator's verbatim text): `editorial portrait of [subject], center frame, eye contact, stoic expression, black hoodie, motion-blurred pedestrians as dark silhouettes, charcoal fog background, soft rim light, 85mm f/1.2, anamorphic --ar 4:5 --sref 2576855236 4219424500 2971543141 --stylize 400`. No local image: the source post has no explicit license permitting redistribution.
+**Notes:** Uses three `--sref` codes together: `2576855236 4219424500 2971543141`. Source-reported parameters: `--ar 4:5 --stylize 400 --hd --v 8.2`. These are untested and may not all apply to current Midjourney versions. Example prompt structure (not the creator's verbatim text): `editorial portrait of [subject], center frame, eye contact, stoic expression, black hoodie, motion-blurred pedestrians as dark silhouettes, charcoal fog background, soft rim light, 85mm f/1.2, anamorphic --ar 4:5 --sref 2576855236 4219424500 2971543141 --stylize 400`.
+
+<p>
+  <img src="assets/image-generation/burnt-motion-1.webp" width="155" alt="Cover slide with PROMPT and BURNT MOTION branding">
+  <img src="assets/image-generation/burnt-motion-2.webp" width="155" alt="Hooded model with orange motion streaks">
+  <img src="assets/image-generation/burnt-motion-3.webp" width="155" alt="Portrait with prompt and parameters overlay">
+  <img src="assets/image-generation/burnt-motion-4.webp" width="155" alt="Hooded model profile with orange blur">
+  <img src="assets/image-generation/burnt-motion-5.webp" width="155" alt="Hooded model with blurred orange foreground">
+</p>
+
+<sub>First 5 of 9 source images from [@afzanhilmi's post](https://www.threads.com/@afzanhilmi/post/DfYtoD4nyks).</sub>
 
 ### [Loose Watercolor Drift prompt](https://www.threads.com/@azed_ai/post/DfMlPyrmyfP)
 `status: watching` · `tags: prompt, text-to-image, watercolor, wet-on-wet, minimal, short-prompt` · added 2026-11
