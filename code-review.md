@@ -6,6 +6,13 @@ Review tools, linters, static analysis, and AI reviewers.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [untangle-codebase](https://github.com/caldoai/skills/blob/main/skills/untangle-codebase/SKILL.md)
+`status: watching` · `tags: agent-skill, refactoring, code-quality, cleanup, dead-code, abstractions` · added 2026-11
+
+An agent skill by Maze (@mazeincoding) for broad codebase refactoring: leaky abstractions, copy-paste code, temporary workarounds, useless wrappers, coupling, and dead code. Runs as a slash command with optional focus area.
+**Why I care:** A structured workflow for the messy "clean this up" task: asks whether to touch comments/tests, inventories problems before changes, redesigns from first principles with a decision log, implements fixes, then rechecks via subagents until no worthwhile issues remain.
+**Notes:** Invoked as `/untangle-codebase` or with a focus, e.g. `/untangle-codebase preview changes before applying them`. **Scope warning:** this skill performs extensive refactoring; review all changes before adopting. MIT license, part of [caldoai/skills](https://github.com/caldoai/skills). Found via [X post](https://x.com/mazeincoding/status/2118378945557004477). Not tested.
+
 ### [fallow](https://github.com/fallow-rs/fallow)
 `status: watching` · `tags: static-analysis, typescript, javascript, dead-code, complexity, duplication, ci, mcp, rust` · added 2026-10
 
