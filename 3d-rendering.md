@@ -6,6 +6,13 @@
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [boba-bar](https://github.com/iamtechartist/boba-bar)
+`status: watching` · `tags: threejs, interactive, webgl, 3d-builder, demo` · added 2026-11
+
+A browser-based interactive 3D bubble-tea builder by Zhen Zhu (@zhenzhu600). Customize cup, ice, toppings, and flavors in a playful Three.js scene.
+**Why I care:** A polished example of a small interactive 3D configurator that runs entirely in the browser. Good reference for product builders, drink customizers, or any "build your own" UI in WebGL.
+**Notes:** [Live demo](https://iamtechartist.github.io/boba-bar/). The author says it was made with "Opus 5.5 and Three.js" (unverified model claim). MIT license, © 2026 Techartist. Found via [Threads post](https://www.threads.com/@zhenzhu600/post/Dfa3Z1rBunr). No thumbnail saved (source is video only).
+
 ### [img2threejs](https://github.com/img2threejs/img2threejs)
 `status: watching` · `tags: agent-skill, threejs, image-to-3d, procedural, webgl, typescript, claude-code` · added 2026-11
 

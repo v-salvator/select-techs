@@ -6,6 +6,13 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Anthropic Report Illustration Style skill](https://skillry.dev/skills/bs-anthropic-report-illustration)
+`status: watching` · `tags: agent-skill, editorial, collage, geometric, illustration, paid` · added 2026-11
+
+A paid agent skill by Yihui Dev (@yihui_indie) that generates illustrations in the Renaissance-printmaking/magazine editorial style seen on Anthropic's website: color-block collage, single objects on flat fields, and abstract geometric prints.
+**Why I care:** A packaged style reference for blog headers, report covers, and editorial illustration. The skill handles the prompt engineering so you describe content, not technique.
+**Notes:** $4.99 on Skillry (v1.0.3 as of 2026-11-07). Requires `FAL_KEY` for image generation or Codex image allowance; purchase does not include generation credits. Supports GPT Image, Nano Banana/Gemini Image. Not suited for photorealistic images, product shots, real-person portraits, or labeled charts/diagrams. Example invocation: `/bs-anthropic-report-illustration Create 8 square illustrations for a report on how AI agents learn to use tools.` Found via [Threads post](https://www.threads.com/@yihui_indie/post/DfbwcRoidTK) and [continuation](https://www.threads.com/@yihui_indie/post/DfbwdnoCR0p). No thumbnail saved (source is video only); not tested.
+
 ### [Retro type poster prompt (詩意復古海報)](https://www.threads.com/@lch1776244/post/DfQ91AxG-TO)
 `status: watching` · `tags: prompt, photo-to-poster, typography, halftone, retro, editorial` · added 2026-11
 
