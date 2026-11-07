@@ -6,6 +6,39 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Retro type poster prompt (詩意復古海報)](https://www.threads.com/@lch1776244/post/DfQ91AxG-TO)
+`status: watching` · `tags: prompt, photo-to-poster, typography, halftone, retro, editorial` · added 2026-11
+
+A prompt by Chloe_Lai (@lch1776244) that transforms a reference photo into a 3:4 poetic retro printed poster with a huge one-word title and CMY halftone texture.
+**Why I care:** The subject rises organically through and over the letters into the top whitespace, which creates depth without compositing. The small unedited reference inset proves the transformation while the halftone registration offset gives it authentic print feel.
+**Notes:** Structure: top third warm white negative space with two short poetic English lines in small typewriter type; huge high-contrast uppercase serif title across middle, color sampled from photo, readable; main subject floats through letters without anatomical stretching or hard cutout edges; subtle CMY halftone dots with slight registration offset in title and stylized photo areas while real photographic textures retained; original uncropped reference inset in upper right (~15-18% width) with fine border labeled "ORIGINAL". No extra headings, watermarks, or mockup frames. The [full prompt](https://www.threads.com/@lch1776244/post/DfQ91vZm5qT) is in the continuation post (in Traditional Chinese). Model not named.
+
+<p>
+  <img src="assets/image-generation/retro-type-poster-1.webp" width="155" alt="HUSH poster with hibiscus flowers">
+  <img src="assets/image-generation/retro-type-poster-2.webp" width="155" alt="DRIFT poster with white ducks on water">
+  <img src="assets/image-generation/retro-type-poster-3.webp" width="155" alt="MUSE poster with woman in red headscarf">
+  <img src="assets/image-generation/retro-type-poster-4.webp" width="155" alt="AWAKE poster with spring blossoms">
+  <img src="assets/image-generation/retro-type-poster-5.webp" width="155" alt="GATHER poster with sunflower bouquet">
+</p>
+
+<sub>Examples from [@lch1776244's post](https://www.threads.com/@lch1776244/post/DfQ91AxG-TO).</sub>
+
+### [Paper collage comparison prompt (碎片拼貼)](https://www.threads.com/@jenniferzhao08/post/DfWtGonGy09)
+`status: watching` · `tags: prompt, photo-to-poster, collage, indie-magazine, paper-texture, side-by-side` · added 2026-11
+
+A prompt by Jennifer (@jenniferzhao08) that creates a vertical before/after image: the original photo on top, and a muted poetic paper collage version of the same scene below.
+**Why I care:** The collage panel distills the scene into torn grayscale photo fragments on warm ivory paper, with photocopy texture and faded halftone. Subjects stay coherent while scenery simplifies into atmospheric shapes.
+**Notes:** Structure: two vertically stacked equal-size panels touching without gaps, borders, or labels; top preserves whole reference image and aspect; bottom translates same scene to indie-magazine paper collage. Keep number, identity, poses, gaze, interactions and key objects of people/subjects. Place related subjects as coherent group (25-35% of lower panel) center-low with generous warm ivory negative space. Simplify scenery into a few grayscale photo fragments with paper fibers, faded halftone, misaligned ink, and small pale sage accent. Faces, hands, and contact points stay coherent; subtle torn edges elsewhere. Matte flat scan, diffuse light; no added text, watermarks, arbitrary objects, or heavy distress. The [full prompt](https://www.threads.com/@jenniferzhao08/post/DfWtHWiG7kr) is in the continuation post (in Traditional Chinese). Model not named.
+
+<p>
+  <img src="assets/image-generation/collage-poster-1.webp" width="170" alt="Seaside house with moon, photo above and paper collage below">
+  <img src="assets/image-generation/collage-poster-2.webp" width="170" alt="Camel riders on ridged dunes, photo above and paper collage below">
+  <img src="assets/image-generation/collage-poster-3.webp" width="170" alt="Eye with tear bag labeled EMOTIONAL BAGGAGE, photo above and paper collage below">
+  <img src="assets/image-generation/collage-poster-4.webp" width="170" alt="Japanese street with Mt. Fuji, photo above and paper collage below">
+</p>
+
+<sub>Examples from [@jenniferzhao08's post](https://www.threads.com/@jenniferzhao08/post/DfWtGonGy09).</sub>
+
 ### [BURNT MOTION sref set](https://www.threads.com/@afzanhilmi/post/DfYtoD4nyks)
 `status: watching` · `tags: sref, midjourney, portrait, motion-blur, cinematic, editorial, fashion` · added 2026-11
 

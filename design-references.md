@@ -23,6 +23,23 @@ A series of outfit photography collages by はる (@ha.ru57): full-body cutouts 
 
 <sub>First 5 of 13 images from [@ha.ru57's post](https://www.threads.com/@ha.ru57/post/DfZWMIDAewV).</sub>
 
+### [Blue and orange floral still-life series](https://www.threads.com/@prada3388/post/DfPcrIXiXQB)
+`status: watching` · `tags: floral, still-life, blue-orange, painterly, decorative, botanical` · added 2026-11
+
+Eight floral still-life images shared by 任毅豪 (@prada3388): ornate vases, blue and orange poppies, white peonies on marbled blue-orange grounds, and delicate blue wildflowers against black or ochre backgrounds.
+**Why I care:** The palette is consistently blue, orange, white, and gold across all pieces, with painterly textures that read as decorative art rather than photography. The tall vertical compositions and dark backgrounds give them a classical feel.
+**Notes:** The post doesn't share a prompt, name a tool or model, or credit an original artist. Shown here as first 5 of 8 source images. No explicit license restrictions visible.
+
+<p>
+  <img src="assets/design-references/floral-still-life-1.webp" width="120" alt="Ornate vase with orange, white, and gold flowers on patterned cloth">
+  <img src="assets/design-references/floral-still-life-2.webp" width="120" alt="White peonies with blue accents on marbled blue-orange ground">
+  <img src="assets/design-references/floral-still-life-3.webp" width="120" alt="Blue balloon flowers with orange centers on ochre ground">
+  <img src="assets/design-references/floral-still-life-4.webp" width="120" alt="Blue flowers with orange centers and dewdrops on black">
+  <img src="assets/design-references/floral-still-life-5.webp" width="120" alt="Blue wildflower stems on black ground">
+</p>
+
+<sub>First 5 of 8 images from [@prada3388's post](https://www.threads.com/@prada3388/post/DfPcrIXiXQB).</sub>
+
 ### [八岐遠呂智 Yamata no Orochi ukiyo-e series](https://www.threads.com/@takumi_3_22/post/DfPxK7_E7kJ)
 `status: watching` · `tags: ukiyo-e, woodblock, mythology, storytelling, poster, ai-generated` · added 2026-11
 
