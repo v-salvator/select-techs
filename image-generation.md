@@ -6,6 +6,13 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [BURNT MOTION sref set](https://www.threads.com/@afzanhilmi/post/DfYtoD4nyks)
+`status: watching` · `tags: sref, midjourney, portrait, motion-blur, cinematic, editorial, fashion` · added 2026-11
+
+A Midjourney style-reference set by Afzan | AI Creative Director (@afzanhilmi) for cinematic editorial portraits with selective motion blur: a sharp, centered subject surrounded by streaking pedestrian silhouettes in warm orange and cool blue-grey tones.
+**Why I care:** The effect isolates the subject dramatically without compositing. The look blends fashion editorial with street photography, and the color grade (crushed blacks, cyan shadows, neutral skin) gives it a campaign-ready feel.
+**Notes:** Uses three `--sref` codes together: `2576855236 4219424500 2971543141`. Source-reported parameters: `--ar 4:5 --stylize 400 --hd --v 8.2`. These are untested and may not all apply to current Midjourney versions. Example prompt structure (not the creator's verbatim text): `editorial portrait of [subject], center frame, eye contact, stoic expression, black hoodie, motion-blurred pedestrians as dark silhouettes, charcoal fog background, soft rim light, 85mm f/1.2, anamorphic --ar 4:5 --sref 2576855236 4219424500 2971543141 --stylize 400`. No local image: the source post has no explicit license permitting redistribution.
+
 ### [Loose Watercolor Drift prompt](https://www.threads.com/@azed_ai/post/DfMlPyrmyfP)
 `status: watching` · `tags: prompt, text-to-image, watercolor, wet-on-wet, minimal, short-prompt` · added 2026-11
 
