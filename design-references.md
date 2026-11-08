@@ -6,6 +6,22 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [39 — beast and figure illustrations](https://www.threads.com/@yuo_art/post/Dfdh-6Vj0pR)
+`status: watching` · `tags: ai-art, illustration, maximalist, floral, creature, figure` · added 2026-11
+
+A four-image series by ユオ (@yuo_art) titled "39." Dense illustrative compositions pairing small human figures with large wolf-like or multi-eyed creatures, surrounded by swirling organic forms, flowers, and foliage. Shared palette across the set: cream, black, red-orange accents, and muted blue.
+**Why I care:** The maximalist density and scale contrast (tiny figure, towering beast) create striking compositions. Useful reference for layered organic illustration or dark-fantasy atmosphere.
+**Notes:** Tagged AI Art by the source; no prompt, model, or tool disclosed. Reuse rights unknown.
+
+<p>
+  <img src="assets/design-references/yuo-39-1.webp" width="120" alt="White-haired figure with pale wolf and golden eyes amid florals">
+  <img src="assets/design-references/yuo-39-2.webp" width="120" alt="Figure beneath pale wolf head with red drip and dense flowers">
+  <img src="assets/design-references/yuo-39-3.webp" width="120" alt="Girl in school uniform with dark multi-eyed creature behind">
+  <img src="assets/design-references/yuo-39-4.webp" width="120" alt="Small figure beneath contrasting pale and dark wolf heads">
+</p>
+
+<sub>All 4 images from [@yuo_art's post](https://www.threads.com/@yuo_art/post/Dfdh-6Vj0pR).</sub>
+
 ### [Surreal coastal staircase series](https://www.threads.com/@vesarie.co/post/DfcuVPUl7P4)
 `status: watching` · `tags: ai-art, surreal, architecture, coastal, staircase, atmosphere` · added 2026-11
 
