@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Surreal coastal staircase series](https://www.threads.com/@vesarie.co/post/DfcuVPUl7P4)
+`status: watching` · `tags: ai-art, surreal, architecture, coastal, staircase, atmosphere` · added 2026-11
+
+A 20-image AI series shared by VESARIÉ (@vesarie.co) of white cliffside villages with winding staircases above the sea. Visual motifs include hazy golden-hour light, organic rock faces that blend into architecture, fabric-like flowing forms, and stairs that descend toward calm water. The post caption reads: "Some staircases lead somewhere. Others remind us that the beauty is in the journey itself..."
+**Why I care:** The consistent palette (cream, pale blue, dark water) and soft atmospheric haze tie the series together while each composition finds a new way to frame the staircase motif.
+**Notes:** Threads labels this as AI content; no specific model, tool, or prompt shared. Shown here as first 5 of 20 source images.
+
+<p>
+  <img src="assets/design-references/coastal-staircase-1.webp" width="155" alt="Hazy hillside village with winding stairs and windmill">
+  <img src="assets/design-references/coastal-staircase-2.webp" width="155" alt="Cliffside stairs descending toward sea">
+  <img src="assets/design-references/coastal-staircase-3.webp" width="155" alt="Stairs along steep rock face above water">
+  <img src="assets/design-references/coastal-staircase-4.webp" width="155" alt="Village stairs with flowing fabric-like forms">
+  <img src="assets/design-references/coastal-staircase-5.webp" width="155" alt="White cliffside village above dark sea">
+</p>
+
+<sub>First 5 of 20 images from [@vesarie.co's post](https://www.threads.com/@vesarie.co/post/DfcuVPUl7P4).</sub>
+
 ### [Morphiq shape-to-pattern motion](https://www.threads.com/@alvarodiazds_/post/DfcYGnQTRVW)
 `status: watching` · `tags: motion, pattern, generative, shapes, video` · added 2026-11
 
