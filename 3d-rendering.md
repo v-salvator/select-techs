@@ -6,6 +6,48 @@
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Three.js](https://github.com/mrdoob/three.js)
+`status: watching` · `tags: 3d, webgl, javascript, rendering, scenes` · added 2026-11
+
+JavaScript 3D library. The de facto standard for browser-based 3D.
+**Why I care:** If you're doing 3D on the web, you're probably using Three.js or something built on it.
+**Notes:** MIT. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [Threlte](https://github.com/threlte/threlte)
+`status: watching` · `tags: 3d, svelte, threejs, declarative, components` · added 2026-11
+
+3D framework for Svelte. Declarative Three.js components with Svelte reactivity.
+**Why I care:** If your stack is Svelte, this is the way to add 3D without leaving the component model.
+**Notes:** MIT. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [react-three-rapier](https://github.com/pmndrs/react-three-rapier)
+`status: watching` · `tags: physics, react, threejs, rapier, simulation` · added 2026-11
+
+Rapier physics in React. Declarative physics components for react-three-fiber.
+**Why I care:** Physics without leaving React's component model. Good for games, simulations, or interactive 3D.
+**Notes:** MIT. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [Mitsuba 3](https://github.com/mitsuba-renderer/mitsuba3)
+`status: watching` · `tags: renderer, research, differentiable, python, inverse-rendering` · added 2026-11
+
+Retargetable forward and inverse renderer. Research-grade, supports differentiable rendering for optimization.
+**Why I care:** When you need physically accurate rendering or inverse rendering for research/ML.
+**Notes:** BSD-3-Clause. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
+`status: watching` · `tags: csg, boolean, three.js, modeling, geometry` · added 2026-11
+
+Fast CSG (Constructive Solid Geometry) for Three.js. Boolean operations on meshes: union, subtract, intersect.
+**Why I care:** Procedural modeling with boolean ops without leaving the browser.
+**Notes:** MIT. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)
+`status: watching` · `tags: color-management, vfx, grading, pipeline, aswf` · added 2026-11
+
+Color management framework for visual effects and animation. Industry standard from the Academy Software Foundation.
+**Why I care:** Consistent color across applications in a VFX/animation pipeline.
+**Notes:** BSD-3-Clause. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
 ### [boba-bar](https://github.com/iamtechartist/boba-bar)
 `status: watching` · `tags: threejs, interactive, webgl, 3d-builder, demo` · added 2026-11
 
