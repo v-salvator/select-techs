@@ -14,6 +14,7 @@ My personal, curated list of repos, tools, and tech stacks: what I use now, what
 | [Image generation](image-generation.md) | Image models, prompts, skills, and tools you can generate with |
 | [Design references](design-references.md) | Design work to learn from, with no reusable prompt |
 | [3D rendering](3d-rendering.md) | 3D engines, WebGL, modeling, rendering pipelines |
+| [Knowledge management](knowledge-management.md) | Note-taking, PKM, and tools for organizing information |
 
 ## Status legend
 
