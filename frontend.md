@@ -6,6 +6,27 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Scrolltide](https://www.scrolltide.co/)
+`status: watching` · `tags: prompts, templates, 3d, scroll-driven, cinematic, ai-builder` · added 2026-11
+
+Cinematic website prompts and templates for 3D/scroll-driven sites. Browse pre-built sections, copy prompts into AI builders (Claude, Cursor, Lovable), or use their components directly.
+**Why I care:** Similar to Jiro but focused on immersive, scroll-driven experiences rather than general landing pages. Useful when vibe-coding sites that need depth and motion.
+**Notes:** Free and paid tiers. From [Aman Singh (@amananimates)](https://x.com/amananimates/status/2119127905666314632), co-founder of Scrolltide. [Author continuation](https://x.com/amananimates/status/2119128340149969008) promotes companion Claude/Cursor prompts. No public repo or declared license verified. Not tested.
+
+### [Scroll Shaders](https://scrollshaders.com/)
+`status: watching` · `tags: shaders, webgl, components, react, looping, backgrounds` · added 2026-11
+
+Seamless-loop WebGL shaders and components. Copy React/HTML code or download MP4. Designed for scroll-triggered or looping background effects.
+**Why I care:** Ready-made shader effects that can drop into a project without writing GLSL from scratch. The MP4 option is useful for non-WebGL contexts or video backgrounds.
+**Notes:** Free and paid tiers. From Scrolltide team. No public repo or declared license verified. Not tested.
+
+### [Refero Styles](https://styles.refero.design/)
+`status: watching` · `tags: design-systems, ai-readable, styles, typography, colors, reference` · added 2026-11
+
+A library of real website design styles (typography, colors, spacing) with AI-readable DESIGN.md files. Browse sites, then feed the style doc to an AI builder to match the look.
+**Why I care:** Bridges the gap between "I like this site's style" and getting an AI to reproduce it. The DESIGN.md format is purpose-built for agent consumption.
+**Notes:** Part of the Refero suite. From Scrolltide team. No public repo or declared license verified. Not tested.
+
 ### [Jiro](https://jiro.build/)
 `status: watching` · `tags: prompts, landing-page, templates, ai-builder, mcp` · added 2026-11
 

@@ -6,6 +6,20 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [footer.design](https://www.footer.design/)
+`status: watching` · `tags: gallery, footer, web-design, inspiration, curated` · added 2026-11
+
+A curated gallery of website footer designs. Browse real-world examples for layout, navigation patterns, and visual approaches to the often-neglected bottom of the page.
+**Why I care:** Footers are easy to overlook, and this collects good ones in one place. Useful when the rest of a site is done but the footer feels like an afterthought.
+**Notes:** From [Aman Singh (@amananimates)](https://x.com/amananimates/status/2119127905666314632), co-founder of Scrolltide. Related to but distinct from the [Wren footer concept](#wren-illustrated-footer-concept) and [Aboard footer](#aboard-engraved-website-footer) entries in this list, which are specific designs rather than a gallery. No license or commercial reuse terms verified. Not tested.
+
+### [CTA Gallery](https://www.cta.gallery/)
+`status: watching` · `tags: gallery, cta, call-to-action, web-design, inspiration, curated` · added 2026-11
+
+A curated gallery of call-to-action designs. Browse real-world examples of buttons, banners, and conversion prompts across different sites and styles.
+**Why I care:** CTAs are high-stakes UI: they have to stand out without being obnoxious. A gallery of working examples beats guessing.
+**Notes:** From Scrolltide team. No license or commercial reuse terms verified. Not tested.
+
 ### [Mother Trucker](https://www.threads.com/@hannibalvector/post/DfdZo2xoJb3)
 `status: watching` · `tags: illustration, trucks, graffiti, urban, line-art, vehicles` · added 2026-11
 
