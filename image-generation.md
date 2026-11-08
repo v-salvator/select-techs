@@ -6,6 +6,48 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Ethereal human-animal composition prompt](https://www.threads.com/@p2nda/post/DfeTYCLmyDa)
+`status: watching` · `tags: prompt, text-to-image, watercolor, ink, translucent, figure, animal` · added 2026-11
+
+A template prompt by Edson Pires (@p2nda) for ethereal fine-art compositions: a human figure with an animal companion, both rendered in translucent ink washes and flowing silhouettes on luminous ivory paper. Slot in `[HUMAN]`, `[ANIMAL]`, `[SETTING]`, `[ACTION]`, `[OUTFIT]`, `[MOTIF]`, and `[COLORS]`.
+**Why I care:** The prompt's palette ratios (65% ivory negative space, 20% transparent pigment, 10% charcoal silhouette, 5% gold light) and material vocabulary (organza, sheer silk, folded translucent paper) give specific control over the ethereal look. Embeds the creator's signature in the image.
+**Notes:** Author states "Made with GPT image 2.6" (unverified model wording). No license visible. The [full prompt](https://www.threads.com/@p2nda/post/DfeTX6ymxqN) is in the continuation post. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+Ethereal contemporary fine-art composition featuring [HUMAN] accompanied by [ANIMAL] in [SETTING], [ACTION].
+
+A single poetic vertical artwork built from delicate figurative silhouettes and large expanses of luminous warm-ivory paper. The human is recognizable through a few selectively defined facial features, an elegant profile, and a simplified flowing silhouette. The animal retains its essential species-specific features, rendered with the same restrained visual language.
+
+Dress the human in [OUTFIT], suggested through soft shapes and translucent pigment rather than detailed tailoring.
+
+The figures and environment gradually dissolve into broad overlapping sheets of transparent smoky ink, resembling weightless organza, sheer silk, and delicately folded translucent paper. Large fluid veils curl, fold, and overlap with visibly varying opacity, creating depth through transparency rather than conventional anatomical shading.
+
+Include [MOTIF] as one small atmospheric environmental anchor, expressed through fine charcoal silhouettes, subtle reflections, or faint distant forms.
+
+Strict harmonious palette: [COLORS]. Approximately 65% luminous ivory negative space, 20% transparent warm-neutral pigment, 10% concentrated charcoal-black silhouettes, and 5% glowing antique-gold light.
+
+Precise aesthetic: diaphanous translucent layers, silky smoke-like gradients, softly feathered edges, occasional crisp folds, subtle watercolor diffusion, delicate dry-brush accents, extremely selective fine-line drawing, and sophisticated abstract composition.
+
+The primary subject occupies a restrained portion of the composition, surrounded by generous breathing room. Concentrate visual detail in one focal area while allowing surrounding forms to fade naturally into the paper. A contemporary gallery-quality fusion of watercolor, translucent ink, and abstract layered-silk aesthetics.
+
+Integrate the tiny handwritten signature "prompt by @p2nda" discreetly into scene. Single complete artwork. 4:5
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/ethereal-1.webp" width="155" alt="Woman with braids and pig in sailor cap by dock">
+  <img src="assets/image-generation/ethereal-2.webp" width="155" alt="Woman in golden robe with fox under acacia tree">
+  <img src="assets/image-generation/ethereal-3.webp" width="155" alt="Person with glasses holding badger, window and teacup">
+  <img src="assets/image-generation/ethereal-4.webp" width="155" alt="Woman with purple hair looking at small rodent on fabric">
+  <img src="assets/image-generation/ethereal-5.webp" width="155" alt="Elderly man with owl by lakeside cabin">
+</p>
+
+<sub>First 5 of 8 images from [@p2nda's post](https://www.threads.com/@p2nda/post/DfeTYCLmyDa).</sub>
+
 ### [Anthropic Report Illustration Style skill](https://skillry.dev/skills/bs-anthropic-report-illustration)
 `status: watching` · `tags: agent-skill, editorial, collage, geometric, illustration, paid` · added 2026-11
 
