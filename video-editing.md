@@ -6,6 +6,55 @@ Editors, motion graphics, programmatic video, and launch films.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Remotion](https://github.com/remotion-dev/remotion)
+`status: watching` · `tags: react, programmatic-video, rendering, compositions, typescript` · added 2026-11
+
+Make videos programmatically with React. Write components, render to MP4. Used for product demos, social clips, and data-driven videos.
+**Why I care:** If you already know React, you can make videos without learning new tools. Good for templated content at scale.
+**Notes:** Custom license: free for individuals, non-profits, and companies ≤3 employees; larger companies need a paid license. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [MoviePy](https://github.com/Zulko/moviepy)
+`status: watching` · `tags: python, video-editing, compositing, scripting, automation` · added 2026-11
+
+Video editing with Python. Cut, concatenate, composite, and add effects programmatically.
+**Why I care:** Quick video manipulation in Python scripts without a GUI editor.
+**Notes:** MIT. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+`status: watching` · `tags: encoding, transcoding, cli, video, audio` · added 2026-11
+
+The universal video/audio encoder, decoder, and transcoder. The engine behind most video tools.
+**Why I care:** If you're processing video, FFmpeg is probably involved somewhere. Essential CLI tool.
+**Notes:** LGPL v2.1+ by default; some optional features are GPL. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [OBS Studio](https://github.com/obsproject/obs-studio)
+`status: watching` · `tags: recording, streaming, capture, obs, desktop` · added 2026-11
+
+Free software for live streaming and screen recording. Industry standard for content creators.
+**Why I care:** When you need to record a demo, tutorial, or stream.
+**Notes:** GPL-2.0. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [MuseTalk](https://github.com/TMElyralab/MuseTalk)
+`status: watching` · `tags: lip-sync, talking-head, video, ai, audio-driven` · added 2026-11
+
+Real-time lip synchronization with latent space inpainting. Audio-driven talking head generation.
+**Why I care:** Lip-sync for dubbing or avatar videos without manual animation.
+**Notes:** Code is MIT; model weights may have separate terms (check repo). From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [Demucs](https://github.com/adefossez/demucs)
+`status: watching` · `tags: audio, source-separation, stems, music, vocals` · added 2026-11
+
+Hybrid spectrogram and waveform source separation. Splits audio into stems (vocals, drums, bass, other).
+**Why I care:** Extract vocals or instrumentals from a track for remixing or cleaning up audio.
+**Notes:** MIT. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
+### [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+`status: watching` · `tags: speech, stt, tts, offline, onnx, embedded` · added 2026-11
+
+Offline speech-to-text, text-to-speech, speaker diarization, and more using ONNX runtime. Works on embedded systems, mobile, and servers without internet.
+**Why I care:** Local speech processing when you can't or don't want to call an API.
+**Notes:** Apache-2.0. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
+
 ### [VoiceStudio](https://github.com/debpalash/VoiceStudio)
 `status: watching` · `tags: voice-cloning, tts, dubbing, transcription, local-first, audio` · added 2026-11
 
