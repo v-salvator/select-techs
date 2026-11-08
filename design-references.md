@@ -6,6 +6,21 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Mother Trucker](https://www.threads.com/@hannibalvector/post/DfdZo2xoJb3)
+`status: watching` · `tags: illustration, trucks, graffiti, urban, line-art, vehicles` · added 2026-11
+
+A three-image series by @hannibalvector titled "Mother Trucker 🚛." Detailed line-art illustrations of white commercial trucks with bold red graffiti-style lettering: a delivery truck in an urban street scene, a box truck against a solid red background, and a crane truck from a dramatic low angle with utility wires and city skyline.
+**Why I care:** The consistent style (precise linework, white vehicles, red graffiti, urban grit) across different truck types shows how a visual language can unify varied subjects. Good reference for vehicle illustration or urban poster work.
+**Notes:** No prompt, model, tool, or license disclosed. Same creator as [mass_TECH after midnight](#mass_tech-after-midnight).
+
+<p>
+  <img src="assets/design-references/mother-trucker-1.webp" width="155" alt="Delivery truck with red graffiti in urban street">
+  <img src="assets/design-references/mother-trucker-2.webp" width="155" alt="Box truck with red graffiti on red background">
+  <img src="assets/design-references/mother-trucker-3.webp" width="155" alt="Crane truck low angle with utility wires and skyline">
+</p>
+
+<sub>All 3 images from [@hannibalvector's post](https://www.threads.com/@hannibalvector/post/DfdZo2xoJb3).</sub>
+
 ### [mass_TECH after midnight](https://www.threads.com/@hannibalvector/post/DfeGs9fldXV)
 `status: watching` · `tags: sci-fi, biomechanical, orange-black, illustration, cyberpunk` · added 2026-11
 
