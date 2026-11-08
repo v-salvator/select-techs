@@ -6,6 +6,13 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Hacktron website launch](https://www.hacktron.ai/)
+`status: watching` · `tags: landing-page, cybersecurity, startup, dark-theme, announcement` · added 2026-11
+
+Website for Hacktron, an AI-native cybersecurity platform offering continuous red teaming, PR review, and white-box pentests. Announced via [@HacktronAI](https://x.com/HacktronAI/status/2119252317241303221) with "new website who dis."
+**Why I care:** A cybersecurity startup landing page to reference for dark-themed, technical product sites.
+**Notes:** Commercial product; no repo or pricing verified. Built with Astro. Site confirmed live. Video-only source; layout/motion not described (footage not reviewed). Not tested.
+
 ### [Mother Trucker](https://www.threads.com/@hannibalvector/post/DfdZo2xoJb3)
 `status: watching` · `tags: illustration, trucks, graffiti, urban, line-art, vehicles` · added 2026-11
 
