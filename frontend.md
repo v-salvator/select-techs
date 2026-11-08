@@ -55,6 +55,27 @@ Simple tool to load GLSL shaders on HTML Canvas using WebGL. Good for shader pre
 **Why I care:** Quick way to test shaders without a full 3D setup.
 **Notes:** MIT. From [@e1genqq's library list](https://x.com/e1genqq/status/2119162629910331460). Not tested.
 
+### [Scrolltide](https://www.scrolltide.co/)
+`status: watching` · `tags: prompts, templates, 3d, scroll-driven, cinematic, ai-builder` · added 2026-11
+
+Cinematic website prompts and templates for 3D/scroll-driven sites. Browse pre-built sections, copy prompts into AI builders (Claude, Cursor, Lovable), or use their components directly.
+**Why I care:** Similar to Jiro but focused on immersive, scroll-driven experiences rather than general landing pages. Useful when vibe-coding sites that need depth and motion.
+**Notes:** Free and paid tiers. From [Aman Singh (@amananimates)](https://x.com/amananimates/status/2119127905666314632), co-founder of Scrolltide. [Author continuation](https://x.com/amananimates/status/2119128340149969008) promotes companion Claude/Cursor prompts. No public repo or declared license verified. Not tested.
+
+### [Scroll Shaders](https://scrollshaders.com/)
+`status: watching` · `tags: shaders, webgl, components, react, looping, backgrounds` · added 2026-11
+
+Seamless-loop WebGL shaders and components. Copy React/HTML code or download MP4. Designed for scroll-triggered or looping background effects.
+**Why I care:** Ready-made shader effects that can drop into a project without writing GLSL from scratch. The MP4 option is useful for non-WebGL contexts or video backgrounds.
+**Notes:** Free and paid tiers. From Scrolltide team. No public repo or declared license verified. Not tested.
+
+### [Refero Styles](https://styles.refero.design/)
+`status: watching` · `tags: design-systems, ai-readable, styles, typography, colors, reference` · added 2026-11
+
+A library of real website design styles (typography, colors, spacing) with AI-readable DESIGN.md files. Browse sites, then feed the style doc to an AI builder to match the look.
+**Why I care:** Bridges the gap between "I like this site's style" and getting an AI to reproduce it. The DESIGN.md format is purpose-built for agent consumption.
+**Notes:** Part of the Refero suite. From Scrolltide team. No public repo or declared license verified. Not tested.
+
 ### [Jiro](https://jiro.build/)
 `status: watching` · `tags: prompts, landing-page, templates, ai-builder, mcp` · added 2026-11
 
@@ -70,8 +91,8 @@ Animated icon library with 9,955 icons, each with hand-written motion that plays
 **Notes:** ISC license; includes icons built on Lucide (ISC), Tabler (MIT), Iconoir (MIT), Phosphor (MIT), and brand logos drawn after Simple Icons (CC0). Brand logos remain trademarks of their owners. Not tested. Docs: <https://pulsoicon.com/docs>. Playground: <https://pulsoicon.com/playground>.
 
 ### [apple-design (emilkowalski/skills)](https://github.com/emilkowalski/skills/tree/main/skills/apple-design)
-`status: watching` · `tags: agent-skill, animation, springs, gestures, interaction-design, typography, a11y` · added 2026-10
+`status: watching` · `tags: agent-skill, animation, springs, gestures, interaction-design, typography, a11y, drawer, sheet, drag, swipe` · added 2026-10 · updated 2026-11
 
 An agent skill that adapts Apple's interface and fluid-motion principles, mainly WWDC 2018's *Designing Fluid Interfaces*, for the web: CSS, Pointer Events, `requestAnimationFrame`, and spring libraries like Motion/Framer Motion. It covers instant response on press, 1:1 drag tracking, interruptible animations, springs instead of fixed durations, carrying the drag's speed into the animation, momentum, rubber-banding, translucent materials, reduced motion, and typography.
 **Why I care:** Agents have weak taste in motion. This gives them concrete rules and numbers so drawers, sheets, and swipe interactions feel native instead of "fine". For example: default springs to damping `1.0`, add bounce (~`0.8`) only after a flick, and always animate from the current on-screen value.
-**Notes:** Part of Emil Kowalski's skills collection (ex-Vercel/Linear, creator of Sonner), MIT, ~50k stars. Install the whole set with `npx skills@latest add emilkowalski/skills`. Related skills in the same repo worth a look: `emil-design-eng` (the main one), `animate`, `review-animations`, `animation-performance`, and `pick-ui-library`.
+**Notes:** Part of Emil Kowalski's skills collection (ex-Vercel/Linear, creator of Sonner/[Vaul](https://vaul.emilkowal.ski/)), MIT. Install the whole set with `npx skills@latest add emilkowalski/skills`. Newly announced [`/gestures`](https://github.com/emilkowalski/skills/blob/main/skills/gestures/SKILL.md) skill ([Nov 2026](https://x.com/emilkowalski/status/2119406396160540738)) covers drag, swipe, and sheet interactions: 1:1 finger tracking via motion values (not React state), springs seeded with release velocity, rubber-banding, distance-or-velocity dismissal thresholds, and when to use Vaul instead of hand-rolling. Related skills: `emil-design-eng` (the main one), `animate`, `review-animations`, `animation-performance`, `pick-ui-library`. Not tested.
