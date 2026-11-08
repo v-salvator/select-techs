@@ -6,6 +6,13 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Jiro](https://jiro.build/)
+`status: watching` · `tags: prompts, landing-page, templates, ai-builder, mcp` · added 2026-11
+
+A design prompt library for landing pages: browse templates and sections, copy the prompt, paste into AI builders like Bolt.new, Lovable, v0, Replit, or Cursor. Also offers an MCP endpoint (`mcp.jiro.build`) so AI tools can pull prompts directly.
+**Why I care:** Shortcuts the "blank page" problem when vibe-coding landing pages. The prompts are tuned for specific AI builders, so output should be closer to the preview than a generic description.
+**Notes:** Freemium; some templates require a paid plan. Site advertises 1,454+ sections/templates. No public repo or declared license. Not tested.
+
 ### [PulsoIcon](https://github.com/CityPulso/PulsoIcon)
 `status: watching` · `tags: icons, animation, react, vue, svelte, compose, swiftui, lucide` · added 2026-11
 
