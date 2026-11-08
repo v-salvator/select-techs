@@ -6,6 +6,13 @@ Editors, motion graphics, programmatic video, and launch films.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [VoiceStudio](https://github.com/debpalash/VoiceStudio)
+`status: watching` · `tags: voice-cloning, tts, dubbing, transcription, local-first, audio` · added 2026-11
+
+Open-source, fully local voice AI studio: voice cloning from a reference recording, voice design from text descriptions, video dubbing with speech timed to the original, dictation, transcription, and audiobook creation. Supports 646 languages via the default OmniVoice engine or other models from the built-in Model Manager.
+**Why I care:** A local ElevenLabs alternative that runs on my own hardware with no account or API. The video dubbing feature fits into the launch video workflow alongside [HyperFrames](#hyperframes) and [cinematic-shot](#cinematic-shot).
+**Notes:** Runs on macOS (Apple Silicon with Metal), Windows (NVIDIA CUDA, AMD ROCm, CPU), Linux (CUDA, CPU, Vulkan for GGUF), and Docker. Python backend. Optional paid Pro tier for commercial licensing and multi-device sync; optional Cloud tier (early access) for hosted API. AGPL-3.0. Not tested. Docs: <https://voicestudio.sh>.
+
 ### [HyperFrames](https://github.com/heygen-com/hyperframes)
 `status: watching` · `tags: html-to-video, programmatic-video, agent-skill, claude-code, gsap, ffmpeg, motion-graphics` · added 2026-10
 
