@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [mass_TECH after midnight](https://www.threads.com/@hannibalvector/post/DfeGs9fldXV)
+`status: watching` · `tags: sci-fi, biomechanical, orange-black, illustration, cyberpunk` · added 2026-11
+
+A seven-image series by @hannibalvector titled "mass_TECH after midnight 🟧." Striking orange-and-black sci-fi scenes: multi-eyed biomechanical entities with astronaut figures, a seated figure with mechanical eye apparatus against anatomical diagrams, a white-haired figure amid glowing orange flasks under a red moon, a helmeted figure with vintage electronics, and a wire-suspended figure hovering over an operating table surrounded by masked surgeons.
+**Why I care:** The limited orange/black/grey palette and mix of clinical, biomechanical, and cosmic imagery create a cohesive dystopian aesthetic. Useful reference for sci-fi illustration or dark tech visuals.
+**Notes:** No prompt, model, tool, or license disclosed. Shown here as first 5 of 7 source images.
+
+<p>
+  <img src="assets/design-references/mass-tech-1.webp" width="120" alt="Multi-eyed entity with astronaut figures">
+  <img src="assets/design-references/mass-tech-2.webp" width="120" alt="Figure with mechanical eye apparatus and anatomy diagrams">
+  <img src="assets/design-references/mass-tech-3.webp" width="120" alt="Figure with white hair amid orange flasks under red moon">
+  <img src="assets/design-references/mass-tech-4.webp" width="120" alt="Helmeted figure with vintage electronics">
+  <img src="assets/design-references/mass-tech-5.webp" width="120" alt="Suspended figure in operating room">
+</p>
+
+<sub>First 5 of 7 images from [@hannibalvector's post](https://www.threads.com/@hannibalvector/post/DfeGs9fldXV).</sub>
+
 ### [39 — beast and figure illustrations](https://www.threads.com/@yuo_art/post/Dfdh-6Vj0pR)
 `status: watching` · `tags: ai-art, illustration, maximalist, floral, creature, figure` · added 2026-11
 
