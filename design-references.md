@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Ensemble (앙상블)](https://www.threads.com/@ath.butordinary/post/DffvqwBkjKd)
+`status: watching` · `tags: illustration, hanbok, music, portrait, color-blocking, korean` · added 2026-11
+
+A music-themed portrait series by LSHA (@ath.butordinary) titled "앙상블" (Ensemble): traditional Korean dress and hair styling paired with contemporary instruments and bold graphic color fields — DJ booth, red vinyl close-up, cello, gayageum, and blue violin.
+**Why I care:** Clean modern-tradition contrast — hanbok/gat and saturated geometric backdrops against DJ gear, vinyl, cello, zither, and violin — with a consistent blue/orange/cream palette across the set.
+**Notes:** Creator reply [continuation](https://www.threads.com/@ath.butordinary/post/Dff2oH7E-6Z) shares no prompt. No model, tool, or license disclosed. Shown here as first 5 of 20 source images.
+
+<p>
+  <img src="assets/design-references/ensemble-1.webp" width="155" alt="Hanbok DJ at mixer with headphones and phoenix embroidery">
+  <img src="assets/design-references/ensemble-2.webp" width="155" alt="Hands with floral nails scratching a red vinyl record">
+  <img src="assets/design-references/ensemble-3.webp" width="155" alt="Elderly cellist in gat and colorful robe with orange cello">
+  <img src="assets/design-references/ensemble-4.webp" width="155" alt="Woman in blue hanbok playing gayageum against orange-green blocks">
+  <img src="assets/design-references/ensemble-5.webp" width="155" alt="Musician in gat and cream robe playing electric-blue violin">
+</p>
+
+<sub>First 5 of 20 images from [@ath.butordinary's post](https://www.threads.com/@ath.butordinary/post/DffvqwBkjKd).</sub>
+
 ### [Hacktron website launch](https://www.hacktron.ai/)
 `status: watching` · `tags: landing-page, cybersecurity, startup, dark-theme, announcement` · added 2026-11
 
