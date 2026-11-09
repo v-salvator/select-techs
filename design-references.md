@@ -6,6 +6,19 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Ornate floral portrait](https://www.threads.com/@shin_photo128/post/DfdgMaNgb8Y)
+`status: watching` · `tags: illustration, portrait, ukiyo-e, peony, gold, red, neo-traditional` · added 2026-11
+
+A vertical ornate illustration by しん (@shin_photo128): a pale-haired woman in profile with a black glove at her lips, a large red disc behind her head, and dense red/cream/gold peonies with gold hair ornaments on a black-and-gold patterned ground.
+**Why I care:** Strong neo-traditional Japanese graphic language — flat decorative layering, high-contrast red/black/gold, and peony framing that reads as print-ready poster art.
+**Notes:** No prompt, model, tool, or reuse license disclosed. Single source image.
+
+<p>
+  <img src="assets/design-references/ornate-floral-portrait-1.webp" width="155" alt="Pale-haired woman in profile with black glove, red disc, and peony ornaments">
+</p>
+
+<sub>Image from [@shin_photo128's post](https://www.threads.com/@shin_photo128/post/DfdgMaNgb8Y).</sub>
+
 ### [Hacktron website launch](https://www.hacktron.ai/)
 `status: watching` · `tags: landing-page, cybersecurity, startup, dark-theme, announcement` · added 2026-11
 

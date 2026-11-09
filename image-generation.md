@@ -6,6 +6,31 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Halftone poetic poster prompt](https://www.threads.com/@ammiamia_/post/DfgVj9dkq35)
+`status: watching` · `tags: prompt, photo-to-poster, typography, halftone, retro, editorial` · added 2026-11
+
+A prompt by @ammiamia_ that turns an uploaded photo into a 3:4 poetic printed poster: top-third silver-white negative space with short English lines, a huge high-contrast serif title word sampled from the photo's colors, and the subject rising through the letters with fine CMY-style circular halftone dots.
+**Why I care:** Close cousin to the Chloe_Lai retro type poster, but without the ORIGINAL inset — denser print-halftone texture and explicit continuity between scene and whitespace. Strong editorial poster look from one photo.
+**Notes:** Full prompt is in the [continuation](https://www.threads.com/@ammiamia_/post/DfgVkidksUo) (Traditional Chinese). Model not named. No license disclosed. Not tested. Same creator as the [knitted art toy prompt](#photo-to-knitted-art-toy-prompt).
+
+<details>
+<summary>Full prompt</summary>
+
+```
+請將我上傳的照片製作成一張高級印刷海報。先觀察照片，選擇最有辨識度、適合向上延伸的主體，保留原照片的關鍵場景、視角、姿態和主體關係，不隨意增添物件。上方約三分之一為乾淨的亮銀白紙色留白，放置兩段與照片情緒呼應的簡短英文詩句，使用克制的小號打字機字體。中部根據照片主題，自選一個簡短英文單詞，以橫跨畫面的巨大高對比襯線大寫字呈現。讓真實攝影主體從下方原場景自然向上延伸，穿過大字、遮擋部分筆畫，並明顯越過字頂進入亮銀白色留白。主體必須與原始場景保持連接、比例正常；優先調整文字位置和取景，不要拉長頭頸、扭曲身體或製造漂浮物。遮擋適量，保持單字清晰可讀。整張海報應為連續畫面。利用主體輪廓、光線、背景色與網點疏密，讓照片在字間及主體周圍自然銜接留白，避免上下矩形拼接、筆直橫切邊、摳圖白邊與生硬漸層。大字顏色從照片的花瓣、果實、枝葉、牆面、羽毛或水色中提取，與畫面主色協調且保持可讀對比，不固定使用藍色。小詩和細節標記採用同色系深色。在大字與風格化照片內部加入細密、清晰可見的圓形彩色印刷網點，青、洋紅、黃等墨點可輕微錯位，暗密亮疏。整體像復古雜誌的彩色半調印刷，而非普通雜訊或刮痕。整體克制、詩意，英文準確，無額外標題、新增浮水印或無關裝飾。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/halftone-poster-1.webp" width="155" alt="FLOAT poster with yellow chair in teal water">
+  <img src="assets/image-generation/halftone-poster-2.webp" width="155" alt="DREAM poster with collage tree canopy and walking figure">
+  <img src="assets/image-generation/halftone-poster-3.webp" width="155" alt="HOME poster with red-roof house, sheep, and sea">
+  <img src="assets/image-generation/halftone-poster-4.webp" width="155" alt="JOURNEY poster with ferry seats looking out to sea">
+</p>
+
+<sub>All 4 images from [@ammiamia_'s post](https://www.threads.com/@ammiamia_/post/DfgVj9dkq35).</sub>
+
 ### [Ethereal human-animal composition prompt](https://www.threads.com/@p2nda/post/DfeTYCLmyDa)
 `status: watching` · `tags: prompt, text-to-image, watercolor, ink, translucent, figure, animal` · added 2026-11
 
