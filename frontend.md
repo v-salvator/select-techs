@@ -6,6 +6,20 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Astryx](https://github.com/meta/astryx)
+`status: watching` · `tags: design-system, react, stylex, themes, cli, agent-ready, meta` · added 2026-11
+
+Meta's open-source React design system (npm `@astryxdesign/core`): themable components with dark mode, ready-made themes, page templates, and a CLI for docs, scaffolding, `init` into AGENTS.md/CLAUDE.md, and `swizzle` to eject component source. Authored with StyleX; consumers can override with Tailwind, CSS modules, or plain CSS. Official docs at [astryx.atmeta.com](https://astryx.atmeta.com/).
+**Why I care:** A full Meta-backed system aimed at both humans and coding agents — CLI/docs designed so assistants use the same component references. Useful when building internal tools or agent-assisted UI without inventing a kit from scratch.
+**Notes:** MIT (Copyright Meta Platforms, Inc.). Currently in Beta; requires React 19+. Discovered via [無聊就學SI Lab | Boring Traveler (@akiraxtwo)](https://www.threads.com/@akiraxtwo/post/DffW6-5AfzD). Not tested.
+
+### [Details.so](https://www.details.so/)
+`status: watching` · `tags: design-inspiration, gallery, micro-interactions, mcp, ai, web-design` · added 2026-11
+
+A curated gallery of production website details — heroes, footers, transitions, preloaders, and micro-interactions — with optional AI/MCP access so assistants can pull references. Companion [Vault](https://www.details.so/vault) offers ready-to-use web interaction snippets.
+**Why I care:** Most galleries dump full-page screenshots; Details files captures by the exact part, which is closer to how I actually reuse inspiration. The MCP angle means an agent can search those parts instead of me browsing alone.
+**Notes:** Shared by [Details (@detailsdotso)](https://www.threads.com/@detailsdotso/post/DfcN-RUiaFG) ("your AI has access to taste") with continuation pointing to [details.so/vault](https://www.threads.com/@detailsdotso/post/DfcSu8CjCi8). Official site says Pro unlocks the full library; MCP access is included on every paid Details plan. Exact pricing and license not stated on the pages checked. Source media was three videos (not reviewed). Not tested.
+
 ### [Popmotion](https://github.com/Popmotion/popmotion)
 `status: watching` · `tags: animation, springs, keyframes, physics, motion` · added 2026-11
 
