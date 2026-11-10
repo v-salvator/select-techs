@@ -6,6 +6,13 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Movie ticket-purchasing concept](https://www.threads.com/@scroll.gallery/post/Dfh3qlZjuQu)
+`status: watching` · `tags: ui, mobile, cinema, ticket-booking, motion, concept` · added 2026-11
+
+A movie ticket-purchasing UI concept credited to raminnasibov, shared by Scroll Gallery (@scroll.gallery). Source post text: "Movie ticket-purchasing concept by raminnasibov."
+**Why I care:** Cinema booking flows are a useful reference for dense mobile commerce — showtime selection, seats, and confirmation — when designing similar purchase journeys.
+**Notes:** Shared via [Scroll Gallery](https://scroll.gallery/), whose site describes itself as discovering "best design resources & solutions from industry leaders" for inspiration and creative workflow. Author continuation: [link post](https://www.threads.com/@scroll.gallery/post/Dfh3xO3DKFH). A designer named Ramin Nasibov exists online, but no public page for this specific concept was verified, so only the credited handle is used. Video-only source; footage not reviewed. No prompt, tool, model, or license disclosed. Not tested.
+
 ### [Ensemble (앙상블)](https://www.threads.com/@ath.butordinary/post/DffvqwBkjKd)
 `status: watching` · `tags: illustration, hanbok, music, portrait, color-blocking, korean` · added 2026-11
 
