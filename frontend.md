@@ -6,6 +6,13 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Xcode plugin for Claude Code](https://github.com/anthropics/claude-plugins-official/pull/6338)
+`status: watching` · `tags: claude-code, plugin, xcode, ios, macos, simulator, apple, mcp` · added 2026-11
+
+Official Claude Code marketplace plugin named `xcode` that works with Xcode projects: build, run, and test schemes, render SwiftUI previews, drive simulators and devices, read build logs and diagnostics, and search Apple developer documentation.
+**Why I care:** Lets Claude Code drive the native Apple toolchain instead of only editing Swift files — useful when building or diagnosing iOS/Mac apps from the agent.
+**Notes:** Listed in [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) with marketplace `author.name` **"Apple Inc."** and homepage https://developer.apple.com/xcode/. Plugin source is not vendored in that repo; marketplace `source` is `xcrun agent plugin path --plugin-format claude` (`mode: link`). Merged via [PR #6338](https://github.com/anthropics/claude-plugins-official/pull/6338) by chaoshuai-ant (carried from [#6259](https://github.com/anthropics/claude-plugins-official/pull/6259) by jonathanpenn). Shared by [Harry Ng (@harryworld)](https://www.threads.com/@harryworld/post/DfgGb7KmSaa), who describes it as an Apple-released official Xcode plugin; [continuation](https://www.threads.com/@harryworld/post/DfgGcmJGQV-) links the PR. Install from Claude Code: `/plugin install xcode@claude-plugins-official` (matches marketplace name `xcode`). Desktop: search for Xcode in customization settings (per the post). Not tested.
+
 ### [Astryx](https://github.com/meta/astryx)
 `status: watching` · `tags: design-system, react, stylex, themes, cli, agent-ready, meta` · added 2026-11
 
