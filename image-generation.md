@@ -6,6 +6,41 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Dune Scarlet](https://www.threads.com/@wwni_y/post/DfeISn0oEES)
+`status: watching` · `tags: prompt, photo-to-portrait, desert, scarlet, selfie, face-reference, editorial` · added 2026-11
+
+A face-reference selfie prompt set by @wwni_y titled "Dune Scarlet": scarlet-red hooded draped fabric against golden sand dunes under a bright blue sky, high-angle chest-up framing. Separate female and male prompt variants.
+**Why I care:** Clear face-lock language ("exact facial features preserved from reference") plus a strong costume-and-landscape recipe — useful when you want identity held from a reference while swapping outfit and setting.
+**Notes:** Requires a face reference image. Model/tool not stated in the post text; the first still visibly overlays the text "NB2PRO/GPT" and "BY NIA" (shown as written on the image, not treated as a confirmed model). Female prompt in [continuation](https://www.threads.com/@wwni_y/post/DfeId5voOoo); male prompt in [reply "here u go"](https://www.threads.com/@wwni_y/post/DfeJJcjoL6A). Post also includes a video (not watched). No license disclosed. Not tested.
+
+<details>
+<summary>Full prompt — female version</summary>
+
+```
+Hyper-realistic 8K RAW photo, high-angle shot looking slightly down, exact facial features preserved perfectly from reference. Sleek polished hair with clean center part, smoothly pulled back, natural shine, exact hair color. Makeup: soft matte warm neutral lips, natural laminated brows, subtle contour, flawless radiant skin. Flowing scarlet-red draped fabric, elegant hooded silhouette, modern cut-out, soft folds, premium drape. Large polished round silver earrings. Pose: relaxed, looking gently up toward the camera, one arm extended forward in selfie perspective, phone not visible. Background: sweeping high-angle view across vast golden sand dunes, endless desert landscape stretching far below, clear bright blue sky, smooth wind-rippled sand patterns. Lighting: bright warm overhead sunlight, soft natural glow, gentle shadows, vivid natural tones. Style: luxury editorial, ultra-sharp focus everywhere, no blur, photorealistic, Instagram aesthetic, chest-up framing, 3:4
+```
+
+</details>
+
+<details>
+<summary>Full prompt — male version</summary>
+
+```
+Hyper-realistic 8K RAW high-angle selfie, looking slightly down, exact facial features 100% preserved from male reference — eyes, bone structure, jawline, skin tone unchanged. Neat sleek polished hair, clean sharp center part, smoothly styled back, natural healthy shine, exact hair color. Grooming: natural defined brows, subtle facial contouring, clean matte skin, fresh natural finish, sharp jawline preserved. Outfit: elegant flowing deep crimson-red draped fabric, modern hooded silhouette, soft refined folds, clean structured cut-out at chest, premium lightweight fabric with soft natural drape — no earrings. Pose: looking gently up toward camera, one arm extended forward naturally, phone completely out of frame, relaxed confident posture. Background: sweeping high-angle vista across vast golden desert, endless smooth sand dunes stretching to horizon, clear cloudless bright blue sky, soft wind-formed sand ripples. Lighting: bright warm overhead sunlight, natural soft glow, gentle defined shadows, rich natural tones, no harsh glare. Style: modern masculine luxury editorial, ultra-sharp focus everywhere, zero blur, photorealistic, sophisticated minimalist aesthetic, chest-up framing, 3:4
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/dune-scarlet-1.webp" width="155" alt="Cover still with Prompt overlay, scarlet hood, desert dunes">
+  <img src="assets/image-generation/dune-scarlet-2.webp" width="200" alt="High-angle scarlet-hood selfie over golden dunes">
+  <img src="assets/image-generation/dune-scarlet-3.webp" width="140" alt="Vertical scarlet desert portrait with silver earrings">
+  <img src="assets/image-generation/dune-scarlet-4.webp" width="200" alt="Wide scarlet-hood selfie across rolling dunes">
+  <img src="assets/image-generation/dune-scarlet-5.webp" width="140" alt="Close scarlet desert selfie under blue sky">
+</p>
+
+<sub>All 5 stills from [@wwni_y's post](https://www.threads.com/@wwni_y/post/DfeISn0oEES) (video not included).</sub>
+
 ### [Halftone poetic poster prompt](https://www.threads.com/@ammiamia_/post/DfgVj9dkq35)
 `status: watching` · `tags: prompt, photo-to-poster, typography, halftone, retro, editorial` · added 2026-11
 
