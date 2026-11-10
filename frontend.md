@@ -6,6 +6,13 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Foil Proof Lab (燙印打樣室)](https://naldo-w.github.io/foil-proof-lab/)
+`status: watching` · `tags: print, foil, embossing, mockup, svg, browser-tool, typography` · added 2026-11
+
+A free in-browser tool by naldo.design™ (@naldo.design / n_do) that simulates print-finishing on SVG or raster artwork — hot-foil (gold/silver and other foils), holographic foil, inks and spot colors, UV/varnish, and embossing/debossing — then lays out cards for mockup export. Official title: 燙印打樣室 · Foil Proof Lab.
+**Why I care:** Lets you preview foil and relief effects while designing, instead of compositing them later in Photoshop. Layer names can auto-assign finishes, and light/paper response update in the browser.
+**Notes:** Live at the GitHub Pages URL above; source [naldo-w/foil-proof-lab](https://github.com/naldo-w/foil-proof-lab). README and on-page footer state the code is **MIT** (© 2026 n_do / naldo-w); `logo.svg` is excluded (all rights reserved). Supports SVG plus PNG/JPG/WebP/TIFF. Finishing layers can be distinguished by named color separations; naming rules are under ⋯ → 「圖層命名規則」 ([author reply](https://www.threads.com/@naldo.design/post/DfjoH17oJ7k)). Parameter import/export via JSON; multiple layouts, light sources, and paper reflection. README recommends Chrome/Edge for export; Safari support for `foreignObject` + `mask` is incomplete. On-page note: the preview is a visual approximation and real print may differ. Uploads stay in the local browser. Shared via [Threads](https://www.threads.com/@naldo.design/post/DfjjkfzIAR6); the post also calls it still in development. Source media included a video (not watched). Not tested.
+
 ### [Astryx](https://github.com/meta/astryx)
 `status: watching` · `tags: design-system, react, stylex, themes, cli, agent-ready, meta` · added 2026-11
 
