@@ -6,6 +6,34 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [CR7 poster prompt](https://www.threads.com/@afzanhilmi/post/Dfmu5UPn7GW)
+`status: watching` · `tags: prompt, midjourney, sref, poster, sports, typography` · added 2026-11
+
+A Midjourney poster prompt by Afzan | AI Creative Director (@afzanhilmi), posted as "CR7 | The Collection 🐐": a modern full-body celebration poster of Cristiano Ronaldo in a Portugal kit on a clean background, with particle breakup and a limited colour glow. The third still labels the tool as "4:5 | Midjourney" and prints the reusable prompt, including `--sref` style codes and `--v 8.2`.
+**Why I care:** A complete sports-poster recipe where the `--sref` stack does most of the look — useful if you want that dissolving full-body figure on a pale field, and a reminder that the subject here is a real public figure.
+**Notes:** The prompt depicts a real public figure (Cristiano Ronaldo). Midjourney is attributed from the author's image overlay; `--v 8.2` is written as it appears in the prompt, not independently verified as a current version. The `--sref` codes drive the look. Spelling in the prompt (e.g. CHRISTIANO, SUITE) is kept as written. The final still of the carousel says "Prompts available on my Telegram channel" but gives no URL; only the one prompt shown in the post is included here. Same creator as the [BURNT MOTION sref set](#burnt-motion-sref-set). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+MODERN POSTER OF CHRISTIANO RONALDO IN PORTUGAL SUITE IN CELEBRATION POSE, CLEAN
+BACKGROUND, FULL BODY --CHAOS 15 --AR 4:5 --SREF 2405248426 12133245 3433999548
+3520654377 96937294 1444598803 --SW 300 --STYLIZE 300 --HD --V 8.2
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/cr7-poster-1.webp" width="155" alt="Cover still: celebrating figure in a red 7 kit, PROMPT CR7 POSTER typography">
+  <img src="assets/image-generation/cr7-poster-2.webp" width="155" alt="Celebration pose in a red kit with particle breakup and red glow">
+  <img src="assets/image-generation/cr7-poster-3.webp" width="155" alt="Same pose with the Midjourney prompt overlay">
+  <img src="assets/image-generation/cr7-poster-4.webp" width="155" alt="Full-body celebration in a red kit on a pale background">
+  <img src="assets/image-generation/cr7-poster-5.webp" width="155" alt="Leaping figure in a white kit with blue-orange particle glow">
+</p>
+
+<sub>First 5 of 15 images from [@afzanhilmi's post](https://www.threads.com/@afzanhilmi/post/Dfmu5UPn7GW).</sub>
+
 ### [Dune Scarlet](https://www.threads.com/@wwni_y/post/DfeISn0oEES)
 `status: watching` · `tags: prompt, photo-to-portrait, desert, scarlet, selfie, face-reference, editorial` · added 2026-11
 
