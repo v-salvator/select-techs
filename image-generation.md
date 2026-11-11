@@ -6,6 +6,42 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Cubist minimalist portrait prompt](https://www.threads.com/@anggadaras1908/post/DfkS8womdzl)
+`status: watching` · `tags: prompt, photo-to-portrait, cubist, vector, minimal, editorial` · added 2026-11
+
+A prompt by 💙Angga Nerazzurri💙 (@anggadaras1908) that turns an attached photo of a person into a 3:4 "Picasso meets minimalism" neo-expressive cubist vector portrait on a deep matte black background, with flat color blocks, simplified features, and fashion-illustration styling. The source post text is just "Slepp."
+**Why I care:** A compact recipe for stylized, print-ready cubist portraits from a real face — useful when you want icon-like faces with limited color and poster texture rather than photorealism.
+**Notes:** Needs a reference photo ("the person shown in the attached image"). No model or tool is stated. The prompt tail includes the name "Angga", the line "THE SAME VIBE IN A DIFFERENT PLACE", and ♡ — these appear to be personalized caption text you can replace; the prompt is kept verbatim below. Full prompt is in the [continuation](https://www.threads.com/@anggadaras1908/post/DfkS8riGee2). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+Create a playful, neo-expressive, cubist minimalist vector illustration
+
+of the person shown in the attached image. The style is "Picasso meets minimalism," inspired by stylish fashion magazines and playful modern art. Highly simplified and exaggerated facial features with large, abstract eyes, flat eye shapes, minimal black dots or single curved lines, a lack of realistic iris detail, a lack of eyelashes, and highly simplified facial details. A small, abstract nose drawn with a single, short, angular line. A small, single lip line, a small, soft geometric mouth shape, minimal signs of expression, and a lack of realistic mouth anatomy. Slightly rounded, dreamy, innocent, playful cheeks, asymmetrical, elongated, and elegant proportions, a simplified geometric facial plan, stylized angular hair shapes, subtle cartoon elements, and childish artistic distortions. Use clean, scalable vector shapes, flat color blocks, bold, primitive contour lines, and sharp Bézier curves. Abstract compositions with polygons, minimalist imagery, handcrafted quality, expressive use of white space, abstract faces in an icon style, a lack of realistic images, and 2D facial symbols. Subtle overlapping oil paint textures, the rough accents of a handmade suit, careless handwritten notes, visible pigment textures, and the feel of a silk-screened poster have been added.
+
+A vibrant and limited color palette with a deep matte black background. Premium edition composition, modern fashion illustration, stylish and cute, vector art, print-ready.
+
+Angga
+
+THE SAME VIBE IN A DIFFERENT PLACE
+
+♡
+
+The aspect ratio is 3:4.
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/cubist-portrait-1.webp" width="155" alt="Cubist portrait of a man in black with Angga signature, crown and heart doodles">
+  <img src="assets/image-generation/cubist-portrait-2.webp" width="155" alt="Cubist portrait of a woman labeled Novita, with THE SAME VIBE IN A DIFFERENT PLACE">
+  <img src="assets/image-generation/cubist-portrait-3.webp" width="155" alt="Cubist portrait of a man in a beanie and yellow glasses labeled Angga">
+</p>
+
+<sub>All 3 images from [@anggadaras1908's post](https://www.threads.com/@anggadaras1908/post/DfkS8womdzl).</sub>
+
 ### [Dune Scarlet](https://www.threads.com/@wwni_y/post/DfeISn0oEES)
 `status: watching` · `tags: prompt, photo-to-portrait, desert, scarlet, selfie, face-reference, editorial` · added 2026-11
 
