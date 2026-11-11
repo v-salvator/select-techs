@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [サムライの日 illustrations](https://www.threads.com/@pg_aiart/post/DflD82kkmOP)
+`status: watching` · `tags: illustration, samurai, character-design, armor, japanese` · added 2026-11
+
+A ten-image series of samurai-style warriors by PG (@pg_aiart), posted for サムライの日 (Samurai Day, November 11). The post explains the date as 十 + 一 = 士, and says the day was established by 日本和装ホールディングス, which runs the men's kimono store SAMURAI. The warriors wear ornate gold or floral headpieces, patterned armor, and swords, in a detailed illustration style on pale grounds.
+**Why I care:** Consistent character design across many poses — useful reference for ornamental armor, floral headpieces, and blade compositions in a refined, high-contrast palette.
+**Notes:** No prompt, model, tool, or license disclosed. The author's account is @pg_aiart; no specific tool is named. Shown here as first 5 of 10 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/samurai-day-1.webp" width="140" alt="Warrior in a gold floral headpiece and patterned armor, katana held close">
+  <img src="assets/design-references/samurai-day-2.webp" width="140" alt="Warrior in white with a floral hair ornament and lacquered armor">
+  <img src="assets/design-references/samurai-day-3.webp" width="140" alt="Warrior raising a blade, cream floral kimono and gold-accented armor">
+  <img src="assets/design-references/samurai-day-4.webp" width="140" alt="Warrior with a curved blade, silver arm armor, and long braided hair">
+  <img src="assets/design-references/samurai-day-5.webp" width="140" alt="Warrior in red lacquered armor with a long sword and flowing black hair">
+</p>
+
+<sub>First 5 of 10 images from [@pg_aiart's post](https://www.threads.com/@pg_aiart/post/DflD82kkmOP).</sub>
+
 ### [Movie ticket-purchasing concept](https://www.threads.com/@scroll.gallery/post/Dfh3qlZjuQu)
 `status: watching` · `tags: ui, mobile, cinema, ticket-booking, motion, concept` · added 2026-11
 
