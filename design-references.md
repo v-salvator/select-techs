@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Fruit collection food prints](https://www.threads.com/@foxandvelvet/post/DfkrdsHHURG)
+`status: watching` · `tags: illustration, poster, fruit, typography, kitchen, mid-century, commercial` · added 2026-11
+
+A fruit-print series by Fox & Velvet (@foxandvelvet): watermelon, banana, pineapple, orange, and lime posters in bold flat colours, with playful stylized fruit (some with simple faces) and irregular hand-drawn typography repeating the fruit's name. The post calls them "Fruit collection food prints, perfect to add some bright colour to your kitchen."
+**Why I care:** Tight, graphic fruit typography on saturated fields — useful kitchen-poster or packaging reference when you want colour and lettering to do the work.
+**Notes:** Commercial prints by the artist. Official site: [foxandvelvet.com](https://www.foxandvelvet.com/). The profile describes the studio as "Mid Century Poster Design | Food, Drink, & Travel." No prompt, model, or tool disclosed. Not tested.
+
+<p>
+  <img src="assets/design-references/fruit-prints-1.webp" width="155" alt="Watermelon poster with pink and brown lettering on green">
+  <img src="assets/design-references/fruit-prints-2.webp" width="155" alt="Banana poster with teal, orange, and purple lettering on cream">
+  <img src="assets/design-references/fruit-prints-3.webp" width="155" alt="Pineapple poster with brown and teal lettering on orange">
+  <img src="assets/design-references/fruit-prints-4.webp" width="155" alt="Three smiling oranges with orange lettering on yellow">
+  <img src="assets/design-references/fruit-prints-5.webp" width="155" alt="Three smiling limes with lime lettering on teal and yellow">
+</p>
+
+<sub>All 5 images from [@foxandvelvet's post](https://www.threads.com/@foxandvelvet/post/DfkrdsHHURG).</sub>
+
 ### [Movie ticket-purchasing concept](https://www.threads.com/@scroll.gallery/post/Dfh3qlZjuQu)
 `status: watching` · `tags: ui, mobile, cinema, ticket-booking, motion, concept` · added 2026-11
 
