@@ -6,6 +6,22 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Absent Mirror 230](https://www.threads.com/@absentmirror/post/DfmnKoVjat4)
+`status: watching` · `tags: poster, typography, grain, atmosphere, abstract, color` · added 2026-11
+
+Four grainy posters by Absent Mirror (@absentmirror). The post text is "230". Soft, blurred hand and figure forms sit in a blue-purple field with a warm orange light, on a canvas-like grain, with short poetic type: "imprint", "a memory without a story.", "a feeling without a name.", and "maybe some things are meant to be felt, not remembered." The first still is also marked 230 and 230/1000; all four carry small "absentmirror" and "spaces we carry" labels.
+**Why I care:** A tight atmospheric poster language — limited palette, heavy grain, and quiet typography over almost-abstract light and form. Useful reference for mood typography and light-on-texture compositions.
+**Notes:** No continuations, links, prompt, model, tool, or license disclosed. Not tested.
+
+<p>
+  <img src="assets/design-references/absent-mirror-230-1.webp" width="155" alt="Grainy blue-purple corner with a blurred hand, orange floor light, and 230 typography">
+  <img src="assets/design-references/absent-mirror-230-2.webp" width="155" alt="Blurred blue hand reaching toward a glowing sphere, type reading a memory without a story">
+  <img src="assets/design-references/absent-mirror-230-3.webp" width="155" alt="Blurred figure in blue-purple haze with an orange light band, type reading a feeling without a name">
+  <img src="assets/design-references/absent-mirror-230-4.webp" width="155" alt="Close silhouette in grainy blue-purple with orange light, type about things meant to be felt">
+</p>
+
+<sub>All 4 images from [@absentmirror's post](https://www.threads.com/@absentmirror/post/DfmnKoVjat4).</sub>
+
 ### [Movie ticket-purchasing concept](https://www.threads.com/@scroll.gallery/post/Dfh3qlZjuQu)
 `status: watching` · `tags: ui, mobile, cinema, ticket-booking, motion, concept` · added 2026-11
 
