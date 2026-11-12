@@ -105,11 +105,11 @@ A library of real website design styles (typography, colors, spacing) with AI-re
 **Notes:** Part of the Refero suite. From Scrolltide team. No public repo or declared license verified. Not tested.
 
 ### [Jiro](https://jiro.build/)
-`status: watching` · `tags: prompts, landing-page, templates, ai-builder, mcp` · added 2026-11
+`status: watching` · `tags: prompts, landing-page, templates, ai-builder, mcp` · added 2026-11 · updated 2026-11
 
 A design prompt library for landing pages: browse templates and sections, copy the prompt, paste into AI builders like Bolt.new, Lovable, v0, Replit, or Cursor. Also offers an MCP endpoint (`mcp.jiro.build`) so AI tools can pull prompts directly.
 **Why I care:** Shortcuts the "blank page" problem when vibe-coding landing pages. The prompts are tuned for specific AI builders, so output should be closer to the preview than a generic description.
-**Notes:** Freemium; some templates require a paid plan. Site advertises 1,454+ sections/templates. No public repo or declared license. Not tested.
+**Notes:** Freemium; some templates require a paid plan. The site currently advertises 1,464+ sections and templates. From [Tanzil (@heytanzil)](https://www.threads.com/@heytanzil/post/DfoQ_YClkyO), who says he is building jiro.build. [Author continuation](https://www.threads.com/@heytanzil/post/DfoRHlLj2Lf) offers "this landing page prompt and 1400+ design prompts" (count as stated in the post, not independently verified). The example is a moving-business landing page credited in the post as "Fable 5.2 + GPT Image 2.6" (not verified). Video-only source; footage not reviewed. No public repo or declared license. Not tested.
 
 ### [PulsoIcon](https://github.com/CityPulso/PulsoIcon)
 `status: watching` · `tags: icons, animation, react, vue, svelte, compose, swiftui, lucide` · added 2026-11
