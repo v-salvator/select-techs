@@ -6,6 +6,34 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Ink-sketch diptych prompt (极简手绘双联海报)](https://www.threads.com/@aweniai/post/Dfo48mkE_xk)
+`status: watching` · `tags: prompt, photo-to-poster, diptych, ink, watercolor, sketch, side-by-side` · added 2026-11
+
+A prompt by 阿文AI实战笔记 (@aweniai), posted as "Day 73 墨线轻舞纸间" and titled 阿文提示词 V2.0｜极简手绘双联海报. It turns an input photo into a 3:4 vertical diptych: the original photograph on the top half, and a hand-drawn ink sketch with light watercolor on off-white textured paper below, plus a few small thematic doodles.
+**Why I care:** Another clean photo-above / stylized-below comparison, close in structure to the [paper collage comparison](#paper-collage-comparison-prompt-碎片拼貼) but with trembling ink lines, dry-brush washes, and lots of paper white instead of torn collage.
+**Notes:** Needs an input photo. No model or tool is stated. The prompt includes a built-in handwritten credit, "Prompt by @阿文AI实战笔记", kept as written. Full prompt is in the same-author [quote](https://www.threads.com/@aweniai/post/Dfo5AXyEwa5) and [continuation](https://www.threads.com/@aweniai/post/Dfo5FhUE8Ld). The author also links [jevailab.com](https://jevailab.com/), whose site describes itself as a creative AI image workspace for turning a photo or prompt into a poster. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+阿文提示词 V2.0｜极简手绘双联海报
+将照片制成3:4竖版，上下严格各占50%。上半保留原始摄影、构图与光影，无文字。下半为米白粗纹纸，主体转为水平居中的速写插画，高度占75%–82%。
+墨线自然颤动、粗细不均、断裂重叠，局部淡彩干刷，大量留白。周围点缀3–5个主题小涂鸦，底部少量干刷笔触。
+留白处用浅灰褐色小号手写“Prompt by @阿文AI实战笔记”，无底色。拒绝矢量线条与繁杂装饰。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/ink-sketch-diptych-1.webp" width="155" alt="Woman in a wide hat and striped pants carrying a white bouquet against a red wall, photo above and ink sketch below">
+  <img src="assets/image-generation/ink-sketch-diptych-2.webp" width="155" alt="Person in a green striped dress holding a newspaper that says ARE YOU READY?, photo above and ink sketch below">
+  <img src="assets/image-generation/ink-sketch-diptych-3.webp" width="155" alt="Four people crossing a street with flower bouquets hiding their faces, photo above and ink sketch below">
+  <img src="assets/image-generation/ink-sketch-diptych-4.webp" width="155" alt="Person on a beach holding a red paper boat in front of their face, photo above and ink sketch below">
+</p>
+
+<sub>All 4 images from [@aweniai's post](https://www.threads.com/@aweniai/post/Dfo48mkE_xk).</sub>
+
 ### [Dune Scarlet](https://www.threads.com/@wwni_y/post/DfeISn0oEES)
 `status: watching` · `tags: prompt, photo-to-portrait, desert, scarlet, selfie, face-reference, editorial` · added 2026-11
 
