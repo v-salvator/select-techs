@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [洋服記念日 illustrations](https://www.threads.com/@pg_aiart/post/DfoFA-Zkcuc)
+`status: watching` · `tags: illustration, fashion, western-wear, character-design, portrait, japanese` · added 2026-11
+
+A six-image series of women in Western dress by PG (@pg_aiart), posted for 11/12 洋服記念日 (Western Clothing Memorial Day, November 12). The post says the day comes from the 1872 (明治5年) 太政官布告 「礼服ニハ洋服ヲ採用ス」, which adopted Western clothing for formal dress. The illustrations show women in Western suits, waistcoats, a corset-style outfit, and a ruffled blouse, in a detailed illustration style on pale grounds.
+**Why I care:** Consistent character illustration across tailored Western outfits — useful reference for suit, waistcoat, corset, and ruffled-blouse styling, with windblown hair and high-contrast portraits on pale grounds.
+**Notes:** No prompt, model, tool, or license disclosed. The author's account is @pg_aiart; no specific tool is named. Shown here as first 5 of 6 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/yofuku-day-1.webp" width="140" alt="Woman with long windblown dark hair in a dark suit, white shirt, and loosened black tie">
+  <img src="assets/design-references/yofuku-day-2.webp" width="140" alt="Woman with long dark hair and blue eyes in a black suit, white shirt, and tie">
+  <img src="assets/design-references/yofuku-day-3.webp" width="140" alt="Blonde woman in a plaid waistcoat, ruffled white blouse, and floral hair ornament">
+  <img src="assets/design-references/yofuku-day-4.webp" width="140" alt="Blonde woman looking upward in a grey-black corset-style vest, white blouse, and black bow">
+  <img src="assets/design-references/yofuku-day-5.webp" width="140" alt="Blonde woman in a dark jacket with gold buttons and a ruffled white blouse">
+</p>
+
+<sub>First 5 of 6 images from [@pg_aiart's post](https://www.threads.com/@pg_aiart/post/DfoFA-Zkcuc).</sub>
+
 ### [Movie ticket-purchasing concept](https://www.threads.com/@scroll.gallery/post/Dfh3qlZjuQu)
 `status: watching` · `tags: ui, mobile, cinema, ticket-booking, motion, concept` · added 2026-11
 
