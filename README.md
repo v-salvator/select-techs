@@ -15,6 +15,7 @@ My personal, curated list of repos, tools, and tech stacks: what I use now, what
 | [Design references](design-references.md) | Design work to learn from, with no reusable prompt |
 | [3D rendering](3d-rendering.md) | 3D engines, WebGL, modeling, rendering pipelines |
 | [Knowledge management](knowledge-management.md) | Note-taking, PKM, and tools for organizing information |
+| [Finance](finance.md) | Trading, investing, markets, and personal-finance tools |
 
 ## Status legend
 
