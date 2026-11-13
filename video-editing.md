@@ -6,6 +6,13 @@ Editors, motion graphics, programmatic video, and launch films.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [rea-video](https://github.com/JuneYaooo/rea-video)
+`status: watching` · `tags: video-analysis, reverse-engineering, aigc-detection, agent-skill, claude-code, ffmpeg` · added 2026-11
+
+Open-source tool that reverse-engineers a video shot by shot: classifies how each shot was made (live footage, AI video, avatar, 3D/animation, code/template, or screen recording), gathers evidence, and outputs a remake plan. Built to run in agents such as Claude Code or Codex. Site: [reavideo.ai](https://www.reavideo.ai/).
+**Why I care:** Useful when I want to understand how a reference video was built — filmed vs generated vs coded — and get a shot-level remake plan instead of guessing.
+**Notes:** Recommended by [凡森 (@soveryai9319)](https://www.threads.com/@soveryai9319/post/DfieHIeE-yP). README install prompt: `Install https://github.com/JuneYaooo/rea-video, then break down this video: /path/to/video.mp4`. Needs ffmpeg and Python 3.10+. Tools-only mode is offline and free; an optional video-capable model (README names Gemini or Doubao) can add a reverse-engineered prompt per shot. Breakdowns also cover captions and text effects, edit pacing, voice, and music BPM. Evidence includes frame cadence, sensor noise, and AIGC metadata tags. The README's own eval table reports tools-only "how-it-was-made" accuracy of 98.3% on a 15-video tuning set (other splits in [eval/RESULTS.md](https://github.com/JuneYaooo/rea-video/blob/main/eval/RESULTS.md)); those figures are the project's, not independently verified. Apache-2.0 (NOTICE: Copyright 2026 JuneYaooo). About 6.2k GitHub stars as of 2026-11-11 (UTC+8). Not tested.
+
 ### [Remotion](https://github.com/remotion-dev/remotion)
 `status: watching` · `tags: react, programmatic-video, rendering, compositions, typescript` · added 2026-11
 
