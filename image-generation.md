@@ -6,6 +6,67 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Cubist minimalist portrait prompt](https://www.threads.com/@anggadaras1908/post/DfkS8womdzl)
+`status: watching` · `tags: prompt, photo-to-portrait, cubist, vector, minimal, editorial` · added 2026-11
+
+A prompt by 💙Angga Nerazzurri💙 (@anggadaras1908) that turns an attached photo of a person into a 3:4 "Picasso meets minimalism" neo-expressive cubist vector portrait on a deep matte black background, with flat color blocks, simplified features, and fashion-illustration styling. The source post text is just "Slepp."
+**Why I care:** A compact recipe for stylized, print-ready cubist portraits from a real face — useful when you want icon-like faces with limited color and poster texture rather than photorealism.
+**Notes:** Needs a reference photo ("the person shown in the attached image"). No model or tool is stated. The prompt tail includes the name "Angga", the line "THE SAME VIBE IN A DIFFERENT PLACE", and ♡ — these appear to be personalized caption text you can replace; the prompt is kept verbatim below. Full prompt is in the [continuation](https://www.threads.com/@anggadaras1908/post/DfkS8riGee2). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+Create a playful, neo-expressive, cubist minimalist vector illustration
+
+of the person shown in the attached image. The style is "Picasso meets minimalism," inspired by stylish fashion magazines and playful modern art. Highly simplified and exaggerated facial features with large, abstract eyes, flat eye shapes, minimal black dots or single curved lines, a lack of realistic iris detail, a lack of eyelashes, and highly simplified facial details. A small, abstract nose drawn with a single, short, angular line. A small, single lip line, a small, soft geometric mouth shape, minimal signs of expression, and a lack of realistic mouth anatomy. Slightly rounded, dreamy, innocent, playful cheeks, asymmetrical, elongated, and elegant proportions, a simplified geometric facial plan, stylized angular hair shapes, subtle cartoon elements, and childish artistic distortions. Use clean, scalable vector shapes, flat color blocks, bold, primitive contour lines, and sharp Bézier curves. Abstract compositions with polygons, minimalist imagery, handcrafted quality, expressive use of white space, abstract faces in an icon style, a lack of realistic images, and 2D facial symbols. Subtle overlapping oil paint textures, the rough accents of a handmade suit, careless handwritten notes, visible pigment textures, and the feel of a silk-screened poster have been added.
+
+A vibrant and limited color palette with a deep matte black background. Premium edition composition, modern fashion illustration, stylish and cute, vector art, print-ready.
+
+Angga
+
+THE SAME VIBE IN A DIFFERENT PLACE
+
+♡
+
+The aspect ratio is 3:4.
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/cubist-portrait-1.webp" width="155" alt="Cubist portrait of a man in black with Angga signature, crown and heart doodles">
+  <img src="assets/image-generation/cubist-portrait-2.webp" width="155" alt="Cubist portrait of a woman labeled Novita, with THE SAME VIBE IN A DIFFERENT PLACE">
+  <img src="assets/image-generation/cubist-portrait-3.webp" width="155" alt="Cubist portrait of a man in a beanie and yellow glasses labeled Angga">
+</p>
+
+<sub>All 3 images from [@anggadaras1908's post](https://www.threads.com/@anggadaras1908/post/DfkS8womdzl).</sub>
+
+### [Torn-paper print poster prompt (把照片撕成一幅畫)](https://www.threads.com/@jenniferzhao08/post/DfjpgkHm-II)
+`status: watching` · `tags: prompt, photo-to-poster, collage, torn-paper, typography, side-by-side` · added 2026-11
+
+A prompt by Jennifer (@jenniferzhao08) that turns an uploaded photo into a 3:4 vertical comparison poster: the original photograph on the top half, and a small hand-torn paper-print collage of the same scene on a warm ivory field below, with a two-line English caption under the collage.
+**Why I care:** Compared with her earlier [paper collage comparison](#paper-collage-comparison-prompt-碎片拼貼), this version keeps the collage small and centered, builds it from a few flat torn color papers sampled from the photo, and adds a short typeset caption — more like a print on a sheet of paper than a full-bleed collage panel.
+**Notes:** Needs an uploaded photo. Top half keeps the original composition, light, and color (minimal proportional crop only if needed). Bottom half is warm ivory; the torn-paper group is capped at 45% of that panel's width and 50% of its height, with generous paper-white above and below. No model or tool is stated. Full prompt is in the [continuation](https://www.threads.com/@jenniferzhao08/post/DfjphMtG7O2) (in Chinese). Same creator as the [hand-drawn manga comparison poster](#hand-drawn-manga-comparison-poster-prompt). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+根据上传的照片，制作一张 3:4 竖版「原照片 × 手撕纸版画」对照海报。以整张海报的水平中线分为上下两幅，两幅等宽等高，边缘对齐并直接拼接。 上半幅直接使用原照片，保留原有构图、光线、色彩和摄影细节。需要适配画幅时，只做最小幅度的等比裁切，优先保留主要主体、关键动作和互动关系。 下半幅铺满暖象牙色纸，在纸面中央放一组小幅撕纸版画。将主体、陪衬纸片和所有露出的撕边作为一个整体等比缩放。整组拼贴的宽度不超过下半幅宽度的 45%，高度不超过下半幅高度的 50%。以先达到的上限为准，即使竖长主体两侧仍有大量空白，也保持小画幅。拼贴最上缘与上下拼接处之间，留出至少约五分之一下半幅高度的连续纸白。先确定拼贴尺寸和位置，再排题字。 从原照中选出最能辨认这一幕的主体和关键景物，保留它们的姿态、朝向、相对尺度、遮挡和互动。人物、动物或静物近景，保留有辨识度的剪影、神态和特征色，环境只留与动作直接相关的一小部分，例如脚下的台阶、手中的物件或托住主体的家具边缘。风景与建筑照，用少数大纸片保留决定构图的岸线、山脊、建筑结构或明暗分界。原照中的小人物、船只等保持相对尺度和位置。其余区域露出干净的底纸。 从原照提取两到四种代表色，用少量手撕色纸直接拼出形体。用大纸片建立主体轮廓，再把花纹、衣服、结构转折和前景物件作为独立纸片局部叠上去。上层纸片压住下层的一角，让底层从侧面或断口露出。用少量小纸片点出眼睛、手势或标志性细节。色面平整哑光，靠纸片的大小、方向和搭接表现层次。 在两三处主要接缝清楚露出细窄的浅色纸芯、短纤维和长短不一的撕裂断口，其余纸边自然贴合。各块纸片沿自身轮廓在不同位置收尾，让底纸从两侧和景物之间自然伸入。避免把整组拼贴收成四边齐整的矩形，也避免均匀白边、厚重投影、写实渐变和密集刻线。 在整组拼贴的最低点下方留一小段纸白，再排两行小号深灰色衬线英文。两行左对齐，文字左缘与拼贴左缘对齐，完整放在拼贴下方。根据原照自动写一句简短、具体的英文观察，在自然停顿处换行。若提供指定文案，逐字使用。题字下方继续留出宽裕的纸白。 只输出一张完整的上下对照海报。无分隔线、拼接间隙、外框、水印、账号或额外文字。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/torn-paper-poster-1.webp" width="155" alt="Riders on white horses crest a blue hill, photo above and torn-paper collage below">
+  <img src="assets/image-generation/torn-paper-poster-2.webp" width="155" alt="Orange cat looking down, photo above and torn-paper collage below">
+  <img src="assets/image-generation/torn-paper-poster-3.webp" width="155" alt="Blue fabric river through green hills, photo above and torn-paper collage below">
+  <img src="assets/image-generation/torn-paper-poster-4.webp" width="155" alt="Winged portrait in a striped wrap, photo above and torn-paper collage below">
+</p>
+
+<sub>All 4 images from [@jenniferzhao08's post](https://www.threads.com/@jenniferzhao08/post/DfjpgkHm-II).</sub>
+
 ### [Dune Scarlet](https://www.threads.com/@wwni_y/post/DfeISn0oEES)
 `status: watching` · `tags: prompt, photo-to-portrait, desert, scarlet, selfie, face-reference, editorial` · added 2026-11
 
