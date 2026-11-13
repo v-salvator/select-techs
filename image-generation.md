@@ -6,6 +6,153 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Dark Studio Portrait Prompt](https://www.threads.com/@agverse__/post/Dfm_EGbjRgo)
+`status: watching` · `tags: prompt, photo-to-portrait, monochrome, studio, editorial, face-reference, cinematic` · added 2026-11
+
+A structured prompt by Ashish | AGverse (@agverse__), posted as "Dark Studio Portrait Prompt" and named `AGverse_Classic_Monochrome_Cinematic_Portrait_v1`. It is meant to recreate a supplied black-and-white reference portrait's composition, lighting, and atmosphere while replacing the original subject with the person in the user's identity photo, so it needs both a style reference image and an identity photograph. The examples are tight head-and-shoulders monochrome studio portraits on a dark ground, with formal tailoring and strong rim light.
+**Why I care:** A detailed identity-lock plus style-lock recipe for classic black-and-white editorial studio portraits: two references, explicit lighting and wardrobe, and a 3:4 head-and-shoulders frame.
+**Notes:** The full prompt begins in the main post and continues across 16 author continuations. It is written as JSON-like text and is included below as posted; the syntax is incomplete or invalid and has not been repaired. No model, tool, or license is stated. The author mentions Instagram but gives no URL (not linked here). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+PROMPT⬇️ "AGverse_Classic_Monochrome_Cinematic_Portrait_v1", "purpose": "Recreate the exact visual aesthetic, portrait composition, lighting direction, tonal contrast, styling, and photographic atmosphere of the supplied black-and-white reference image while completely replacing the original subject with the person in the user's identity reference photograph.", "reference_image": {
+
+"role": "Visual style and composition reference", "instructions": [ "Use the supplied monochrome portrait strictly as the visual reference.", "Reproduce its camera framing, portrait orientation, subject positioning, head angle, facial presentation, lighting direction, background, tonal range, contrast, and photographic atmosphere.", "Do not reproduce the original person's identity.", "Do not copy the original person's facial features." ] }, "identity_reference": {
+
+"role": "Primary identity source", "instructions": [ "Use the user's uploaded personal photograph as the exclusive identity reference.", "Replace the reference subject entirely with the person from the identity photograph.", "Preserve the user's actual facial identity with maximum accuracy.", "Maintain original facial proportions, face shape, jawline, cheekbones, eyes, eyebrows, nose, lips, ears, skin texture, hairline, and other distinctive facial characteristics.",
+
+"Preserve natural skin details, pores, asymmetries, and realistic facial anatomy.", "Do not beautify, redesign, idealize, reshape, or artificially modify the user's face.", "Do not blend the user's face with the reference subject's facial characteristics.", "The final image must unmistakably represent the person in the identity reference." ] }, "composition": { "format": "Vertical portrait", "aspect_ratio": "3:4", "resolution": "1152x1536",
+
+"shot_type": "Tight cinematic head-and-shoulders studio portrait", "camera_angle": "Straight-on eye-level perspective", "framing": "Centered symmetrical composition", "subject_position": "Precisely centered horizontally", "head_position": "Upright, facing directly toward the camera", "eye_direction": "Direct eye contact with the camera", "crop": "Top of hair to upper chest, with both shoulders visible", "headroom": "Moderate negative space above the hairstyle",
+
+"perspective": "Natural portrait perspective without facial distortion" }, "pose_and_expression": { "body_position": "Standing or seated upright, shoulders naturally squared toward the camera", "head_orientation": "Facing directly forward", "facial_expression": "Calm, confident, composed, and subtly serious", "eyes": "Relaxed, naturally focused direct gaze", "mouth": "Closed lips with a neutral expression", "overall_presence": "Understated elegance, timeless sophistication, quiet confidence" },
+
+"wardrobe_and_styling": { "outfit": "Classic tailored black formal suit", "jacket": "Premium black suit jacket with structured shoulders and elegant lapels", "shirt": "Clean white formal dress shirt with a pointed collar", "tie": "Minimalist solid black necktie, neatly knotted", "styling": "Timeless formal menswear", "fabric_details": "Realistic tailoring, subtle fabric texture, natural folds", "accessories": "No unnecessary accessories" }, "hairstyle": {
+
+"direction": "Preserve the hairstyle from the user's identity photograph wherever possible", "texture": "Natural individual hair strands and realistic volume", "finish": "Authentic, slightly textured photographic appearance", "restriction": "Do not automatically copy the reference subject's hairstyle if it conflicts with the user's actual hairstyle." }, "lighting": { "style": "Professional dramatic monochrome studio lighting", "key_light": "Soft but directional frontal studio illumination",
+
+"rim_light": "Strong controlled backlight from the upper rear side, creating luminous highlights around the hair and shoulders", "fill_light": "Subtle fill to retain facial detail without flattening shadows", "shadow_structure": "Deep cinematic shadows around the sides of the face, neck, and suit", "highlight_control": "Preserve detail in bright facial highlights and white shirt", "background_separation": "Distinct luminous hair edges against the dark background",
+
+"overall_effect": "High-end black-and-white editorial portrait photography" }, "background": { "type": "Seamless professional studio background", "color": "Deep charcoal black", "texture": "Smooth, subtle tonal gradient", "lighting": "Very subtle background illumination behind the head", "distractions": "Absolutely none", "environment": "Minimalist dark photographic studio" }, "color_grading": { "color_mode": "Pure black and white monochrome", "tonal_style": "Rich cinematic grayscale",
+
+"blacks": "Deep, rich blacks without losing important details", "whites": "Clean, controlled luminous whites", "midtones": "Detailed natural gray tonal transitions", "contrast": "Strong but carefully balanced high contrast", "skin_tones": "Natural grayscale skin rendering", "grain": "Very subtle fine photographic film grain", "finish": "Timeless fine-art editorial monochrome photography" }, "camera_and_photography": { "photography_style": "Luxury editorial studio portrait",
+
+"lens": "85mm portrait lens", "aperture": "f/2.8", "focus": "Extremely sharp focus on both eyes and facial features", "depth_of_field": "Shallow but natural depth of field", "image_quality": "Ultra-realistic professional photographic detail", "dynamic_range": "High dynamic range with controlled highlights and deep shadows", "retouching": "Minimal professional retouching while retaining authentic skin texture" }, "visual_aesthetic": {
+
+"mood": "Mysterious, sophisticated, timeless, cinematic, elegant", "genre": "Classic black-and-white fashion editorial", "inspiration": "Luxury men's fashion magazine portrait photography", "realism": "Photorealistic", "texture": "Authentic photographic detail", "presentation": "Minimalist, refined, premium studio portrait" }, "strict_removal_instructions": { "typography": "Do not include any text, lettering, captions, titles, typography, watermarks, logos, signatures, or written elements.",
+
+"ui_elements": "Do not include interface elements, buttons, icons, borders, frames, overlays, social media elements, or graphic design components.", "graphic_design": "No poster layout, no decorative graphics, no text overlays.", "final_output": "A clean, uninterrupted, full-frame photographic portrait only." }, "negative_prompt": [ "Different identity", "Face swapping artifacts", "Altered facial proportions", "Artificial facial symmetry", "Unnatural skin smoothing", "Plastic skin",
+
+"Beauty filters", "CGI appearance", "3D rendering", "Illustration", "Cartoon", "Anime", "Color photography", "Colored lighting", "Overexposed forehead", "Crushed facial shadows", "Blurred eyes", "Soft facial details", "Distorted anatomy", "Asymmetrical eyes caused by generation errors", "Extra facial features", "Unnatural hair", "Unrealistic suit fabric", "Busy background", "Visible studio equipment", "Typography", "Text", "Watermarks", "Logos", "UI elements", "Borders", "Frames", "Collage",
+
+"Poster graphics" ], "final_execution": { "priority_1": "Maximum preservation of the user's actual facial identity.", "priority_2": "Reproduce the reference composition, framing, pose, and visual aesthetic.", "priority_3": "Match the dramatic monochrome studio lighting and tonal contrast.", "priority_4": "Reproduce the formal black suit, white shirt, and black tie styling.", "priority_5": "Remove all typography, graphic overlays, and interface elements.",
+
+"output_requirement": "Generate one ultra-realistic, premium-quality black-and-white studio portrait that looks like a professionally photographed version of the user in the supplied reference's visual style."
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/monochrome-studio-portrait-1.webp" width="155" alt="Cover still: monochrome studio portrait of a curly-haired man in a suit, DARK STUDIO PORTRAIT PROMPT typography">
+  <img src="assets/image-generation/monochrome-studio-portrait-2.webp" width="155" alt="Monochrome studio portrait of a man in narrow sunglasses, dark suit and tie">
+  <img src="assets/image-generation/monochrome-studio-portrait-3.webp" width="155" alt="Monochrome studio portrait of a man with a goatee in a dark suit and tie">
+  <img src="assets/image-generation/monochrome-studio-portrait-4.webp" width="155" alt="Monochrome studio portrait of a man in a dark open-collar shirt and jacket">
+  <img src="assets/image-generation/monochrome-studio-portrait-5.webp" width="155" alt="Monochrome studio portrait of a man in a dark suit, white shirt, and tie">
+</p>
+
+<sub>First 5 of 8 images from [@agverse__'s post](https://www.threads.com/@agverse__/post/Dfm_EGbjRgo).</sub>
+
+### [CR7 poster prompt](https://www.threads.com/@afzanhilmi/post/Dfmu5UPn7GW)
+`status: watching` · `tags: prompt, midjourney, sref, poster, sports, typography` · added 2026-11
+
+A Midjourney poster prompt by Afzan | AI Creative Director (@afzanhilmi), posted as "CR7 | The Collection 🐐": a modern full-body celebration poster of Cristiano Ronaldo in a Portugal kit on a clean background, with particle breakup and a limited colour glow. The third still labels the tool as "4:5 | Midjourney" and prints the reusable prompt, including `--sref` style codes and `--v 8.2`.
+**Why I care:** A complete sports-poster recipe where the `--sref` stack does most of the look — useful if you want that dissolving full-body figure on a pale field, and a reminder that the subject here is a real public figure.
+**Notes:** The prompt depicts a real public figure (Cristiano Ronaldo). Midjourney is attributed from the author's image overlay; `--v 8.2` is written as it appears in the prompt, not independently verified as a current version. The `--sref` codes drive the look. Spelling in the prompt (e.g. CHRISTIANO, SUITE) is kept as written. The final still of the carousel says "Prompts available on my Telegram channel" but gives no URL; only the one prompt shown in the post is included here. Same creator as the [BURNT MOTION sref set](#burnt-motion-sref-set). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+MODERN POSTER OF CHRISTIANO RONALDO IN PORTUGAL SUITE IN CELEBRATION POSE, CLEAN
+BACKGROUND, FULL BODY --CHAOS 15 --AR 4:5 --SREF 2405248426 12133245 3433999548
+3520654377 96937294 1444598803 --SW 300 --STYLIZE 300 --HD --V 8.2
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/cr7-poster-1.webp" width="155" alt="Cover still: celebrating figure in a red 7 kit, PROMPT CR7 POSTER typography">
+  <img src="assets/image-generation/cr7-poster-2.webp" width="155" alt="Celebration pose in a red kit with particle breakup and red glow">
+  <img src="assets/image-generation/cr7-poster-3.webp" width="155" alt="Same pose with the Midjourney prompt overlay">
+  <img src="assets/image-generation/cr7-poster-4.webp" width="155" alt="Full-body celebration in a red kit on a pale background">
+  <img src="assets/image-generation/cr7-poster-5.webp" width="155" alt="Leaping figure in a white kit with blue-orange particle glow">
+</p>
+
+<sub>First 5 of 15 images from [@afzanhilmi's post](https://www.threads.com/@afzanhilmi/post/Dfmu5UPn7GW).</sub>
+
+### [Cubist minimalist portrait prompt](https://www.threads.com/@anggadaras1908/post/DfkS8womdzl)
+`status: watching` · `tags: prompt, photo-to-portrait, cubist, vector, minimal, editorial` · added 2026-11
+
+A prompt by 💙Angga Nerazzurri💙 (@anggadaras1908) that turns an attached photo of a person into a 3:4 "Picasso meets minimalism" neo-expressive cubist vector portrait on a deep matte black background, with flat color blocks, simplified features, and fashion-illustration styling. The source post text is just "Slepp."
+**Why I care:** A compact recipe for stylized, print-ready cubist portraits from a real face — useful when you want icon-like faces with limited color and poster texture rather than photorealism.
+**Notes:** Needs a reference photo ("the person shown in the attached image"). No model or tool is stated. The prompt tail includes the name "Angga", the line "THE SAME VIBE IN A DIFFERENT PLACE", and ♡ — these appear to be personalized caption text you can replace; the prompt is kept verbatim below. Full prompt is in the [continuation](https://www.threads.com/@anggadaras1908/post/DfkS8riGee2). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+Create a playful, neo-expressive, cubist minimalist vector illustration
+
+of the person shown in the attached image. The style is "Picasso meets minimalism," inspired by stylish fashion magazines and playful modern art. Highly simplified and exaggerated facial features with large, abstract eyes, flat eye shapes, minimal black dots or single curved lines, a lack of realistic iris detail, a lack of eyelashes, and highly simplified facial details. A small, abstract nose drawn with a single, short, angular line. A small, single lip line, a small, soft geometric mouth shape, minimal signs of expression, and a lack of realistic mouth anatomy. Slightly rounded, dreamy, innocent, playful cheeks, asymmetrical, elongated, and elegant proportions, a simplified geometric facial plan, stylized angular hair shapes, subtle cartoon elements, and childish artistic distortions. Use clean, scalable vector shapes, flat color blocks, bold, primitive contour lines, and sharp Bézier curves. Abstract compositions with polygons, minimalist imagery, handcrafted quality, expressive use of white space, abstract faces in an icon style, a lack of realistic images, and 2D facial symbols. Subtle overlapping oil paint textures, the rough accents of a handmade suit, careless handwritten notes, visible pigment textures, and the feel of a silk-screened poster have been added.
+
+A vibrant and limited color palette with a deep matte black background. Premium edition composition, modern fashion illustration, stylish and cute, vector art, print-ready.
+
+Angga
+
+THE SAME VIBE IN A DIFFERENT PLACE
+
+♡
+
+The aspect ratio is 3:4.
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/cubist-portrait-1.webp" width="155" alt="Cubist portrait of a man in black with Angga signature, crown and heart doodles">
+  <img src="assets/image-generation/cubist-portrait-2.webp" width="155" alt="Cubist portrait of a woman labeled Novita, with THE SAME VIBE IN A DIFFERENT PLACE">
+  <img src="assets/image-generation/cubist-portrait-3.webp" width="155" alt="Cubist portrait of a man in a beanie and yellow glasses labeled Angga">
+</p>
+
+<sub>All 3 images from [@anggadaras1908's post](https://www.threads.com/@anggadaras1908/post/DfkS8womdzl).</sub>
+
+### [Torn-paper print poster prompt (把照片撕成一幅畫)](https://www.threads.com/@jenniferzhao08/post/DfjpgkHm-II)
+`status: watching` · `tags: prompt, photo-to-poster, collage, torn-paper, typography, side-by-side` · added 2026-11
+
+A prompt by Jennifer (@jenniferzhao08) that turns an uploaded photo into a 3:4 vertical comparison poster: the original photograph on the top half, and a small hand-torn paper-print collage of the same scene on a warm ivory field below, with a two-line English caption under the collage.
+**Why I care:** Compared with her earlier [paper collage comparison](#paper-collage-comparison-prompt-碎片拼貼), this version keeps the collage small and centered, builds it from a few flat torn color papers sampled from the photo, and adds a short typeset caption — more like a print on a sheet of paper than a full-bleed collage panel.
+**Notes:** Needs an uploaded photo. Top half keeps the original composition, light, and color (minimal proportional crop only if needed). Bottom half is warm ivory; the torn-paper group is capped at 45% of that panel's width and 50% of its height, with generous paper-white above and below. No model or tool is stated. Full prompt is in the [continuation](https://www.threads.com/@jenniferzhao08/post/DfjphMtG7O2) (in Chinese). Same creator as the [hand-drawn manga comparison poster](#hand-drawn-manga-comparison-poster-prompt). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+根据上传的照片，制作一张 3:4 竖版「原照片 × 手撕纸版画」对照海报。以整张海报的水平中线分为上下两幅，两幅等宽等高，边缘对齐并直接拼接。 上半幅直接使用原照片，保留原有构图、光线、色彩和摄影细节。需要适配画幅时，只做最小幅度的等比裁切，优先保留主要主体、关键动作和互动关系。 下半幅铺满暖象牙色纸，在纸面中央放一组小幅撕纸版画。将主体、陪衬纸片和所有露出的撕边作为一个整体等比缩放。整组拼贴的宽度不超过下半幅宽度的 45%，高度不超过下半幅高度的 50%。以先达到的上限为准，即使竖长主体两侧仍有大量空白，也保持小画幅。拼贴最上缘与上下拼接处之间，留出至少约五分之一下半幅高度的连续纸白。先确定拼贴尺寸和位置，再排题字。 从原照中选出最能辨认这一幕的主体和关键景物，保留它们的姿态、朝向、相对尺度、遮挡和互动。人物、动物或静物近景，保留有辨识度的剪影、神态和特征色，环境只留与动作直接相关的一小部分，例如脚下的台阶、手中的物件或托住主体的家具边缘。风景与建筑照，用少数大纸片保留决定构图的岸线、山脊、建筑结构或明暗分界。原照中的小人物、船只等保持相对尺度和位置。其余区域露出干净的底纸。 从原照提取两到四种代表色，用少量手撕色纸直接拼出形体。用大纸片建立主体轮廓，再把花纹、衣服、结构转折和前景物件作为独立纸片局部叠上去。上层纸片压住下层的一角，让底层从侧面或断口露出。用少量小纸片点出眼睛、手势或标志性细节。色面平整哑光，靠纸片的大小、方向和搭接表现层次。 在两三处主要接缝清楚露出细窄的浅色纸芯、短纤维和长短不一的撕裂断口，其余纸边自然贴合。各块纸片沿自身轮廓在不同位置收尾，让底纸从两侧和景物之间自然伸入。避免把整组拼贴收成四边齐整的矩形，也避免均匀白边、厚重投影、写实渐变和密集刻线。 在整组拼贴的最低点下方留一小段纸白，再排两行小号深灰色衬线英文。两行左对齐，文字左缘与拼贴左缘对齐，完整放在拼贴下方。根据原照自动写一句简短、具体的英文观察，在自然停顿处换行。若提供指定文案，逐字使用。题字下方继续留出宽裕的纸白。 只输出一张完整的上下对照海报。无分隔线、拼接间隙、外框、水印、账号或额外文字。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/torn-paper-poster-1.webp" width="155" alt="Riders on white horses crest a blue hill, photo above and torn-paper collage below">
+  <img src="assets/image-generation/torn-paper-poster-2.webp" width="155" alt="Orange cat looking down, photo above and torn-paper collage below">
+  <img src="assets/image-generation/torn-paper-poster-3.webp" width="155" alt="Blue fabric river through green hills, photo above and torn-paper collage below">
+  <img src="assets/image-generation/torn-paper-poster-4.webp" width="155" alt="Winged portrait in a striped wrap, photo above and torn-paper collage below">
+</p>
+
+<sub>All 4 images from [@jenniferzhao08's post](https://www.threads.com/@jenniferzhao08/post/DfjpgkHm-II).</sub>
+
 ### [Dune Scarlet](https://www.threads.com/@wwni_y/post/DfeISn0oEES)
 `status: watching` · `tags: prompt, photo-to-portrait, desert, scarlet, selfie, face-reference, editorial` · added 2026-11
 
