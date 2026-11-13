@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [US City travel prints](https://www.threads.com/@foxandvelvet/post/Dfp3Yr9n0xb)
+`status: watching` · `tags: illustration, poster, travel, typography, mid-century, cities, commercial` · added 2026-11
+
+A ten-print US city travel series by Fox & Velvet (@foxandvelvet): mid-century-style posters with black cut-out skylines, a signature transit vehicle, irregular hand-drawn city-name lettering, and a coloured outer mat. The post is titled "US City travel prints." The first five are New York City, San Francisco, Chicago, Washington, D.C., and Boston; the set also includes Seattle, Portland, New Orleans, Miami, and Los Angeles.
+**Why I care:** A tight, repeatable travel-poster language — limited palette, landmark silhouettes, and typography doing the place-name work — useful when designing a matching city series.
+**Notes:** Commercial prints by the artist. Official site: [foxandvelvet.com](https://www.foxandvelvet.com/). No prompt, model, tool, or license disclosed. Shown here as first 5 of 10 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/us-city-travel-1.webp" width="155" alt="NYC poster: black skyline and yellow taxi on a yellow mat">
+  <img src="assets/design-references/us-city-travel-2.webp" width="155" alt="San Francisco poster: black skyline and bridge with an orange cable car">
+  <img src="assets/design-references/us-city-travel-3.webp" width="155" alt="Chicago poster: black skyline and a gray train with red and blue stripes">
+  <img src="assets/design-references/us-city-travel-4.webp" width="155" alt="Washington, D.C. poster: black landmarks and a gray Metro train">
+  <img src="assets/design-references/us-city-travel-5.webp" width="155" alt="Boston poster: black skyline and a gray train with a red stripe">
+</p>
+
+<sub>First 5 of 10 images from [@foxandvelvet's post](https://www.threads.com/@foxandvelvet/post/Dfp3Yr9n0xb).</sub>
+
 ### [Movie ticket-purchasing concept](https://www.threads.com/@scroll.gallery/post/Dfh3qlZjuQu)
 `status: watching` · `tags: ui, mobile, cinema, ticket-booking, motion, concept` · added 2026-11
 
