@@ -6,6 +6,64 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Dark Studio Portrait Prompt](https://www.threads.com/@agverse__/post/Dfm_EGbjRgo)
+`status: watching` · `tags: prompt, photo-to-portrait, monochrome, studio, editorial, face-reference, cinematic` · added 2026-11
+
+A structured prompt by Ashish | AGverse (@agverse__), posted as "Dark Studio Portrait Prompt" and named `AGverse_Classic_Monochrome_Cinematic_Portrait_v1`. It is meant to recreate a supplied black-and-white reference portrait's composition, lighting, and atmosphere while replacing the original subject with the person in the user's identity photo, so it needs both a style reference image and an identity photograph. The examples are tight head-and-shoulders monochrome studio portraits on a dark ground, with formal tailoring and strong rim light.
+**Why I care:** A detailed identity-lock plus style-lock recipe for classic black-and-white editorial studio portraits: two references, explicit lighting and wardrobe, and a 3:4 head-and-shoulders frame.
+**Notes:** The full prompt begins in the main post and continues across 16 author continuations. It is written as JSON-like text and is included below as posted; the syntax is incomplete or invalid and has not been repaired. No model, tool, or license is stated. The author mentions Instagram but gives no URL (not linked here). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+PROMPT⬇️ "AGverse_Classic_Monochrome_Cinematic_Portrait_v1", "purpose": "Recreate the exact visual aesthetic, portrait composition, lighting direction, tonal contrast, styling, and photographic atmosphere of the supplied black-and-white reference image while completely replacing the original subject with the person in the user's identity reference photograph.", "reference_image": {
+
+"role": "Visual style and composition reference", "instructions": [ "Use the supplied monochrome portrait strictly as the visual reference.", "Reproduce its camera framing, portrait orientation, subject positioning, head angle, facial presentation, lighting direction, background, tonal range, contrast, and photographic atmosphere.", "Do not reproduce the original person's identity.", "Do not copy the original person's facial features." ] }, "identity_reference": {
+
+"role": "Primary identity source", "instructions": [ "Use the user's uploaded personal photograph as the exclusive identity reference.", "Replace the reference subject entirely with the person from the identity photograph.", "Preserve the user's actual facial identity with maximum accuracy.", "Maintain original facial proportions, face shape, jawline, cheekbones, eyes, eyebrows, nose, lips, ears, skin texture, hairline, and other distinctive facial characteristics.",
+
+"Preserve natural skin details, pores, asymmetries, and realistic facial anatomy.", "Do not beautify, redesign, idealize, reshape, or artificially modify the user's face.", "Do not blend the user's face with the reference subject's facial characteristics.", "The final image must unmistakably represent the person in the identity reference." ] }, "composition": { "format": "Vertical portrait", "aspect_ratio": "3:4", "resolution": "1152x1536",
+
+"shot_type": "Tight cinematic head-and-shoulders studio portrait", "camera_angle": "Straight-on eye-level perspective", "framing": "Centered symmetrical composition", "subject_position": "Precisely centered horizontally", "head_position": "Upright, facing directly toward the camera", "eye_direction": "Direct eye contact with the camera", "crop": "Top of hair to upper chest, with both shoulders visible", "headroom": "Moderate negative space above the hairstyle",
+
+"perspective": "Natural portrait perspective without facial distortion" }, "pose_and_expression": { "body_position": "Standing or seated upright, shoulders naturally squared toward the camera", "head_orientation": "Facing directly forward", "facial_expression": "Calm, confident, composed, and subtly serious", "eyes": "Relaxed, naturally focused direct gaze", "mouth": "Closed lips with a neutral expression", "overall_presence": "Understated elegance, timeless sophistication, quiet confidence" },
+
+"wardrobe_and_styling": { "outfit": "Classic tailored black formal suit", "jacket": "Premium black suit jacket with structured shoulders and elegant lapels", "shirt": "Clean white formal dress shirt with a pointed collar", "tie": "Minimalist solid black necktie, neatly knotted", "styling": "Timeless formal menswear", "fabric_details": "Realistic tailoring, subtle fabric texture, natural folds", "accessories": "No unnecessary accessories" }, "hairstyle": {
+
+"direction": "Preserve the hairstyle from the user's identity photograph wherever possible", "texture": "Natural individual hair strands and realistic volume", "finish": "Authentic, slightly textured photographic appearance", "restriction": "Do not automatically copy the reference subject's hairstyle if it conflicts with the user's actual hairstyle." }, "lighting": { "style": "Professional dramatic monochrome studio lighting", "key_light": "Soft but directional frontal studio illumination",
+
+"rim_light": "Strong controlled backlight from the upper rear side, creating luminous highlights around the hair and shoulders", "fill_light": "Subtle fill to retain facial detail without flattening shadows", "shadow_structure": "Deep cinematic shadows around the sides of the face, neck, and suit", "highlight_control": "Preserve detail in bright facial highlights and white shirt", "background_separation": "Distinct luminous hair edges against the dark background",
+
+"overall_effect": "High-end black-and-white editorial portrait photography" }, "background": { "type": "Seamless professional studio background", "color": "Deep charcoal black", "texture": "Smooth, subtle tonal gradient", "lighting": "Very subtle background illumination behind the head", "distractions": "Absolutely none", "environment": "Minimalist dark photographic studio" }, "color_grading": { "color_mode": "Pure black and white monochrome", "tonal_style": "Rich cinematic grayscale",
+
+"blacks": "Deep, rich blacks without losing important details", "whites": "Clean, controlled luminous whites", "midtones": "Detailed natural gray tonal transitions", "contrast": "Strong but carefully balanced high contrast", "skin_tones": "Natural grayscale skin rendering", "grain": "Very subtle fine photographic film grain", "finish": "Timeless fine-art editorial monochrome photography" }, "camera_and_photography": { "photography_style": "Luxury editorial studio portrait",
+
+"lens": "85mm portrait lens", "aperture": "f/2.8", "focus": "Extremely sharp focus on both eyes and facial features", "depth_of_field": "Shallow but natural depth of field", "image_quality": "Ultra-realistic professional photographic detail", "dynamic_range": "High dynamic range with controlled highlights and deep shadows", "retouching": "Minimal professional retouching while retaining authentic skin texture" }, "visual_aesthetic": {
+
+"mood": "Mysterious, sophisticated, timeless, cinematic, elegant", "genre": "Classic black-and-white fashion editorial", "inspiration": "Luxury men's fashion magazine portrait photography", "realism": "Photorealistic", "texture": "Authentic photographic detail", "presentation": "Minimalist, refined, premium studio portrait" }, "strict_removal_instructions": { "typography": "Do not include any text, lettering, captions, titles, typography, watermarks, logos, signatures, or written elements.",
+
+"ui_elements": "Do not include interface elements, buttons, icons, borders, frames, overlays, social media elements, or graphic design components.", "graphic_design": "No poster layout, no decorative graphics, no text overlays.", "final_output": "A clean, uninterrupted, full-frame photographic portrait only." }, "negative_prompt": [ "Different identity", "Face swapping artifacts", "Altered facial proportions", "Artificial facial symmetry", "Unnatural skin smoothing", "Plastic skin",
+
+"Beauty filters", "CGI appearance", "3D rendering", "Illustration", "Cartoon", "Anime", "Color photography", "Colored lighting", "Overexposed forehead", "Crushed facial shadows", "Blurred eyes", "Soft facial details", "Distorted anatomy", "Asymmetrical eyes caused by generation errors", "Extra facial features", "Unnatural hair", "Unrealistic suit fabric", "Busy background", "Visible studio equipment", "Typography", "Text", "Watermarks", "Logos", "UI elements", "Borders", "Frames", "Collage",
+
+"Poster graphics" ], "final_execution": { "priority_1": "Maximum preservation of the user's actual facial identity.", "priority_2": "Reproduce the reference composition, framing, pose, and visual aesthetic.", "priority_3": "Match the dramatic monochrome studio lighting and tonal contrast.", "priority_4": "Reproduce the formal black suit, white shirt, and black tie styling.", "priority_5": "Remove all typography, graphic overlays, and interface elements.",
+
+"output_requirement": "Generate one ultra-realistic, premium-quality black-and-white studio portrait that looks like a professionally photographed version of the user in the supplied reference's visual style."
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/monochrome-studio-portrait-1.webp" width="155" alt="Cover still: monochrome studio portrait of a curly-haired man in a suit, DARK STUDIO PORTRAIT PROMPT typography">
+  <img src="assets/image-generation/monochrome-studio-portrait-2.webp" width="155" alt="Monochrome studio portrait of a man in narrow sunglasses, dark suit and tie">
+  <img src="assets/image-generation/monochrome-studio-portrait-3.webp" width="155" alt="Monochrome studio portrait of a man with a goatee in a dark suit and tie">
+  <img src="assets/image-generation/monochrome-studio-portrait-4.webp" width="155" alt="Monochrome studio portrait of a man in a dark open-collar shirt and jacket">
+  <img src="assets/image-generation/monochrome-studio-portrait-5.webp" width="155" alt="Monochrome studio portrait of a man in a dark suit, white shirt, and tie">
+</p>
+
+<sub>First 5 of 8 images from [@agverse__'s post](https://www.threads.com/@agverse__/post/Dfm_EGbjRgo).</sub>
+
 ### [CR7 poster prompt](https://www.threads.com/@afzanhilmi/post/Dfmu5UPn7GW)
 `status: watching` · `tags: prompt, midjourney, sref, poster, sports, typography` · added 2026-11
 
