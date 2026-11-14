@@ -6,6 +6,22 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Balance is controlled power](https://www.threads.com/@viktori.s.art/post/Dfp7uYfEesg)
+`status: watching` · `tags: illustration, fantasy, character-design, scales, atmosphere, color` · added 2026-11
+
+A seven-image series of fantasy illustrations by viktori's art (@viktori.s.art). The post text is "balance is controlled power 🌙". Short-haired robed figures pose with ornate, glowing balance scales against dark teal night skies, with orange-gold light, flowers, clouds, and fine celestial or geometric lines.
+**Why I care:** A tight, repeatable fantasy tableau — one motif (the scales) restaged across poses, with a limited teal and orange-gold palette and delicate line work that still holds as a set.
+**Notes:** Threads labels the post as AI content. No prompt, model, or tool is named in the post itself. The creator's profile mentions Midjourney; that is profile context only and is not attributed to this post. No license disclosed. Shown here as first 5 of 7 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/viktori-balance-1.webp" width="155" alt="Side-profile robed figure on a glowing ornate pedestal, reaching up to hold a large hanging scale with two lit pans">
+  <img src="assets/design-references/viktori-balance-2.webp" width="155" alt="Short-haired figure in a dark robe standing on one pan of tall golden scales, with orange-and-blue clouds and flowers below">
+  <img src="assets/design-references/viktori-balance-3.webp" width="155" alt="Seated robed figure looking down beside ornate scales, a pan holding glowing flowers">
+  <img src="assets/design-references/viktori-balance-4.webp" width="155" alt="Standing figure on a stone pedestal behind scales, under a broad orange cloud and a circular gold line, with pale flowers at the base">
+  <img src="assets/design-references/viktori-balance-5.webp" width="155" alt="Seated figure on one scale pan reaching toward a second glowing pan, a small crescent hanging above">
+</p>
+
+<sub>First 5 of 7 images from [@viktori.s.art's post](https://www.threads.com/@viktori.s.art/post/Dfp7uYfEesg).</sub>
 ### [Painterly teal-and-orange portraits](https://www.threads.com/@nebulaasgard/post/DfprxotoEa5)
 `status: watching` · `tags: illustration, portrait, painterly, color, character-design` · added 2026-11
 
