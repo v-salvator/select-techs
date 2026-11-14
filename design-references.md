@@ -40,6 +40,23 @@ A ten-illustration series by Laura El (@iamlaurael). The post text is "10 illust
 
 <sub>First 5 of 10 images from [@iamlaurael's post](https://www.threads.com/@iamlaurael/post/Dfsxbo9ndgX).</sub>
 
+### [Dark botanical baroque flora](https://www.threads.com/@vesarie.co/post/DfsbOmplom-)
+`status: watching` · `tags: illustration, floral, baroque, surreal, dark-botanical, sculpture` · added 2026-11
+
+A 20-image series of surreal, baroque floral forms by VESARIÉ (@vesarie.co). The post text begins: "Not quite flowers. Not quite sculptures. Possibly an evolutionary misunderstanding." Ornate, sculptural blossoms — damask-like veining, scrollwork, and fabric- or lace-like petals in dusty rose, cream, and muted teal — sit on dark grounds.
+**Why I care:** A consistent dark-botanical language — baroque ornament applied to flower anatomy, a limited rose/cream/teal palette, and a heavy dark ground — useful reference for ornate floral still life and sculptural form.
+**Notes:** Threads labels the post as AI content. No prompt, model, tool, or license is named. No external URL in the post; the creator's profile mentions a waitlist but gives no URL (not linked here). Shown here as first 5 of 20 source images. Same creator as the [Surreal coastal staircase series](#surreal-coastal-staircase-series). Not tested.
+
+<p>
+  <img src="assets/design-references/vesarie-baroque-flora-1.webp" width="155" alt="Overlapping baroque lily-like blossoms in dusty rose and pale teal, with scroll-patterned petals and long stamens, on a dark ground">
+  <img src="assets/design-references/vesarie-baroque-flora-2.webp" width="155" alt="Open five-petaled sculptural flower with damask-like rose and cream patterns on pale teal petals, on a dark ground">
+  <img src="assets/design-references/vesarie-baroque-flora-3.webp" width="155" alt="Twisting rose-and-teal baroque blossoms and dark leaves on a black ground, petals curling like carved ornament">
+  <img src="assets/design-references/vesarie-baroque-flora-4.webp" width="155" alt="Close-up of a dense sculptural bloom in cream and rose, with translucent teal scrollwork petals fading into a dark, smoky ground">
+  <img src="assets/design-references/vesarie-baroque-flora-5.webp" width="155" alt="Close-up of a pale sculptural blossom with lace-like, translucent teal and cream petals and ornate rose-gold filigree, on a dark ground">
+</p>
+
+<sub>First 5 of 20 images from [@vesarie.co's post](https://www.threads.com/@vesarie.co/post/DfsbOmplom-).</sub>
+
 ### [Balance is controlled power](https://www.threads.com/@viktori.s.art/post/Dfp7uYfEesg)
 `status: watching` · `tags: illustration, fantasy, character-design, scales, atmosphere, color` · added 2026-11
 
