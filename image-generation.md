@@ -6,6 +6,69 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Editorial fashion-sketch photo prompt](https://www.threads.com/@myu_prompt_ai/post/DfuAkGrGAgw)
+`status: watching` · `tags: prompt, photo-to-illustration, fashion-sketch, editorial, sketch, hand-drawn` · added 2026-11
+
+A prompt by みゅう (@myu_prompt_ai). The post says you can make it from a photo you took plus the prompt ("撮った写真とプロンプトでつくれます"). It restyles an input photo as a 3:4 editorial fashion-sketch illustration: thin uneven hand-drawn ink lines, matte dry-brush or pastel color, and lots of paper white, while keeping the photo's subject, composition, and angle.
+**Why I care:** A clear photo-to-sketch recipe that changes only the drawing, not the scene — useful when you want a magazine-sketch look with restrained color and leftover paper. Related to the [ink-sketch diptych prompt](#ink-sketch-diptych-prompt-极简手绘双联海报), which also needs an input photo and uses hand-drawn ink plus paper white, but outputs a photo-above / sketch-below split instead of a full-frame restyle.
+**Notes:** Needs an input photo. Full prompt is in the [continuation](https://www.threads.com/@myu_prompt_ai/post/DfuAj-cmE0w). No model, tool, or license is stated. Threads labels the post as AI content. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+添付した写真をもとに、細い手描き線と、かすれた色面を組み合わせた、おしゃれな雑誌のファッションスケッチ風イラストにしてください。
+
+【写真の反映】
+写真に写っている主な被写体、構図、撮影アングル、ポーズ、位置関係を残してください。
+人物の髪型や服装、小物、建物などの特徴を生かし、細部を整理して描いてください。
+写真の内容を別の人物や場所に置き換えず、描き方だけを変えてください。
+
+【線のタッチ】
+細い黒のペンで、さらさらと軽く描いたような線。
+少し揺れたり、途切れたり、重なったりする、自然な手描きのラフさを残してください。
+輪郭をすべてきっちり閉じず、描き込む部分と省略する部分に差をつけてください。
+均一なデジタル線や、太く可愛い漫画風の線にはしないでください。
+
+【色と質感】
+白い紙を大きく残しながら、必要な部分だけに色を置いてください。
+色塗りはマットで平面的に。ドライブラシや色鉛筆、パステルを思わせる、細かなかすれと塗り残しを加えてください。
+輪郭線から色がわずかにはみ出したり、線の内側に白い隙間が残ったりする、気負わない仕上がり。
+写真の主な色を生かしつつ色数を絞り、印象的な色をアクセントにしてください。
+立体的な陰影や滑らかなグラデーションは控えてください。
+
+【人物が写っている場合】
+大人っぽく、すっきりしたファッションイラストのバランス。
+顔は細い線で簡潔に描き、目・鼻・口を描き込みすぎないでください。
+肌は淡いピンクベージュ。髪は大きな色のまとまりで表現し、ところどころに白い抜けを残してください。
+服のしわや柄は、特徴が伝わる最小限の線で描いてください。
+
+【背景と余白】
+背景は白を基調にし、写真の背景にある建物や家具、風景を、薄いグレーのラフな線で簡潔に描いてください。
+背景全体を塗りつぶさず、主役の後ろの一部分にだけ、幅広いブラシでさっと塗ったような色面を入れてください。
+色面の端は不規則にかすれさせ、白い余白へ自然につなげてください。
+背景の情報量を減らし、主役の周囲には余白を十分に残してください。
+
+【仕上がり】
+軽やかで洗練された、手描きのエディトリアルイラスト。
+描き込みすぎず、線と色と白い余白のバランスを大切にしてください。
+写実的な描写、3D、アニメ調、強い光沢、過剰な水彩のにじみは避けてください。
+文字、ロゴ、枠、スマートフォンの画面表示や操作ボタンは追加しないでください。
+3:4で生成してください。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/myu-fashion-sketch-1.webp" width="155" alt="Fashion-sketch of a snowy street with Tokyo Tower, lit trees, and a blue-gray brush-marked sky">
+  <img src="assets/image-generation/myu-fashion-sketch-2.webp" width="155" alt="Fashion-sketch of a Christmas market in front of a red-brick warehouse, a lit tree, stalls, and a city skyline">
+  <img src="assets/image-generation/myu-fashion-sketch-3.webp" width="155" alt="Fashion-sketch of a lit Christmas tree and wrapped gifts in front of a snowy bay window">
+  <img src="assets/image-generation/myu-fashion-sketch-4.webp" width="155" alt="Fashion-sketch of a red-brick station building with pedestrians and a blue brush-marked sky">
+  <img src="assets/image-generation/myu-fashion-sketch-5.webp" width="155" alt="Fashion-sketch of a large lit outdoor Christmas tree in a red planter in a city plaza, with pedestrians">
+</p>
+
+<sub>All 5 images from [@myu_prompt_ai's post](https://www.threads.com/@myu_prompt_ai/post/DfuAkGrGAgw).</sub>
+
 ### [Ink-sketch diptych prompt (极简手绘双联海报)](https://www.threads.com/@aweniai/post/Dfo48mkE_xk)
 `status: watching` · `tags: prompt, photo-to-poster, diptych, ink, watercolor, sketch, side-by-side` · added 2026-11
 
