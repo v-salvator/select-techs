@@ -6,6 +6,36 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Painterly teal-and-orange portraits](https://www.threads.com/@nebulaasgard/post/DfprxotoEa5)
+`status: watching` · `tags: illustration, portrait, painterly, color, character-design` · added 2026-11
+
+A seven-image series of painterly female portraits by Cayla Asgard (@nebulaasgard). The post text is just "Hi!" The portraits share teal or blue hair, orange and mustard accents, loose brushwork, and geometric colour-block backgrounds on pale borders.
+**Why I care:** A tight, repeatable portrait language — limited teal/blue and orange/mustard palette, graphic background bands, and visible brushstrokes that still hold as a set.
+**Notes:** No prompt, model, tool, or license disclosed. Shown here as first 5 of 7 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/cayla-asgard-1.webp" width="155" alt="Woman with teal-and-gold hair in an updo and a mustard-navy scarf, horizontal orange stripe behind her">
+  <img src="assets/design-references/cayla-asgard-2.webp" width="155" alt="Woman with a dark blue bob, mustard eyeshadow, and a vertical orange stripe">
+  <img src="assets/design-references/cayla-asgard-3.webp" width="155" alt="Woman with long blue-purple curls and mustard clothing, diagonal orange stripe">
+  <img src="assets/design-references/cayla-asgard-4.webp" width="155" alt="Woman with blue-purple hair, a high padded collar, and a diagonal orange band">
+  <img src="assets/design-references/cayla-asgard-5.webp" width="155" alt="Woman with a blue bob, long front strands, and a large disc earring on an orange rectangle">
+</p>
+
+<sub>First 5 of 7 images from [@nebulaasgard's post](https://www.threads.com/@nebulaasgard/post/DfprxotoEa5).</sub>
+
+### [らくがき再開 pastel portrait](https://www.threads.com/@choomoranma/post/DfpB8PvEqAQ)
+`status: watching` · `tags: illustration, portrait, character-design, pastel, flat-color` · added 2026-11
+
+A single pastel character portrait by 𝟭𝟵𝟮 (@choomoranma), posted as "らくがき再開" (resuming doodling): a pink-toned face, large blue eyes, and flowing white hair with lavender-blue shading on a white ground.
+**Why I care:** Very reduced, graphic character design — large flat shapes, a limited pastel palette, and hair that does most of the composition.
+**Notes:** No prompt, model, tool, or license disclosed. Single source image. Not tested.
+
+<p>
+  <img src="assets/design-references/choomoranma-pastel-1.webp" width="200" alt="Pastel character portrait with a pink face, blue eyes, and flowing white and lavender-blue hair">
+</p>
+
+<sub>Image from [@choomoranma's post](https://www.threads.com/@choomoranma/post/DfpB8PvEqAQ).</sub>
+
 ### [US City travel prints](https://www.threads.com/@foxandvelvet/post/Dfp3Yr9n0xb)
 `status: watching` · `tags: illustration, poster, travel, typography, mid-century, cities, commercial` · added 2026-11
 
