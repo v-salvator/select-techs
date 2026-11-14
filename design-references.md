@@ -11,7 +11,7 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 A 13-image Christmas illustration series by Lois Kohkoh (@loiskohkoh). The post text is "Christmas is almost here already 🎄". Loose red-and-green sketches on pale grounds: a tree being decorated from ladders, holiday character sticker portraits, figures in red coats walking among snowy trees, a strawberry-topped pink cake, and a tree with gifts in a pink room.
 **Why I care:** A tight holiday illustration language — limited red/green/cream (and one pink interior), scratchy line, and lots of paper white — that still holds across interiors, stickers, and outdoor scenes.
-**Notes:** An author continuation (Korean) says she draws an AI under-sketch and then retouches it by hand, and therefore labels it an AI image. No specific model or tool is named in the post or continuations. The creator's profile mentions Midjourney; that is profile context only and is not attributed to this post. No prompt or license disclosed. Shown here as first 5 of 13 source images. Not tested.
+**Notes:** The post carries a Threads AI tag. An author continuation (Korean) says she draws an AI under-sketch and then retouches it by hand, and therefore labels it an AI image. No specific model or tool is named in the post or continuations. No prompt or license disclosed. Shown here as first 5 of 13 source images. Not tested.
 
 <p>
   <img src="assets/design-references/lois-christmas-1.webp" width="155" alt="Green Christmas tree with a red star, two red figures on and beside red ladders, and gifts at the base on a cream ground">
