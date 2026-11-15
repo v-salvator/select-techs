@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Jeju foothills Midjourney study](https://www.threads.com/@minji_h_k/post/Dfvtyd-o8xd)
+`status: watching` · `tags: illustration, portrait, floral, midjourney, texture, korean` · added 2026-11
+
+A nine-image series by @minji_h_k (display name 𝒦𝒾𝓂 𝓂𝒾𝓃 𝒿𝒾 / Kim Min Ji). The post text is "미드저니 습작 @midjourney" and "내가 생각하는 제주도 산기슭 흙 향 느낌, 은은한 텍스처" (a Midjourney study; her take on the earthy scent of Jeju mountain foothills, and a subtle texture). Quiet, flat illustrations of a woman with white flowers — held to the face, under a blossom tree, or as a bouquet — on simple grounds with a grainy, paper-like texture.
+**Why I care:** A restrained floral-portrait language — limited palette, simple silhouettes, and that subtle paper texture — useful reference for quiet character illustration with a consistent floral motif.
+**Notes:** The author states Midjourney in the post ("미드저니 습작 @midjourney"). Threads also labels the post as AI content. No prompt or license is disclosed. No external URL; the in-post @midjourney mention links to the Midjourney Threads profile. Shown here as first 5 of 9 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/minji-jeju-flora-1.webp" width="140" alt="Woman with a black bob and a blue-and-grey wrap, holding white flowers with orange centers close to her face, on a pale textured ground">
+  <img src="assets/design-references/minji-jeju-flora-2.webp" width="140" alt="Woman in a long white dress standing under a dense white-blossom tree against a blue sky, reaching toward a flower">
+  <img src="assets/design-references/minji-jeju-flora-3.webp" width="140" alt="Woman in black with a black bob, face hidden behind a bouquet of white and pale-blue flowers with orange centers">
+  <img src="assets/design-references/minji-jeju-flora-4.webp" width="140" alt="Woman in a long pale dress standing in profile, holding a large white bouquet between two tall dark tree-like columns">
+  <img src="assets/design-references/minji-jeju-flora-5.webp" width="140" alt="Woman in a pale dress, eyes closed, holding a large white bouquet with small blue sprays against a light ground">
+</p>
+
+<sub>First 5 of 9 images from [@minji_h_k's post](https://www.threads.com/@minji_h_k/post/Dfvtyd-o8xd).</sub>
+
 ### [Balance is controlled power](https://www.threads.com/@viktori.s.art/post/Dfp7uYfEesg)
 `status: watching` · `tags: illustration, fantasy, character-design, scales, atmosphere, color` · added 2026-11
 
