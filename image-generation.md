@@ -6,6 +6,22 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Verdantism sref](https://www.threads.com/@olga.volosin/post/Dfuwyf1CJiw)
+`status: watching` · `tags: sref, midjourney, fashion, editorial, landscape, illustration` · added 2026-11
+
+A Verdantism style-reference resource shared by Olga Volosin (@olga.volosin). The post text is "Verdantism style on mystyleshaus.com/sref… 💚" and links to [mystyleshaus.com/sref-codes/verdantism](https://mystyleshaus.com/sref-codes/verdantism). The four examples show elongated fashion figures in sculptural garments inside deep-green, manicured or mountainous landscapes, with a single vivid red or orange accent.
+**Why I care:** A consistent dark-foliage editorial language — oversized cloaks and jackets, velvety green ground, and one sharp color accent — useful when you want a theatrical, oil-painted fashion-in-landscape look.
+**Notes:** Threads labels the post as AI content. No model or tool is named in the post itself. The linked MyStylesHaus page titles the listing "Verdantism — Midjourney SREF Code" (Illustration category) and describes it as a hushed, theatrical style of oil-painted surrealism with elongated figures in sculptural oversized garments, manicured dreamlike landscapes, and a single vivid accent against deep foliage (description from the page). The numeric `--sref` code is not shown on the public page, so it is not recorded here. No license or prompt is disclosed. Not tested.
+
+<p>
+  <img src="assets/image-generation/olga-verdantism-1.webp" width="155" alt="Figure in a long red robe holding a cello in a sunlit gap inside a deep-green hedge maze">
+  <img src="assets/image-generation/olga-verdantism-2.webp" width="155" alt="Figure in an oversized green-and-cream patterned cloak with a red scarf, standing among ferns before a pale building">
+  <img src="assets/image-generation/olga-verdantism-3.webp" width="155" alt="Cyclist with a bird on a narrow green road through a forested ravine, under a tall arched viaduct and a red-orange sky">
+  <img src="assets/image-generation/olga-verdantism-4.webp" width="155" alt="Figure in an oversized cream jacket with balloon sleeves, black-and-red trousers, and red boots, standing before mountains and a lake">
+</p>
+
+<sub>All 4 images from [@olga.volosin's post](https://www.threads.com/@olga.volosin/post/Dfuwyf1CJiw).</sub>
+
 ### [Ink-sketch diptych prompt (极简手绘双联海报)](https://www.threads.com/@aweniai/post/Dfo48mkE_xk)
 `status: watching` · `tags: prompt, photo-to-poster, diptych, ink, watercolor, sketch, side-by-side` · added 2026-11
 

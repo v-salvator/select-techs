@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Style 36 tennis-court fashion](https://www.threads.com/@tati_creator/post/DfwXioVFbx9)
+`status: watching` · `tags: fashion, editorial, surreal, tennis, photography, campaign` · added 2026-11
+
+A 14-image surreal tennis-court fashion series by @tati_creator (ТАТЬЯНА МЫШЛЯК | AI CREATOR). The post text is "STYLE 36 из моего обучения AI FASHION STYLES." (Style 36 from her AI Fashion Styles course). The stills show fashion figures on mossy or cliff-cut courts with oversized or floating tennis balls; each of the first five is marked "STYLE 36".
+**Why I care:** A tight, repeatable fashion-editorial set piece — red or green courts, sculptural scale shifts, and a limited moss/clay/sky palette — useful reference for surreal sports-fashion staging.
+**Notes:** Threads labels the post as AI content. No prompt, model, tool, license, or external URL is named. Shown here as first 5 of 14 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/tati-tennis-style36-1.webp" width="155" alt="Woman in a cream blazer and red pleated skirt with a racket on a red court split by a mossy cliff, STYLE 36 typography">
+  <img src="assets/design-references/tati-tennis-style36-2.webp" width="155" alt="Woman in an oversized grey suit walking a green court, a giant pink tennis ball between mossy hills, STYLE 36 typography">
+  <img src="assets/design-references/tati-tennis-style36-3.webp" width="155" alt="Distant figure on a red court under a grid of floating yellow tennis balls against a deep blue sky, STYLE 36 typography">
+  <img src="assets/design-references/tati-tennis-style36-4.webp" width="155" alt="Two figures on a small beige court in a blue landscape, a large tennis ball inside an orange disc above them, STYLE 36 typography">
+  <img src="assets/design-references/tati-tennis-style36-5.webp" width="155" alt="Woman seated in a wire basket overflowing with oversized yellow tennis balls, rackets at her feet, STYLE 36 typography">
+</p>
+
+<sub>First 5 of 14 images from [@tati_creator's post](https://www.threads.com/@tati_creator/post/DfwXioVFbx9).</sub>
+
 ### [Jeju foothills Midjourney study](https://www.threads.com/@minji_h_k/post/Dfvtyd-o8xd)
 `status: watching` · `tags: illustration, portrait, floral, midjourney, texture, korean` · added 2026-11
 
