@@ -6,6 +6,57 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Christmas is almost here already](https://www.threads.com/@loiskohkoh/post/DftfVXyHX1Q)
+`status: watching` · `tags: illustration, christmas, holiday, interior, character-design, limited-palette` · added 2026-11
+
+A 13-image Christmas illustration series by Lois Kohkoh (@loiskohkoh). The post text is "Christmas is almost here already 🎄". Loose red-and-green sketches on pale grounds: a tree being decorated from ladders, holiday character sticker portraits, figures in red coats walking among snowy trees, a strawberry-topped pink cake, and a tree with gifts in a pink room.
+**Why I care:** A tight holiday illustration language — limited red/green/cream (and one pink interior), scratchy line, and lots of paper white — that still holds across interiors, stickers, and outdoor scenes.
+**Notes:** The post carries a Threads AI tag. An author continuation (Korean) says she draws an AI under-sketch and then retouches it by hand, and therefore labels it an AI image. No specific model or tool is named in the post or continuations. No prompt or license disclosed. Shown here as first 5 of 13 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/lois-christmas-1.webp" width="155" alt="Green Christmas tree with a red star, two red figures on and beside red ladders, and gifts at the base on a cream ground">
+  <img src="assets/design-references/lois-christmas-2.webp" width="155" alt="Six holiday character portraits of children in red or striped hats and shirts, arranged like stickers on a cream ground">
+  <img src="assets/design-references/lois-christmas-3.webp" width="155" alt="Figures in red coats and hats walking among green snowy trees, with red flecks of snow or berries">
+  <img src="assets/design-references/lois-christmas-4.webp" width="155" alt="Pink layer cake topped and surrounded with strawberries on a red-rimmed plate, with a silver cake server">
+  <img src="assets/design-references/lois-christmas-5.webp" width="155" alt="Christmas tree with red ornaments and wrapped gifts in a pink room, next to a red gingham tablecloth and a paneled door">
+</p>
+
+<sub>First 5 of 13 images from [@loiskohkoh's post](https://www.threads.com/@loiskohkoh/post/DftfVXyHX1Q).</sub>
+
+### [Love affair with rain](https://www.threads.com/@iamlaurael/post/Dfsxbo9ndgX)
+`status: watching` · `tags: illustration, rain, cityscape, night, atmosphere, narrative` · added 2026-11
+
+A ten-illustration series by Laura El (@iamlaurael). The post text is "10 illustrations of my love affair with rain." Night and dusk city scenes in the rain: brick townhouses, wet streets, umbrellas, glowing windows, and a recurring small white cat, in a detailed, high-contrast illustrative style with a "laura el" signature.
+**Why I care:** A consistent rainy-city narrative — warm interiors against cool wet streets, ornate foliage, and small human and animal figures — useful reference for atmosphere, lighting, and repeating motifs across a series.
+**Notes:** An author continuation mentions prints and a monthly mail club available through the link in her bio; no URL is given in the post or continuation (not linked here). No prompt, model, tool, or license disclosed. Shown here as first 5 of 10 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/laura-el-rain-1.webp" width="155" alt="Rainy night sidewalk: a figure with a cane and dark umbrella stands beside a small pale cat, in front of a vine-covered brick doorway with glowing windows">
+  <img src="assets/design-references/laura-el-rain-2.webp" width="155" alt="Rainy night townhouse with glowing orange windows; a figure with a lantern and a small white cat walk on the wet street">
+  <img src="assets/design-references/laura-el-rain-3.webp" width="155" alt="Rainy townhouse with flower boxes and a yellow taxi; a figure with an umbrella, two dogs, and a small white cat on West 58th Street">
+  <img src="assets/design-references/laura-el-rain-4.webp" width="155" alt="Rainy city park path under a NEW YORKER skyline, people with umbrellas and dogs walking between lampposts">
+  <img src="assets/design-references/laura-el-rain-5.webp" width="155" alt="Rainy cinema facade with vertical orange CINEMA neon, a marquee for THE LAST WOMAN ON EARTH, a pink-flowered tree, and a figure with a red umbrella walking a dog">
+</p>
+
+<sub>First 5 of 10 images from [@iamlaurael's post](https://www.threads.com/@iamlaurael/post/Dfsxbo9ndgX).</sub>
+
+### [Dark botanical baroque flora](https://www.threads.com/@vesarie.co/post/DfsbOmplom-)
+`status: watching` · `tags: illustration, floral, baroque, surreal, dark-botanical, sculpture` · added 2026-11
+
+A 20-image series of surreal, baroque floral forms by VESARIÉ (@vesarie.co). The post text begins: "Not quite flowers. Not quite sculptures. Possibly an evolutionary misunderstanding." Ornate, sculptural blossoms — damask-like veining, scrollwork, and fabric- or lace-like petals in dusty rose, cream, and muted teal — sit on dark grounds.
+**Why I care:** A consistent dark-botanical language — baroque ornament applied to flower anatomy, a limited rose/cream/teal palette, and a heavy dark ground — useful reference for ornate floral still life and sculptural form.
+**Notes:** Threads labels the post as AI content. No prompt, model, tool, or license is named. No external URL in the post; the creator's profile mentions a waitlist but gives no URL (not linked here). Shown here as first 5 of 20 source images. Same creator as the [Surreal coastal staircase series](#surreal-coastal-staircase-series). Not tested.
+
+<p>
+  <img src="assets/design-references/vesarie-baroque-flora-1.webp" width="155" alt="Overlapping baroque lily-like blossoms in dusty rose and pale teal, with scroll-patterned petals and long stamens, on a dark ground">
+  <img src="assets/design-references/vesarie-baroque-flora-2.webp" width="155" alt="Open five-petaled sculptural flower with damask-like rose and cream patterns on pale teal petals, on a dark ground">
+  <img src="assets/design-references/vesarie-baroque-flora-3.webp" width="155" alt="Twisting rose-and-teal baroque blossoms and dark leaves on a black ground, petals curling like carved ornament">
+  <img src="assets/design-references/vesarie-baroque-flora-4.webp" width="155" alt="Close-up of a dense sculptural bloom in cream and rose, with translucent teal scrollwork petals fading into a dark, smoky ground">
+  <img src="assets/design-references/vesarie-baroque-flora-5.webp" width="155" alt="Close-up of a pale sculptural blossom with lace-like, translucent teal and cream petals and ornate rose-gold filigree, on a dark ground">
+</p>
+
+<sub>First 5 of 20 images from [@vesarie.co's post](https://www.threads.com/@vesarie.co/post/DfsbOmplom-).</sub>
+
 ### [Balance is controlled power](https://www.threads.com/@viktori.s.art/post/Dfp7uYfEesg)
 `status: watching` · `tags: illustration, fantasy, character-design, scales, atmosphere, color` · added 2026-11
 
