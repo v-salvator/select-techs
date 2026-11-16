@@ -19,6 +19,91 @@ A single illustration by かりんとう (@karinto_ai). The post text is "【忠
 
 <sub>Image from [@karinto_ai's post](https://www.threads.com/@karinto_ai/post/DfwpoT1EeCS).</sub>
 
+### [Style 36 tennis-court fashion](https://www.threads.com/@tati_creator/post/DfwXioVFbx9)
+`status: watching` · `tags: fashion, editorial, surreal, tennis, photography, campaign` · added 2026-11
+
+A 14-image surreal tennis-court fashion series by @tati_creator (ТАТЬЯНА МЫШЛЯК | AI CREATOR). The post text is "STYLE 36 из моего обучения AI FASHION STYLES." (Style 36 from her AI Fashion Styles course). The stills show fashion figures on mossy or cliff-cut courts with oversized or floating tennis balls; each of the first five is marked "STYLE 36".
+**Why I care:** A tight, repeatable fashion-editorial set piece — red or green courts, sculptural scale shifts, and a limited moss/clay/sky palette — useful reference for surreal sports-fashion staging.
+**Notes:** Threads labels the post as AI content. No prompt, model, tool, license, or external URL is named. Shown here as first 5 of 14 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/tati-tennis-style36-1.webp" width="155" alt="Woman in a cream blazer and red pleated skirt with a racket on a red court split by a mossy cliff, STYLE 36 typography">
+  <img src="assets/design-references/tati-tennis-style36-2.webp" width="155" alt="Woman in an oversized grey suit walking a green court, a giant pink tennis ball between mossy hills, STYLE 36 typography">
+  <img src="assets/design-references/tati-tennis-style36-3.webp" width="155" alt="Distant figure on a red court under a grid of floating yellow tennis balls against a deep blue sky, STYLE 36 typography">
+  <img src="assets/design-references/tati-tennis-style36-4.webp" width="155" alt="Two figures on a small beige court in a blue landscape, a large tennis ball inside an orange disc above them, STYLE 36 typography">
+  <img src="assets/design-references/tati-tennis-style36-5.webp" width="155" alt="Woman seated in a wire basket overflowing with oversized yellow tennis balls, rackets at her feet, STYLE 36 typography">
+</p>
+
+<sub>First 5 of 14 images from [@tati_creator's post](https://www.threads.com/@tati_creator/post/DfwXioVFbx9).</sub>
+
+### [Jeju foothills Midjourney study](https://www.threads.com/@minji_h_k/post/Dfvtyd-o8xd)
+`status: watching` · `tags: illustration, portrait, floral, midjourney, texture, korean` · added 2026-11
+
+A nine-image series by @minji_h_k (display name 𝒦𝒾𝓂 𝓂𝒾𝓃 𝒿𝒾 / Kim Min Ji). The post text is "미드저니 습작 @midjourney" and "내가 생각하는 제주도 산기슭 흙 향 느낌, 은은한 텍스처" (a Midjourney study; her take on the earthy scent of Jeju mountain foothills, and a subtle texture). Quiet, flat illustrations of a woman with white flowers — held to the face, under a blossom tree, or as a bouquet — on simple grounds with a grainy, paper-like texture.
+**Why I care:** A restrained floral-portrait language — limited palette, simple silhouettes, and that subtle paper texture — useful reference for quiet character illustration with a consistent floral motif.
+**Notes:** The author states Midjourney in the post ("미드저니 습작 @midjourney"). Threads also labels the post as AI content. No prompt or license is disclosed. No external URL; the in-post @midjourney mention links to the Midjourney Threads profile. Shown here as first 5 of 9 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/minji-jeju-flora-1.webp" width="140" alt="Woman with a black bob and a blue-and-grey wrap, holding white flowers with orange centers close to her face, on a pale textured ground">
+  <img src="assets/design-references/minji-jeju-flora-2.webp" width="140" alt="Woman in a long white dress standing under a dense white-blossom tree against a blue sky, reaching toward a flower">
+  <img src="assets/design-references/minji-jeju-flora-3.webp" width="140" alt="Woman in black with a black bob, face hidden behind a bouquet of white and pale-blue flowers with orange centers">
+  <img src="assets/design-references/minji-jeju-flora-4.webp" width="140" alt="Woman in a long pale dress standing in profile, holding a large white bouquet between two tall dark tree-like columns">
+  <img src="assets/design-references/minji-jeju-flora-5.webp" width="140" alt="Woman in a pale dress, eyes closed, holding a large white bouquet with small blue sprays against a light ground">
+</p>
+
+<sub>First 5 of 9 images from [@minji_h_k's post](https://www.threads.com/@minji_h_k/post/Dfvtyd-o8xd).</sub>
+
+### [Christmas is almost here already](https://www.threads.com/@loiskohkoh/post/DftfVXyHX1Q)
+`status: watching` · `tags: illustration, christmas, holiday, interior, character-design, limited-palette` · added 2026-11
+
+A 13-image Christmas illustration series by Lois Kohkoh (@loiskohkoh). The post text is "Christmas is almost here already 🎄". Loose red-and-green sketches on pale grounds: a tree being decorated from ladders, holiday character sticker portraits, figures in red coats walking among snowy trees, a strawberry-topped pink cake, and a tree with gifts in a pink room.
+**Why I care:** A tight holiday illustration language — limited red/green/cream (and one pink interior), scratchy line, and lots of paper white — that still holds across interiors, stickers, and outdoor scenes.
+**Notes:** The post carries a Threads AI tag. An author continuation (Korean) says she draws an AI under-sketch and then retouches it by hand, and therefore labels it an AI image. No specific model or tool is named in the post or continuations. No prompt or license disclosed. Shown here as first 5 of 13 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/lois-christmas-1.webp" width="155" alt="Green Christmas tree with a red star, two red figures on and beside red ladders, and gifts at the base on a cream ground">
+  <img src="assets/design-references/lois-christmas-2.webp" width="155" alt="Six holiday character portraits of children in red or striped hats and shirts, arranged like stickers on a cream ground">
+  <img src="assets/design-references/lois-christmas-3.webp" width="155" alt="Figures in red coats and hats walking among green snowy trees, with red flecks of snow or berries">
+  <img src="assets/design-references/lois-christmas-4.webp" width="155" alt="Pink layer cake topped and surrounded with strawberries on a red-rimmed plate, with a silver cake server">
+  <img src="assets/design-references/lois-christmas-5.webp" width="155" alt="Christmas tree with red ornaments and wrapped gifts in a pink room, next to a red gingham tablecloth and a paneled door">
+</p>
+
+<sub>First 5 of 13 images from [@loiskohkoh's post](https://www.threads.com/@loiskohkoh/post/DftfVXyHX1Q).</sub>
+
+### [Love affair with rain](https://www.threads.com/@iamlaurael/post/Dfsxbo9ndgX)
+`status: watching` · `tags: illustration, rain, cityscape, night, atmosphere, narrative` · added 2026-11
+
+A ten-illustration series by Laura El (@iamlaurael). The post text is "10 illustrations of my love affair with rain." Night and dusk city scenes in the rain: brick townhouses, wet streets, umbrellas, glowing windows, and a recurring small white cat, in a detailed, high-contrast illustrative style with a "laura el" signature.
+**Why I care:** A consistent rainy-city narrative — warm interiors against cool wet streets, ornate foliage, and small human and animal figures — useful reference for atmosphere, lighting, and repeating motifs across a series.
+**Notes:** An author continuation mentions prints and a monthly mail club available through the link in her bio; no URL is given in the post or continuation (not linked here). No prompt, model, tool, or license disclosed. Shown here as first 5 of 10 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/laura-el-rain-1.webp" width="155" alt="Rainy night sidewalk: a figure with a cane and dark umbrella stands beside a small pale cat, in front of a vine-covered brick doorway with glowing windows">
+  <img src="assets/design-references/laura-el-rain-2.webp" width="155" alt="Rainy night townhouse with glowing orange windows; a figure with a lantern and a small white cat walk on the wet street">
+  <img src="assets/design-references/laura-el-rain-3.webp" width="155" alt="Rainy townhouse with flower boxes and a yellow taxi; a figure with an umbrella, two dogs, and a small white cat on West 58th Street">
+  <img src="assets/design-references/laura-el-rain-4.webp" width="155" alt="Rainy city park path under a NEW YORKER skyline, people with umbrellas and dogs walking between lampposts">
+  <img src="assets/design-references/laura-el-rain-5.webp" width="155" alt="Rainy cinema facade with vertical orange CINEMA neon, a marquee for THE LAST WOMAN ON EARTH, a pink-flowered tree, and a figure with a red umbrella walking a dog">
+</p>
+
+<sub>First 5 of 10 images from [@iamlaurael's post](https://www.threads.com/@iamlaurael/post/Dfsxbo9ndgX).</sub>
+
+### [Dark botanical baroque flora](https://www.threads.com/@vesarie.co/post/DfsbOmplom-)
+`status: watching` · `tags: illustration, floral, baroque, surreal, dark-botanical, sculpture` · added 2026-11
+
+A 20-image series of surreal, baroque floral forms by VESARIÉ (@vesarie.co). The post text begins: "Not quite flowers. Not quite sculptures. Possibly an evolutionary misunderstanding." Ornate, sculptural blossoms — damask-like veining, scrollwork, and fabric- or lace-like petals in dusty rose, cream, and muted teal — sit on dark grounds.
+**Why I care:** A consistent dark-botanical language — baroque ornament applied to flower anatomy, a limited rose/cream/teal palette, and a heavy dark ground — useful reference for ornate floral still life and sculptural form.
+**Notes:** Threads labels the post as AI content. No prompt, model, tool, or license is named. No external URL in the post; the creator's profile mentions a waitlist but gives no URL (not linked here). Shown here as first 5 of 20 source images. Same creator as the [Surreal coastal staircase series](#surreal-coastal-staircase-series). Not tested.
+
+<p>
+  <img src="assets/design-references/vesarie-baroque-flora-1.webp" width="155" alt="Overlapping baroque lily-like blossoms in dusty rose and pale teal, with scroll-patterned petals and long stamens, on a dark ground">
+  <img src="assets/design-references/vesarie-baroque-flora-2.webp" width="155" alt="Open five-petaled sculptural flower with damask-like rose and cream patterns on pale teal petals, on a dark ground">
+  <img src="assets/design-references/vesarie-baroque-flora-3.webp" width="155" alt="Twisting rose-and-teal baroque blossoms and dark leaves on a black ground, petals curling like carved ornament">
+  <img src="assets/design-references/vesarie-baroque-flora-4.webp" width="155" alt="Close-up of a dense sculptural bloom in cream and rose, with translucent teal scrollwork petals fading into a dark, smoky ground">
+  <img src="assets/design-references/vesarie-baroque-flora-5.webp" width="155" alt="Close-up of a pale sculptural blossom with lace-like, translucent teal and cream petals and ornate rose-gold filigree, on a dark ground">
+</p>
+
+<sub>First 5 of 20 images from [@vesarie.co's post](https://www.threads.com/@vesarie.co/post/DfsbOmplom-).</sub>
+
 ### [Balance is controlled power](https://www.threads.com/@viktori.s.art/post/Dfp7uYfEesg)
 `status: watching` · `tags: illustration, fantasy, character-design, scales, atmosphere, color` · added 2026-11
 
