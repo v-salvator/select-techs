@@ -6,6 +6,13 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [CreateX](https://logofx.app/createx)
+`status: watching` · `tags: logo, typography, grid, branding, browser-tool, svg` · added 2026-11
+
+A grid-based logo maker by deadrabbit (@deadrabbbbit). The Threads post introduces it as "A grid-based design tool for turning geometric shapes into your next logo." The site titles the page **CreateX — Grid Logo Maker**.
+**Why I care:** A focused in-browser way to construct marks on geometric grids and export them — closer to drawing a logo than applying effects to one you already have.
+**Notes:** Official page: [logofx.app/createx](https://logofx.app/createx). The page says you can "draw a logo on free geometric grids and export SVG or PNG without signing up," and that more grids unlock with a membership. On-page copy also says "Join to unlock all grids (24)." Exact membership pricing and license are not stated on the pages checked. CreateX is listed in the site nav alongside LogoFX (the same site's [logo effects and animation maker](https://logofx.app/studio), which describes PNG or video exports of 3D, metal, glass, and animated logo effects). Shared via [Threads](https://www.threads.com/@deadrabbbbit/post/Dfw75-LDdI3); the [continuation](https://www.threads.com/@deadrabbbbit/post/Dfw9HykFviS) links the CreateX page. Source media was a video only (not watched); no stills. Not tested.
+
 ### [Foil Proof Lab (燙印打樣室)](https://naldo-w.github.io/foil-proof-lab/)
 `status: watching` · `tags: print, foil, embossing, mockup, svg, browser-tool, typography` · added 2026-11
 

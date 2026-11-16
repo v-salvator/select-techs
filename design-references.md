@@ -6,6 +6,19 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [忠犬](https://www.threads.com/@karinto_ai/post/DfwpoT1EeCS)
+`status: watching` · `tags: illustration, character-design, animal, sketch, atmosphere` · added 2026-11
+
+A single illustration by かりんとう (@karinto_ai). The post text is "【忠犬】 いい子だね。" (Loyal dog — good dog). An author [continuation](https://www.threads.com/@karinto_ai/post/DfwveZtEpmW) says "いままでとちょっと系統が違うもしれません！！" (this may be a bit different in style from her usual work). A dark-haired person in a dark jacket stands under a glass-grid roof beside an enormous, stitched white dog, reaching up toward its face with an orange thread.
+**Why I care:** A strong scale contrast and a loose, sketchlike line — the huge patchwork dog and the thin orange thread do most of the storytelling in one frame.
+**Notes:** Threads labels the post as AI Art / AI content. No prompt, model, tool, license, or external URL is named in the post or continuation. Single source image. Not tested.
+
+<p>
+  <img src="assets/design-references/karinto-loyal-dog-1.webp" width="200" alt="Dark-haired person in a dark jacket under a glass-grid roof, reaching up with an orange thread toward the face of a huge, stitched white dog">
+</p>
+
+<sub>Image from [@karinto_ai's post](https://www.threads.com/@karinto_ai/post/DfwpoT1EeCS).</sub>
+
 ### [Style 36 tennis-court fashion](https://www.threads.com/@tati_creator/post/DfwXioVFbx9)
 `status: watching` · `tags: fashion, editorial, surreal, tennis, photography, campaign` · added 2026-11
 
