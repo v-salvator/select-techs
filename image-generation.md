@@ -6,6 +6,31 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Abstract visual-identity poster prompt](https://www.threads.com/@lovely_cat_diary/post/Dfyi_o_kqjJ)
+`status: watching` · `tags: prompt, photo-to-poster, swiss, risograph, typography, abstract, identity` · added 2026-11
+
+A prompt shared by LovelyCatdiary (@lovely_cat_diary). The post text is "歐買尬 這指令做圖也太美❤️❤️❤️ 網友分享指令於回覆". It turns an uploaded photo into a vertical design poster of deconstructed, diagrammatic symbols — geometric modules, fine construction lines, negative space, and xerox/risograph texture — rather than a literal depiction of the subject. The prompt asks for a "16:9 直式" poster, as written.
+**Why I care:** A compact photo-to-identity recipe: extract a recognizable symbol, keep typography as small system labels, and build a brand-like color set from the photo. Related to other photo-to-poster prompts here, but aimed at an abstract Swiss/risograph mark instead of a collage or sketch.
+**Notes:** Needs an uploaded photo. The author says the prompt was shared by another user (continuation: ["取之於脆／分享於脆😊"](https://www.threads.com/@lovely_cat_diary/post/DfykWAREuem)); the original prompt author is not named. Full prompt is split across two author continuations, [part 1](https://www.threads.com/@lovely_cat_diary/post/DfyjCP7EjaR) and [part 2](https://www.threads.com/@lovely_cat_diary/post/DfykqkTEgMC). No model, tool, or license is stated. Threads labels the post as AI content. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+請將我上傳的照片製作成一張獨立的 16:9 直式高階設計海報；整張畫布提煉自主體核心的抽象視覺符號。提取照片核心識別資訊：主體輪廓、結構、姿態、敘事關係，不復刻完整物象，壓縮成可識別的抽象視覺識別（Visual Identity）。運用幾何解構、模組化形態、線條結構、負空間、符號化手法，做成高端品牌識別、實驗設計系統裡的核心符號。抓核心氣質而非細碎細節，保證極簡圖形仍能關聯原圖對象。視覺風格：post-digital graphic design、deconstructed Swiss design、generative symbol system、diagrammatic abstraction。使用幾何模組、細線條、圓弧軌跡、網格、微型符號、編號邏輯、抽象節點搭建系統化符號。追求秩序 × 誤差、精密 × 手工痕跡、數位 × 類比、理性 × 情緒的對沖感，以最少元素塑造強識別度，拒絕繁複。構圖高度克制，主體符號為唯一視覺焦點，置中或微偏移，大面積留白透氣。禁止堆砌多圖示、做成資訊圖表（Infographic），對標藝術機構、建築事務所、實驗廠牌、高端品牌的核心視覺識別。
+
+文字僅作為系統組件，不做主標題；可搭配極小的編號、字母、短句，和符號形成索引關聯，字體精細克制，是檔案、實驗刊物式的標註感。色彩從上圖提取標誌性色調，重構為品牌色彩體系。少量高識別色作為功能編碼，如青綠、藍、洋紅、澄，搭配灰白、暖白底色形成對比；色彩是系統標記而非裝飾，避開雜亂配色、廉價霓虹、流水線商業漸層。材質融合：xerox texture、risograph grain、print registration error、scanner noise、subtle paper texture。增加微弱印刷錯位、顆粒、掃描噪點、邊緣不完美感，賦予數位符號實體印刷質感。最終目標是從照片萃取獨立自洽的視覺基因：克制精簡、帶有文化記憶與系統美學的抽象 Logo。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/lovelycat-symbol-poster-1.webp" width="155" alt="Cream vertical poster of a geometric orange cat built from overlapping circles and construction lines, with small type reading CAT, SMALL COMPANION BIG JOY, and No. 001">
+  <img src="assets/image-generation/lovelycat-symbol-poster-2.webp" width="155" alt="Photograph of a ginger kitten sitting indoors by a window, with a small NOV 11 desk calendar in the foreground">
+</p>
+
+<sub>All 2 images from [@lovely_cat_diary's post](https://www.threads.com/@lovely_cat_diary/post/Dfyi_o_kqjJ).</sub>
+
 ### [Verdantism sref](https://www.threads.com/@olga.volosin/post/Dfuwyf1CJiw)
 `status: watching` · `tags: sref, midjourney, fashion, editorial, landscape, illustration` · added 2026-11
 
