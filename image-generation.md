@@ -6,6 +6,36 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Grainy stencil Risograph doodle sref](https://www.threads.com/@punkgod/post/Df4OiGEGwid)
+`status: watching` · `tags: sref, midjourney, illustration, risograph, stencil, doodle` · added 2026-11
+
+A style-reference post by punkgod (@punkgod). The post text is the style guidance itself, recorded verbatim below: 颗粒孔版涂鸦, 色彩：红 / 黑 / 白, 风格：孔版印刷 / 粗线条手绘 / Risograph 版画, 特性：粗犷 / 色块平涂 / 质朴颗粒感, plus `--sref 4125407381` exactly as written. Images in the set are labeled "By Midjourney" and "tool Midjourney V8.2 alpha". The examples are grainy red-black-white stencil and Risograph-like doodles.
+**Why I care:** A rough, high-contrast stencil-print look with a tight red/black/white palette — useful when you want crude poster doodles with visible grain and flat color blocks.
+**Notes:** The Midjourney / V8.2 alpha wording is recorded as printed on the images, not independently verified. The `--sref 4125407381` string is recorded as written in the post. No license or external URL is stated. The post is shown in the AI Threads community. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+颗粒孔版涂鸦
+色彩：红 / 黑 / 白
+风格：孔版印刷 / 粗线条手绘 / Risograph 版画
+特性：粗犷 / 色块平涂 / 质朴颗粒感
+--sref 4125407381
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/punkgod-riso-sref-1.webp" width="155" alt="Four-panel red-black-white stencil grid labeled ai PUNKGOD and By Midjourney, with a suited figure holding pencils and a gun, a red guitarist, a bearded man with a phone, and a PUNKGOD character making a rude gesture; footer reads tool Midjourney V8.2 alpha">
+  <img src="assets/image-generation/punkgod-riso-sref-2.webp" width="155" alt="Grainy stencil illustration of a red-and-black biker seen from behind, standing by a motorcycle under street lamps, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-riso-sref-3.webp" width="155" alt="Grainy red-and-black stencil of a suited figure holding a large black gun, with rockets and a knife behind, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-riso-sref-4.webp" width="155" alt="Red poster labeled PULP FICTION of a black-haired figure with radiating handwritten marks, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-riso-sref-5.webp" width="155" alt="Four grainy red-and-black stencil doodles of dogs and a cat, labeled By Midjourney and CREATED by PUNKGOD">
+</p>
+
+<sub>First 5 of 10 images from [@punkgod's post](https://www.threads.com/@punkgod/post/Df4OiGEGwid).</sub>
+
 ### [Verdantism sref](https://www.threads.com/@olga.volosin/post/Dfuwyf1CJiw)
 `status: watching` · `tags: sref, midjourney, fashion, editorial, landscape, illustration` · added 2026-11
 

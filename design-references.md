@@ -6,6 +6,39 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Sculptural black-and-pink fashion illustrations](https://www.threads.com/@elendostudio/post/Df5IFjviluW)
+`status: watching` · `tags: illustration, fashion, editorial, character-design` · added 2026-11
+
+AI fashion illustrations by Hesso | AI Creator (@elendostudio). The post text is "🧪⚠️" plus the hashtags #midjourney #ai #prompt #higgsfield #aicreator. The stills show figures in oversized black garments with pearl details, pink underlayers or haze, and a muted pale ground.
+**Why I care:** A strong silhouette-first fashion language — exaggerated hats, coats, and collars, with a tight black/pink palette and a slightly unreal skin tone.
+**Notes:** Threads labels the post as AI content. Midjourney and Higgsfield are named only as hashtags; the post includes #prompt but no prompt text, sref, or other tool name is given in the post or visible in the images. No license or external URL is stated. No author continuations. All 4 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/elendostudio-fashion-1.webp" width="155" alt="Figure in a wide black conical hat, long pearl necklaces, and an oversized black wrap over a pink underlayer, with a small swoosh mark at the hem, on a pale pink-to-white ground">
+  <img src="assets/design-references/elendostudio-fashion-2.webp" width="155" alt="Figure walking in a flared black coat with pink-and-black spots, a pink haze around the hem, and dark sneakers with a small swoosh">
+  <img src="assets/design-references/elendostudio-fashion-3.webp" width="155" alt="Close-up of a pale figure with long black hair and yellow eyes, wearing a black coat whose shoulders are covered in long spikes set with pearls">
+  <img src="assets/design-references/elendostudio-fashion-4.webp" width="155" alt="Pale figure with a buzzed light hairline and pink-lit eyes, in a high black collar with pearl studs and lettering, a pink streak behind the head">
+</p>
+
+<sub>All 4 images from [@elendostudio's post](https://www.threads.com/@elendostudio/post/Df5IFjviluW).</sub>
+
+### [Taehyoung Jeon's fantasy botanicals](https://www.threads.com/@icantaffordthisbutmaybeshecan/post/Df4L3pIkUqb)
+`status: watching` · `tags: illustration, botanical, herbarium, print` · added 2026-11
+
+Fantasy botanicals by illustrator Taehyoung (Maria) Jeon, shared by @icantaffordthisbutmaybeshecan. The post text is "Meet Taehyoung Jeon’s fantasy botanicals, a herbarium of plants that have only ever grown in her imagination, dozens of them, every one invented. Hard to pick a favourite even harder to stop at one. A garden that never needs watering, only wall space. Link in images and stories (George)". The stills are invented-plant herbarium illustrations; two slides include on-image text in which she says she makes Giclée prints of digital illustrations inspired by the plants in her apartment.
+**Why I care:** A vivid invented herbarium — bold, flat, almost emblem-like plants with a limited palette and a clear print-ready graphic sense.
+**Notes:** No prompt, sref, model, or tool is named. A slide asks "Hi Taehyoung Maria Jeon, what do you make?" and answers that she is "an artist based in Seoul living with my cat Fuzzy" who creates "Giclée prints of digital illustrations inspired by the plants in my apartment." Another slide says Giclée prints of her Plant series are "the key products on my website," but no artist or shop URL is given in the post or visible slide text, so none is recorded here. The caption mentions "Link in images and stories," but no URL is exposed in the post. No license is stated. No author continuations were visible. Shown here as first 5 of 8 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/taehyoung-botanicals-1.webp" width="155" alt="Cream-ground illustration of a two-headed blue plant with orange outlines, black inner slits, and a coiled orange-striped stem around a teal pot, signed at right">
+  <img src="assets/design-references/taehyoung-botanicals-2.webp" width="155" alt="Interview slide headed Hi Taehyoung Maria Jeon, what do you make?, showing a dotted hand holding scissors beside blue leaf forms, with text about Giclée prints of apartment-plant illustrations">
+  <img src="assets/design-references/taehyoung-botanicals-3.webp" width="155" alt="Cream-ground illustration of stacked pink leaf forms with green dots over a scalloped teal leaf, signed at lower right">
+  <img src="assets/design-references/taehyoung-botanicals-4.webp" width="155" alt="Interview slide headed What's your best seller?, showing a pink two-leaf plant in a patterned green bowl, with text about Giclée prints of the Plant series">
+  <img src="assets/design-references/taehyoung-botanicals-5.webp" width="155" alt="Cream-ground illustration of two spotted pod-like forms, one yellow with black dots and one black with yellow dots, linked by a blue curve and a red stem">
+</p>
+
+<sub>First 5 of 8 images from [@icantaffordthisbutmaybeshecan's post](https://www.threads.com/@icantaffordthisbutmaybeshecan/post/Df4L3pIkUqb).</sub>
+
 ### [忠犬](https://www.threads.com/@karinto_ai/post/DfwpoT1EeCS)
 `status: watching` · `tags: illustration, character-design, animal, sketch, atmosphere` · added 2026-11
 
