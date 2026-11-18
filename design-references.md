@@ -6,6 +6,21 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Closer to the moon](https://www.threads.com/@viktori.s.art/post/Df55SegkevD)
+`status: watching` · `tags: illustration, fantasy, children, water, atmosphere, color` · added 2026-11
+
+A three-image series of AI illustrations by viktori's art (@viktori.s.art). The post text is "Closer to the moon 🌙". Pale-haired children in loose, patterned clothes hang or lean toward a pool of water, a finger just touching the ripples, against teal or blue grounds.
+**Why I care:** A quiet, repeatable gesture — one reaching hand, one ring of ripples — restaged with inverted or leaning poses and a limited teal, cream, and red palette. Related to the same artist's [Balance is controlled power](#balance-is-controlled-power) series, which uses a similar fantasy atmosphere around a different emblem (the scales).
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post itself. No license or external URL is stated. No author continuations. All 3 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/viktori-moon-1.webp" width="155" alt="Pale-haired child in loose teal-and-cream clothes hanging upside down against a dark teal ground, reaching a finger to touch rippling blue water">
+  <img src="assets/design-references/viktori-moon-2.webp" width="155" alt="Pale-haired child in a white blouse leaning down against a blue sky, a drop falling as a finger reaches toward rippling water">
+  <img src="assets/design-references/viktori-moon-3.webp" width="155" alt="Pale-haired child in teal, cream, and red clothing hanging upside down over a circular pool, a finger just touching the water">
+</p>
+
+<sub>All 3 images from [@viktori.s.art's post](https://www.threads.com/@viktori.s.art/post/Df55SegkevD).</sub>
+
 ### [Sculptural black-and-pink fashion illustrations](https://www.threads.com/@elendostudio/post/Df5IFjviluW)
 `status: watching` · `tags: illustration, fashion, editorial, character-design` · added 2026-11
 
@@ -38,6 +53,23 @@ Fantasy botanicals by illustrator Taehyoung (Maria) Jeon, shared by @icantafford
 </p>
 
 <sub>First 5 of 8 images from [@icantaffordthisbutmaybeshecan's post](https://www.threads.com/@icantaffordthisbutmaybeshecan/post/Df4L3pIkUqb).</sub>
+
+### [Women I met in The Backrooms](https://www.threads.com/@hannibalvector/post/Df3ZZYumU2X)
+`status: watching` · `tags: illustration, portrait, cyborg, sketch, character-design` · added 2026-11
+
+An AI illustration series by Taul Waters Universe (@hannibalvector). The post text is "Women I met in The Backrooms 🧍". The five stills are close-up faces of women and cyborg-like figures, with a sketch-like, faceted treatment — geometric planes, cracked mask-like shells, and mechanical plates over pale skin.
+**Why I care:** A tight portrait set that keeps a drawing-in-progress feel even in the more mechanical faces — useful as a reference for hybrid sketch-and-render portraits. Same creator as [Mother Trucker](#mother-trucker) and [mass_TECH after midnight](#mass_tech-after-midnight).
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post. No license or external URL is stated. No author continuations. All 5 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/hannibal-backrooms-1.webp" width="155" alt="Close-up of a pale woman with dark hair and red lips, her face and hands breaking into flat, sketched geometric planes, a streak of red at the temple">
+  <img src="assets/design-references/hannibal-backrooms-2.webp" width="155" alt="Close-up of a freckled woman in a hood, chin resting in both hands, rendered in grey sketch-like planes with faceted fingers">
+  <img src="assets/design-references/hannibal-backrooms-3.webp" width="155" alt="Cyborg-like face on a blue ground, pale skin and red lips with white mechanical plates around the ear, jaw, and cheek, and red wires along the neck">
+  <img src="assets/design-references/hannibal-backrooms-4.webp" width="155" alt="Layered, fractured face on a cream ground, dark hair with bangs, overlapping translucent planes and a second mouth lower on the neck">
+  <img src="assets/design-references/hannibal-backrooms-5.webp" width="155" alt="Close-up of a freckled woman resting her cheek on her shoulder, her head enclosed in a cracked, faceted white mask-like shell">
+</p>
+
+<sub>All 5 images from [@hannibalvector's post](https://www.threads.com/@hannibalvector/post/Df3ZZYumU2X).</sub>
 
 ### [忠犬](https://www.threads.com/@karinto_ai/post/DfwpoT1EeCS)
 `status: watching` · `tags: illustration, character-design, animal, sketch, atmosphere` · added 2026-11
