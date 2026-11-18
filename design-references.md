@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [A weapon is only as dangerous as its intention](https://www.threads.com/@viktori.s.art/post/Df2-6xqiBk0)
+`status: watching` · `tags: illustration, fantasy, character-design, archer, poster, atmosphere` · added 2026-11
+
+A nine-image series of AI-illustrated archer and warrior posters by viktori's art (@viktori.s.art). The post text is "A weapon is only as dangerous as its intention. 🌙". The stills show archers in ornate robes and headdresses drawing bows against large red discs, with red-sun, moon, lotus, peony, sword, and dragon motifs.
+**Why I care:** A tight, poster-like set that restages one archer silhouette across costume and motif changes — useful as a reference for high-contrast red-sun compositions and dense ornamental detail. Related to the same artist's [Balance is controlled power](#balance-is-controlled-power) series, which uses a similar teal-and-orange fantasy palette around a different emblem (the scales).
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post itself. The author's bio mentions Midjourney; that is profile context only and is not attributed to this post. No license or external URL is stated. No author continuations. Shown here as first 5 of 9 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/viktori-archer-1.webp" width="155" alt="Dark-haired archer in a radiating ornate headdress and white-and-red robe drawing a longbow before a red sun, with a teal dragon in clouds at lower left">
+  <img src="assets/design-references/viktori-archer-2.webp" width="155" alt="Pale-haired braided archer drawing a bow before a large red disc, with pink lotuses at the hem, a sword at the hip, and a yin-yang in the dark smoke above">
+  <img src="assets/design-references/viktori-archer-3.webp" width="155" alt="Dark-haired archer with peonies in an elaborate hair ornament, drawing a bow across the face before a red sun, in a white robe with red patterning">
+  <img src="assets/design-references/viktori-archer-4.webp" width="155" alt="Close-up of an archer drawing a bow, with a gold disc earring and a green dragon painted on the robe, a red sun behind">
+  <img src="assets/design-references/viktori-archer-5.webp" width="155" alt="Archer wearing a white dragon headdress and drawing a bow before a red sun, with a tattooed chest, red sash, and vertical red typography at the upper right">
+</p>
+
+<sub>First 5 of 9 images from [@viktori.s.art's post](https://www.threads.com/@viktori.s.art/post/Df2-6xqiBk0).</sub>
+
 ### [忠犬](https://www.threads.com/@karinto_ai/post/DfwpoT1EeCS)
 `status: watching` · `tags: illustration, character-design, animal, sketch, atmosphere` · added 2026-11
 
