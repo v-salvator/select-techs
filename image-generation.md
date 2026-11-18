@@ -6,6 +6,41 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [F1 cinematic sports portrait prompt](https://www.threads.com/@glooomyboy/post/Df43ygDiBT3)
+`status: watching` · `tags: prompt, midjourney, sref, sports, portrait, poster` · added 2026-11
+
+A prompt by Hamza Qureshi Ai Artist (@glooomyboy). The post text is a reusable F1-driver prompt, recorded verbatim below: a cinematic sports portrait of a driver in a racing suit and helmet, mid-stride celebration, with neon particle dispersion and `--ar 4:5`. The post itself names no tool. Image 3 is a prompt card labeled "4:5 | Midjourney"; the car-campaign prompt printed on that card is transcribed in a second block below. The stills show leaping drivers with motion-blur or particle breakup, and a teal-and-silver F1 car on a dusk circuit.
+**Why I care:** A tight sports-campaign look — full-body celebration poses on a pale field with neon particle trails, plus a complete Midjourney F1-car recipe on the card.
+**Notes:** Midjourney is attributed only from the image-3 card ("4:5 | Midjourney"), not from the post text. The card transcription was checked against the image; the printed parameters are `--chaos 15`, `--ar 4:5`, `--sref 2405248426 12133245 3433999548 3520654377 96937294 1444598803`, `--sw 300`, `--stylize 500`, `--hd`, and `--v 8.2`, recorded as they appear on the card, not independently verified. That `--sref` stack is the same set of codes as the [CR7 poster prompt](#cr7-poster-prompt), which prints `--stylize 300` rather than 500. No license or external URL is stated. The post is shown with an AI Threads topic tag. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+A cinematic sports portrait of an F1 driver in a racing suit and helmet, mid-stride celebration. Moody minimal background, high-contrast studio lighting with vibrant neon particle dispersion trailing behind in blue, purple, and orange gradient. High-speed motion blur, 8K, photorealistic --ar 4:5
+```
+
+</details>
+
+<details>
+<summary>Prompt transcribed from image 3</summary>
+
+```
+A MERCEDES-AMG PETRONAS F1 CAR IN TEAL AND SILVER LIVERY WITH BLACK CARBON FIBRE AND PETRONAS TEAL ACCENTS, FRONT WING AND NOSE CONE WITH GLOWING LED LIGHT STRIPS, FOLLOWING A GENTLE SWEEPING BEND ON A HIGH-TECH FUTURE CITY STREET CIRCUIT OF KUALA LUMPUR, PETRONAS TWIN TOWERS KLCC IN THE BACKGROUND, DRIVER NATURALLY SEATED IN THE COCKPIT WEARING THE REFERENCED BLACK HELMET WITH AN ORANGE VISOR AND A BLACK RACING SUIT, HALO AND COCKPIT STRUCTURE CLEARLY VISIBLE, REALISTIC F1 CAR PROPORTIONS, A CONTINUOUS WARM SIDE-BACK HIGHLIGHT TRACING THE ENGINE COVER AND SIDEPOD, READABLE HYBRID POWER UNIT AND SUSPENSION DETAIL IN THE SHADOWS, THIN TYRE SPRAY AND RUBBER DUST TRAILING BEHIND, LAYERED DISTANT MOUNTAINS AND ATMOSPHERIC DEPTH, SUBJECT SHARP WITH RESTRAINED BACKGROUND MOTION BLUR, 100MM TELEPHOTO LENS, COMPOSED POWERFUL MOTORSPORT CAMPAIGN PHOTOGRAPHY --CHAOS 15 --AR 4:5 --SREF 2405248426 12133245 3433999548 3520654377 96937294 1444598803 --SW 300 --STYLIZE 500 --HD --V 8.2
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/glooomyboy-f1-1.webp" width="155" alt="F1 driver in a dark racing suit and helmet leaping against a pale field, with orange-to-purple motion streaks trailing behind">
+  <img src="assets/image-generation/glooomyboy-f1-2.webp" width="155" alt="F1 driver in a light PETRONAS suit and helmet, arm raised, dissolving into a spray of blue-to-orange particles on a pale gradient, with a small F1 mark at the bottom">
+  <img src="assets/image-generation/glooomyboy-f1-3.webp" width="155" alt="Prompt card over a teal-and-silver F1 car on a sweeping bend at dusk, with a PROMPT label, a block of white prompt text, and 4:5 Midjourney">
+  <img src="assets/image-generation/glooomyboy-f1-4.webp" width="155" alt="Teal-and-silver F1 car on a sweeping bend at dusk, nose lights glowing, mountains in the haze, without the prompt overlay">
+  <img src="assets/image-generation/glooomyboy-f1-5.webp" width="155" alt="F1 driver in a dark suit and helmet leaping with a fist raised, trailing horizontal neon streaks in blue, purple, and orange on a pale field">
+</p>
+
+<sub>First 5 of 10 images from [@glooomyboy's post](https://www.threads.com/@glooomyboy/post/Df43ygDiBT3).</sub>
+
 ### [Grainy stencil Risograph doodle sref](https://www.threads.com/@punkgod/post/Df4OiGEGwid)
 `status: watching` · `tags: sref, midjourney, illustration, risograph, stencil, doodle` · added 2026-11
 
@@ -35,6 +70,36 @@ A style-reference post by punkgod (@punkgod). The post text is the style guidanc
 </p>
 
 <sub>First 5 of 10 images from [@punkgod's post](https://www.threads.com/@punkgod/post/Df4OiGEGwid).</sub>
+
+### [Photo + crayon/pastel split illustration prompt](https://www.threads.com/@lch1776244/post/Df4BA96m7cs)
+`status: watching` · `tags: prompt, photo-to-illustration, split, crayon, pastel, screenprint, interior` · added 2026-11
+
+An image-to-image prompt by Chloe_Lai (@lch1776244). The post text is "這個提示詞真的很棒！". The [continuation](https://www.threads.com/@lch1776244/post/Df4BBn5G5ij) gives the full prompt (Simplified Chinese, recorded verbatim below). It splits the canvas in half: the original photo keeps its photographic look on the top half (cropped naturally in landscape); the same scene becomes a centered horizontal illustration on an ivory handmade-paper ground below, in a retro crayon, pastel, and screen-print manner, with two small left-aligned English serif lines at the foot of the illustration.
+**Why I care:** A compact photo-plus-illustration recipe for interiors — the photograph stays in the frame, and the lower half restyles the same room as a quiet, low-saturation print. Related to her earlier [retro type poster prompt (詩意復古海報)](#retro-type-poster-prompt-詩意復古海報), which also starts from a photo but outputs a typographic poster rather than a split photo-and-illustration.
+**Notes:** Needs an uploaded photo. No model, tool, sref, license, or external URL is stated. No separate Threads AI-content label was visible on the post. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+上下对半均分，上半保留原图摄影质感、横向自然裁切;下半象牙白手工纸底色，原图场景转居中横向插画，插画主体占下半宽60%，四周大量留白。
+造型:剔除杂背景、光影、次要细节，只留标志性主体;拙感几何色块+细手绘线，轮廓微歪、断续错位，不拘泥透视和精细结构。
+色彩:取原图4-6色，低饱和柔和平涂，无渐变、立体感与重阴影。
+质感:蜡笔+粉彩+丝网印旧书插图质感，纸底透白、细颗粒、上色不均、边缘磨损、轻微套色偏移，温暖朴素，复古杂志插画感。
+文字:插画底部左对齐两行小号复古衬线英文，生成不稳则留白，不出乱码。
+保留核心物体，移除界面、字幕、截图元素;禁止写实、水彩、动漫、矢量、油画、厚涂、3D、logo、水印、黑边。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/chloe-crayon-split-1.webp" width="155" alt="Photo of a green living room with a curved sofa, arched windows, and a floral painting, above a crayon-style illustration of the same scene captioned The room, a quieter kind of freedom.">
+  <img src="assets/image-generation/chloe-crayon-split-2.webp" width="155" alt="Photo of a cream living room with a curved sofa, round rug, and a disc-shaped pendant light, above a crayon-style illustration captioned Home is a feeling, not just a place.">
+  <img src="assets/image-generation/chloe-crayon-split-3.webp" width="155" alt="Photo of a green dining room with a stone table, round-back chairs, and open shelves, above a crayon-style illustration captioned Home is a quiet place where everyday feels a little softer.">
+  <img src="assets/image-generation/chloe-crayon-split-4.webp" width="155" alt="Photo of a living room with a brown sofa, red rocking chair, blue-striped rug, and wood wall, above a crayon-style illustration captioned Better Homes Slower Days">
+</p>
+
+<sub>All 4 images from [@lch1776244's post](https://www.threads.com/@lch1776244/post/Df4BA96m7cs).</sub>
 
 ### [Verdantism sref](https://www.threads.com/@olga.volosin/post/Dfuwyf1CJiw)
 `status: watching` · `tags: sref, midjourney, fashion, editorial, landscape, illustration` · added 2026-11
