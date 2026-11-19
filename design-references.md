@@ -6,6 +6,23 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [AI Shooting](https://www.threads.com/@niina217p/post/Df6HVPFjw1J)
+`status: watching` · `tags: photography, fashion, editorial, floral` · added 2026-11
+
+An AI fashion editorial photo series by Niina (@niina217p). The post text is "AI Shooting". Models sit in grass garden sets wearing oversized floral or knit garments with puffed sleeves, paired with foxgloves, cotton-puff trees, mushrooms, and other planted props.
+**Why I care:** A consistent garden-studio editorial — oversized patterned knits and ruffled florals posed like still lifes in the grass, with a slightly surreal outdoor set.
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post, and no readable prompt text is visible in the images. No license or external URL is stated. No author continuations. First 5 of 10 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/niina-ai-shooting-1.webp" width="155" alt="Short-haired model seated on grass in a periwinkle knit cardigan with white-bird motifs and huge puffed sleeves, a pale green floral skirt, mint socks, and brown loafers, beside pink irises and two cotton-puff trees">
+  <img src="assets/design-references/niina-ai-shooting-2.webp" width="155" alt="Overhead view of a buzz-cut model lying in grass in a periwinkle floral jacket with huge sleeves, a yellow dotted skirt, and a wide green floral overskirt, among white and pink flowers">
+  <img src="assets/design-references/niina-ai-shooting-3.webp" width="155" alt="Model with cropped wavy hair seated on a grassy mound against a blue ground, in a pale yellow fuzzy argyle cardigan, white collar, and a green floral skirt with a cream argyle fringe at the hem, beside red mushrooms and heather">
+  <img src="assets/design-references/niina-ai-shooting-4.webp" width="155" alt="Model seated on a lawn in a cream floral gown with huge puffed sleeves and a ruffled hem spread across the grass, with yellow, pink, and red foxgloves or lupines behind">
+  <img src="assets/design-references/niina-ai-shooting-5.webp" width="155" alt="Overhead view of a short-haired model in grass, in a blue cloudy floral dress with yellow puffed sleeves, a navy-and-white diamond panel, pink and green patches, and a ruffled cream hem, beside magenta foxgloves">
+</p>
+
+<sub>First 5 of 10 images from [@niina217p's post](https://www.threads.com/@niina217p/post/Df6HVPFjw1J).</sub>
+
 ### [Closer to the moon](https://www.threads.com/@viktori.s.art/post/Df55SegkevD)
 `status: watching` · `tags: illustration, fantasy, children, water, atmosphere, color` · added 2026-11
 
@@ -36,6 +53,40 @@ AI fashion illustrations by Hesso | AI Creator (@elendostudio). The post text is
 </p>
 
 <sub>All 4 images from [@elendostudio's post](https://www.threads.com/@elendostudio/post/Df5IFjviluW).</sub>
+
+### [Happy Dragon Day](https://www.threads.com/@mo_iai_/post/Df42NoGDNHH)
+`status: watching` · `tags: fashion, editorial, fantasy, photography, character-design` · added 2026-11
+
+AI dragon-and-character fashion imagery by mo_iai_ (@mo_iai_). The post text is "Happy Dragon Day". Pale-haired figures in long coats or gowns stand on pale stone architecture with oversized dragons — red, cream, gold, dark, or blue-grey — and trailing red fabric.
+**Why I care:** A strong, repeatable fashion-editorial silhouette: one figure, one dragon, pale stone and open sky, with a tight cream / red / black palette.
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post, and no readable prompt text is visible in the first 5 images. The author's bio mentions Adobe Firefly Ambassador and ElevenLabs Ambassador; that is bio context only and is not a claim about how these images were made. No license or external URL is stated. No author continuations. First 5 of 16 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/moiai-dragon-day-1.webp" width="155" alt="White-haired figure in a black coat and trailing red cape standing on a pale stone pylon, with a huge red dragon coiled above against a blue sky">
+  <img src="assets/design-references/moiai-dragon-day-2.webp" width="155" alt="Pale-haired figure with an eyepatch, a long black coat, and a spreading red cape standing in front of a massive cream dragon">
+  <img src="assets/design-references/moiai-dragon-day-3.webp" width="155" alt="White-haired figure in a cream gown and red-lined cape on pale stone stairs, a hand on the head of a golden horned dragon">
+  <img src="assets/design-references/moiai-dragon-day-4.webp" width="155" alt="White-haired figure in a white gown with a long burgundy train standing at the top of a pale stone pyramid, beside a dark red dragon">
+  <img src="assets/design-references/moiai-dragon-day-5.webp" width="155" alt="Pale-haired figure in a puffed cream gown with a trailing red sash, standing before a blue-grey dragon and a large pale moon">
+</p>
+
+<sub>First 5 of 16 images from [@mo_iai_'s post](https://www.threads.com/@mo_iai_/post/Df42NoGDNHH).</sub>
+
+### [Keep experiments with AI](https://www.threads.com/@helena.davlet/post/Df4zJVpgGay)
+`status: watching` · `tags: botanical, floral, photography, still-life, texture` · added 2026-11
+
+AI botanical flower macros by Helena (@helena.davlet). The post text is "Keep experiments with AI." Extreme close-ups of fringed, speckled, and translucent blooms on dark grounds, each watermarked "HELENA.DAVLET AI CREATED".
+**Why I care:** Tight, almost tactile flower studies — ruffled petal edges, glittery stamens, and coral-like forms that sit somewhere between a botanical close-up and a still-life object.
+**Notes:** Threads labels the post as AI content and tags it "AI Art". No prompt, sref, model, or tool is named in the post. No license or external URL is stated. No author continuations. All 5 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/helena-flower-macros-1.webp" width="155" alt="Close-up of pale peach trumpet flowers with fringed edges, red speckles, and curling stamens on a dark ground, watermarked HELENA.DAVLET AI CREATED">
+  <img src="assets/design-references/helena-flower-macros-2.webp" width="155" alt="Close-up of a white-and-pink bottlebrush-like bloom with radiating stamens beside a white anemone-like flower and fuzzy white petals, watermarked HELENA.DAVLET AI CREATED">
+  <img src="assets/design-references/helena-flower-macros-3.webp" width="155" alt="Close-up of fan-shaped pale pink flowers with translucent ribs, lilac-tipped stamens, and tight clusters of curled buds on a green ground, watermarked HELENA.DAVLET AI CREATED">
+  <img src="assets/design-references/helena-flower-macros-4.webp" width="155" alt="Close-up of a pale pink orchid-like flower among bubble-textured pale clusters and translucent, water-beaded blooms, watermarked HELENA.DAVLET AI CREATED">
+  <img src="assets/design-references/helena-flower-macros-5.webp" width="155" alt="Close-up of a fuzzy green stem, white petals with rust speckles, and a burst of curled cream stamens, watermarked HELENA.DAVLET AI CREATED">
+</p>
+
+<sub>All 5 images from [@helena.davlet's post](https://www.threads.com/@helena.davlet/post/Df4zJVpgGay).</sub>
 
 ### [Taehyoung Jeon's fantasy botanicals](https://www.threads.com/@icantaffordthisbutmaybeshecan/post/Df4L3pIkUqb)
 `status: watching` · `tags: illustration, botanical, herbarium, print` · added 2026-11

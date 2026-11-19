@@ -6,6 +6,62 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Spiral staircase vector storybook prompt](https://www.threads.com/@stanislava_ai_mode/post/Df6asDPDCEV)
+`status: watching` · `tags: prompt, illustration, vector, architecture, staircase, storybook` · added 2026-11
+
+An image-generation prompt by Stanislava (@stanislava_ai_mode). The post text is the prompt itself, recorded verbatim below: a vector illustration of a lone robed figure climbing a spiral stone staircase inside a tower, with flat warm torchlight against cool stone greys, geometric simplified architecture, bold clean shapes, and a minimalist storybook illustration style. The stills show the same climber from different angles — a red robe on a swirling stair, a top-down spiral, a silhouette against an orange arch, and a figure under a circular skylight with red walls.
+**Why I care:** A compact storybook recipe — one robed climber, one spiral stair, and a tight warm-torch / cool-stone palette that holds up across viewpoints.
+**Notes:** Threads labels the post as AI content and tags it "AI Art". The prompt is the post text, recorded verbatim. No model, tool, sref, license, or external URL is stated. No author continuations. All 4 source images shown. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+Vector illustration of a lone robed figure climbing a spiral stone staircase inside a tower, flat warm torchlight tones against cool stone greys, geometric simplified architecture, bold clean shapes, minimalist storybook illustration style.
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/stanislava-spiral-staircase-1.webp" width="155" alt="Vector storybook illustration of a red-robed figure holding a torch on a swirling stone staircase, with warm orange light against cool grey architecture">
+  <img src="assets/image-generation/stanislava-spiral-staircase-2.webp" width="155" alt="Top-down vector illustration of a red-cloaked figure walking a spiral stone stair inside a tower, lit by two wall torches">
+  <img src="assets/image-generation/stanislava-spiral-staircase-3.webp" width="155" alt="Silhouette of a robed figure with a torch on a grey spiral stair, framed by a warm orange arched opening in dark geometric stone">
+  <img src="assets/image-generation/stanislava-spiral-staircase-4.webp" width="155" alt="Silhouette of a robed figure with a staff and torch on stairs, looking up at a circular skylight, with red-orange curved walls">
+</p>
+
+<sub>All 4 images from [@stanislava_ai_mode's post](https://www.threads.com/@stanislava_ai_mode/post/Df6asDPDCEV).</sub>
+
+### [Photo-to-magazine poster prompt (一天一個提示詞 × 画外有光)](https://www.threads.com/@ellain_tech/post/Df55JHAmvNF)
+`status: watching` · `tags: prompt, photo-to-poster, split, typography, editorial` · added 2026-11
+
+A photo-to-poster prompt by ellain_tech (@ellain_tech). The post text is "一天一個提示詞 × 画外有光". The [continuation](https://www.threads.com/@ellain_tech/post/Df55J0cGoCp) gives the full prompt (Traditional Chinese, recorded verbatim below). It asks for a 3:4 vertical poster split evenly in half: the original photograph keeps its subject, pose, texture, and color on top (with only light tonal adjustment); the lower half restages the same subject so it breaks out of a narrow, low-saturation geometric color block on an ivory or very light-grey ground, with short English titles and a little fine typography in an art-magazine layout.
+**Why I care:** A clean magazine-poster recipe that keeps the source photograph in the frame and lets the subject step through a simple geometric window, with short English titles and a lot of ivory space.
+**Notes:** Needs an uploaded photo. No model, tool, sref, license, or external URL is stated. Threads labels the post as AI content. The examples are each a before-and-after poster (photo on top, designed poster below). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+請將我上傳的每張照片，分別製作成獨立的高級設計海報，不要多圖拼接。
+採用 3:4 直式構圖，上下區域各佔 50%。
+上半部保留原照的主體、姿態、真實質感與色彩氛圍，僅微調攝影色調；必要時自然延伸背景，不改變主體。
+下半部以「真實物象穿越幾何情緒窗口」重新設計：從原照提取主體與敘事關係，搭配一個窄長、低飽和的幾何色塊，讓主體局部伸出、越界或穿過邊框。色塊方向依主體動勢決定。
+使用米白或極淺灰背景、大面積留白，以及若隱若現的線條。配色取自原照，保留真實攝影感，維持單一視覺焦點。
+加入簡短英文標題與少量精緻小字，呈現藝術雜誌般的編排。整體輕盈、乾淨、有自然生命力。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/ellain-magazine-poster-1.webp" width="155" alt="Photo of three ducks on a pond below a yellow bush, above a magazine poster titled STILL / GOLD, FRAMELESS LIGHT / STUDY 01, with the same scene in a slanted rectangular window">
+  <img src="assets/image-generation/ellain-magazine-poster-2.webp" width="155" alt="Photo of a deer drinking from a creek in an alpine meadow, above a magazine poster titled ALPINE / STILLNESS, FRAMELESS LIGHT / STUDY 07, with the deer in a slanted window">
+  <img src="assets/image-generation/ellain-magazine-poster-3.webp" width="155" alt="Photo of a smiling red-haired woman in a striped shirt leaning on a stone wall with blue shutters, above a magazine poster titled EASY / LIGHT, FRAMELESS LIGHT / STUDY 06">
+  <img src="assets/image-generation/ellain-magazine-poster-4.webp" width="155" alt="Photo of a woman in a flowing red dress crossing a paved square, above a magazine poster titled SCARLET MOTION, FRAMELESS LIGHT / STUDY 03, with the figure breaking a vertical blue color block">
+  <img src="assets/image-generation/ellain-magazine-poster-5.webp" width="155" alt="Photo of a smiling woman and a beagle in a field of yellow flowers, above a magazine poster titled SUNLIT COMPANY, FRAMELESS LIGHT / STUDY 04, with the pair in a slanted window">
+</p>
+
+<sub>First 5 of 7 images from [@ellain_tech's post](https://www.threads.com/@ellain_tech/post/Df55JHAmvNF).</sub>
+
 ### [Low-saturation flat cartoon Risograph sref](https://www.threads.com/@punkgod/post/Df54d_ajQPU)
 `status: watching` · `tags: sref, midjourney, illustration, risograph, cartoon, grain` · added 2026-11
 
