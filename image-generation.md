@@ -6,6 +6,38 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Low-saturation flat cartoon Risograph sref](https://www.threads.com/@punkgod/post/Df54d_ajQPU)
+`status: watching` · `tags: sref, midjourney, illustration, risograph, cartoon, grain` · added 2026-11
+
+A style-reference post by punkgod (@punkgod). The post text is the style guidance itself, recorded verbatim below: 噪点平涂版画, 色彩：低饱和彩 / 米白, 风格：Risograph 版画 / 扁平卡通 / 复古颗粒插画, 特性：圆润 / 粗轮廓线 / 噪点肌理, plus the line `risograph textured illustration --sref 2887984680` exactly as written. Images in the set are labeled "By Midjourney" and "tool Midjourney V8.2 alpha". The examples are rounded, thick-outline flat cartoons with a low-saturation, grainy Risograph texture.
+**Why I care:** A softer, more pastel cousin of punkgod's high-contrast stencil look — useful when you want chunky cartoon characters with visible grain and a muted print palette. Related to the same author's [Grainy stencil Risograph doodle sref](#grainy-stencil-risograph-doodle-sref) (`--sref 4125407381`), which uses a red/black/white stencil-doodle language instead.
+**Notes:** The Midjourney / V8.2 alpha wording is recorded as printed on the images, not independently verified. The `risograph textured illustration --sref 2887984680` line is recorded as written in the post. No license or external URL is stated. The post is shown in the AI Threads community. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+噪点平涂版画
+
+色彩：低饱和彩 / 米白
+风格：Risograph 版画 / 扁平卡通 / 复古颗粒插画
+特性：圆润 / 粗轮廓线 / 噪点肌理
+
+risograph textured illustration --sref 2887984680
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-1.webp" width="155" alt="Four-panel grainy flat-cartoon grid labeled ai PUNKGOD and By Midjourney, with a girl in a dinosaur hood, a skull-faced soldier with a rifle, a rounded samurai with gadgets and headphones, and a tattooed PUNKGOD character making a rude gesture; footer reads tool Midjourney V8.2 alpha">
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-2.webp" width="155" alt="Close-up grainy flat-cartoon portrait of a short-haired girl with rosy cheeks, a black tank, and floral tattoos, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-3.webp" width="155" alt="Grainy flat-cartoon samurai in a horned helmet and headphones, holding a phone, with rounded creatures in the background, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-4.webp" width="155" alt="Grainy close-up of a nun with face and neck tattoos, a septum ring, and praying hands, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-5.webp" width="155" alt="Grainy flat-cartoon monkey in a beanie, plaid shirt, and shorts riding a scooter with an orange suitcase, labeled By Midjourney and CREATED by PUNKGOD">
+</p>
+
+<sub>First 5 of 10 images from [@punkgod's post](https://www.threads.com/@punkgod/post/Df54d_ajQPU).</sub>
+
 ### [F1 cinematic sports portrait prompt](https://www.threads.com/@glooomyboy/post/Df43ygDiBT3)
 `status: watching` · `tags: prompt, midjourney, sref, sports, portrait, poster` · added 2026-11
 
@@ -46,7 +78,7 @@ A MERCEDES-AMG PETRONAS F1 CAR IN TEAL AND SILVER LIVERY WITH BLACK CARBON FIBRE
 
 A style-reference post by punkgod (@punkgod). The post text is the style guidance itself, recorded verbatim below: 颗粒孔版涂鸦, 色彩：红 / 黑 / 白, 风格：孔版印刷 / 粗线条手绘 / Risograph 版画, 特性：粗犷 / 色块平涂 / 质朴颗粒感, plus `--sref 4125407381` exactly as written. Images in the set are labeled "By Midjourney" and "tool Midjourney V8.2 alpha". The examples are grainy red-black-white stencil and Risograph-like doodles.
 **Why I care:** A rough, high-contrast stencil-print look with a tight red/black/white palette — useful when you want crude poster doodles with visible grain and flat color blocks.
-**Notes:** The Midjourney / V8.2 alpha wording is recorded as printed on the images, not independently verified. The `--sref 4125407381` string is recorded as written in the post. No license or external URL is stated. The post is shown in the AI Threads community. Not tested.
+**Notes:** The Midjourney / V8.2 alpha wording is recorded as printed on the images, not independently verified. The `--sref 4125407381` string is recorded as written in the post. Same author as the [Low-saturation flat cartoon Risograph sref](#low-saturation-flat-cartoon-risograph-sref) (`--sref 2887984680`), a different code with a lower-saturation, rounded flat-cartoon look. No license or external URL is stated. The post is shown in the AI Threads community. Not tested.
 
 <details>
 <summary>Full prompt</summary>
