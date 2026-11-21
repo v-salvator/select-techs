@@ -6,6 +6,13 @@
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Anatomy](https://github.com/wheresryan22/anatomy)
+`status: watching` · `tags: agent-skill, svg, isometric, webgl, interactive, claude-code` · added 2026-11
+
+An agent skill by Ryan (wheresryan22) that explains a technical idea by inventing a working object and drawing it as a crafted, interactive isometric figure in SVG, with optional WebGL shaders and a beta 3D mode. The README says figures can ship as a standalone HTML page, a lone SVG, or React/Next.js components, and respond to the pointer and the keyboard.
+**Why I care:** A way to turn "this is hard to explain in prose" into a live figure whose moving parts *are* the concept — useful for technical posts and teaching, which is the use the X post calls out.
+**Notes:** Found via [GitHub AI Projects Community 🇯🇵 (@trendtech33566)](https://x.com/trendtech33566/status/2123718149556285612), an unofficial account that introduces overseas AI GitHub repos in Japanese. That post links to this repo, says Anatomy has about 28,000 stars, makes precise interactive SVGs, and works with Claude Code, Codex, and others. About 28.4k GitHub stars as of 2026-11-21 (Asia/Taipei). Install: `npx skills add wheresryan22/anatomy -g` (the CLI asks which agents to set up). In Claude Code: `/anatomy explain how a token bucket rate limiter works, interactive`. In Codex the command is `$anatomy`. The README lists Claude Code, Antigravity, OpenCode, Codex, and MiniMax Code; it needs Node.js 20.10+ (built-in modules only — the README says there is nothing to `npm install` and no API keys) and Chrome or Chromium for the skill's checks. Docs: <https://skills.wheresryan.sh/anatomy>. MIT, © 2026 Ryan. The README marks the 3D mode as beta. Not tested.
+
 ### [Three.js](https://github.com/mrdoob/three.js)
 `status: watching` · `tags: 3d, webgl, javascript, rendering, scenes` · added 2026-11
 
