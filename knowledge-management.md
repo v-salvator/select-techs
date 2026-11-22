@@ -6,6 +6,13 @@ Note-taking, personal knowledge bases, and tools for organizing information.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Fabric](https://github.com/danielmiessler/Fabric)
+`status: watching` · `tags: ai, prompts, patterns, cli` · added 2026-11
+
+An open-source framework by Daniel Miessler for augmenting humans using AI. The README describes it as a way to create, collect, and organize prompts — which it calls Patterns — by real-world task, and to run them from the command line or in other tools. Examples in the README include extracting the interesting parts of YouTube videos and podcasts, summarizing academic papers, explaining code, and turning bad documentation into usable documentation.
+**Why I care:** A single place to keep and run task-specific prompts instead of hunting through one-off chat sessions — closer to a personal pattern library than to another chatbot.
+**Notes:** The GitHub description matches the README's "open-source framework for augmenting humans using AI" line. Origin story: <https://danielmiessler.com/p/fabric-origin-story> (the page loaded when checked). One-line install from the README: `curl -fsSL https://raw.githubusercontent.com/danielmiessler/fabric/main/scripts/installer/install.sh | bash`. The README says `fabric` was created by Daniel Miessler in January 2024; primary contributors listed there also include Jonathan Dunn, Scott Behrens, and Andre Guerra. About 44.7k GitHub stars as of 2026-11-23 (Asia/Taipei). GitHub and the README badge label the project MIT; the repo's `LICENSE` file is MIT text with the copyright line "Copyright (c) 2012-2024 Scott Chacon and others." Not the same project as the [Fabric.js](frontend.md#fabricjs) canvas library in frontend.md. Not tested.
+
 ### [Flexoki](https://github.com/kepano/flexoki)
 `status: watching` · `tags: color-scheme, theme, syntax-highlighting, obsidian` · added 2026-11
 
