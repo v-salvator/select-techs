@@ -6,6 +6,13 @@ Note-taking, personal knowledge bases, and tools for organizing information.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [STORM](https://github.com/stanford-oval/storm)
+`status: watching` · `tags: knowledge-curation, research, llm, citations, co-storm` · added 2026-11
+
+An open-source LLM knowledge-curation system from the Stanford Open Virtual Assistant Lab (Stanford OVAL) that researches a topic and generates a full-length report with citations. The README expands the name as "Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking": a pre-writing stage that collects references and builds an outline through perspective-guided question asking and a simulated conversation with a topic expert, then a writing stage that produces a Wikipedia-like article with citations. Co-STORM, in the same repo, adds a collaborative discourse so a human can observe or steer the discussion.
+**Why I care:** A structured research-to-draft pipeline — multi-perspective search, outline, then a cited long draft — rather than a single chat prompt that dumps a report.
+**Notes:** Shared by [AI郵報 (@aiposthub)](https://www.threads.com/@aiposthub/post/DgE6S7qAasK) (no stills; the post itself has no GitHub URL). Its article <https://www.aiposthub.com/stanford-storm-ai-wikipedia-research-agent/> and the post's link-card image point to stanford-oval/storm; the article title cites 31,000 stars (3.1万) and the card showed 32k. GitHub showed about 31,933 stars as of 2026-11-23 (Asia/Taipei). In the post, @aiposthub cautions that open source does not mean the cloud models and search APIs are free, and that citations do not mean the content is correct — sources still need human checking. The README does require language-model and search API keys (examples use OpenAI and Bing) and says "the system cannot produce publication-ready articles that often require a significant number of edits." Live preview: <https://storm.genie.stanford.edu/>. Install from the README: `pip install knowledge-storm`. Contact people listed in the README: Yijia Shao and Yucheng Jiang. The README's citations are the NAACL 2024 STORM paper (Shao, Jiang, Kanell, Xu, Khattab, and Lam) and the EMNLP 2024 Co-STORM paper (Jiang, Shao, Ma, Semnani, and Lam). MIT (Copyright 2024 Stanford Open Virtual Assistant Lab), confirmed in the repo `LICENSE`. Not tested.
+
 ### [Fabric](https://github.com/danielmiessler/Fabric)
 `status: watching` · `tags: ai, prompts, patterns, cli` · added 2026-11
 
