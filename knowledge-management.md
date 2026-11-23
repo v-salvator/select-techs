@@ -6,6 +6,13 @@ Note-taking, personal knowledge bases, and tools for organizing information.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Langflow](https://github.com/langflow-ai/langflow)
+`status: watching` · `tags: agents, rag, visual-builder, llm, workflows` · added 2026-11
+
+An open-source platform by the Langflow project (GitHub [langflow-ai](https://github.com/langflow-ai)) for building and deploying AI-powered agents and workflows. The README describes a visual authoring canvas plus built-in API and MCP servers, with support for major LLMs, vector databases, and a growing library of AI tools. Highlighted features include an interactive playground for step-by-step testing, multi-agent orchestration with conversation management and retrieval, and the option to deploy a flow as an API, an MCP server, or exported JSON.
+**Why I care:** A visual way to assemble model, prompt, data, and tool steps and test them incrementally, instead of wiring an agent or RAG pipeline only in code.
+**Notes:** Shared by [AI郵報 (@aiposthub)](https://www.threads.com/@aiposthub/post/DgD6bXsAeto) (no stills; the post itself has no GitHub URL). Its article <https://www.aiposthub.com/langflow-156k-stars-visual-ai-agent-rag-builder/> and the post's link-card image point to langflow-ai/langflow. The post says GitHub has over 150,000 stars; the article title cites 156,000 (15.6万); the card showed 157k stars and 10k forks. GitHub showed 156,867 stars (and 10,437 forks) as of 2026-11-23 (Asia/Taipei). In the post, @aiposthub cautions that model APIs, key management, deployment, and answer quality still have to be set up and tested yourself. The README documents self-hosting (`uv pip install langflow -U`, then `uv run langflow run` at http://127.0.0.1:7860), Docker and desktop installs, authentication for official packages, and [deployment guides](https://docs.langflow.org/deployment-overview). Site: <https://www.langflow.org/>. MIT (Copyright 2024 Langflow), confirmed in the repo `LICENSE`. Not tested.
+
 ### [STORM](https://github.com/stanford-oval/storm)
 `status: watching` · `tags: knowledge-curation, research, llm, citations, co-storm` · added 2026-11
 
