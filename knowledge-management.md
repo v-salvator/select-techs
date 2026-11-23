@@ -6,6 +6,13 @@ Note-taking, personal knowledge bases, and tools for organizing information.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)
+`status: watching` · `tags: agent-skill, social-media, research, comments, ads` · added 2026-11
+
+A set of agent skills by ScrapeCreators for social media research: finding outlier posts, mining comments, tearing down competitors, analyzing ad libraries, and related workflows. The README says this is meant to give an agent complete research workflows across TikTok, Instagram, YouTube, Reddit, X/Twitter, LinkedIn, and other public social sources, powered by the ScrapeCreators API.
+**Why I care:** Ready-made research loops (outliers, comments, ads, competitors) instead of wiring scraping and analysis from scratch each time.
+**Notes:** Shared by [牛叔叔 (@ChantoziQ)](https://x.com/ChantoziQ/status/2124513984984555683) (no stills), who is not the repo owner. The post says the skills can find above-average hits on an account, mine comments for what people are asking or complaining about, and break down competitors and their ads, and that they work with Claude Code, Cursor, Codex, and Gemini CLI. The README confirms those workflows (`outlier-post-finder`, `comment-mining`, `competitor-social-research`, `ad-library-teardown`, and others) and lists additional platforms (Facebook, Threads, Bluesky, Pinterest, Rumble, and ad libraries) and additional Agent Skills hosts (GitHub Copilot, Windsurf, VS Code). The post does not mention an API key; the README requires `SCRAPECREATORS_API_KEY` from <https://scrapecreators.com> and says the product extracts public social data only. Install from the README: `npx skills add ScrapeCreators/social-media-research-skills`. Site: <https://scrapecreators.com>. About 7,375 GitHub stars as of 2026-11-24 (Asia/Taipei). MIT (Copyright 2026 ScrapeCreators), confirmed in the repo `LICENSE`. Not tested.
+
 ### [Flexoki](https://github.com/kepano/flexoki)
 `status: watching` · `tags: color-scheme, theme, syntax-highlighting, obsidian` · added 2026-11
 
