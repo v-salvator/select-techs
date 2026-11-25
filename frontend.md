@@ -6,6 +6,13 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [gridlines](https://github.com/pritamux/gridlines)
+`status: watching` · `tags: agent-skill, ui, alignment, layout, padding` · added 2026-11
+
+An agent skill by Pritam Paul (@pritamux) for alignment passes on a UI. The README says it draws vertical guide lines down an interface, finds every item that misses its line, and fixes the padding so sidebars, toolbars, panels, menus and tables share a small set of edges. The X post lists working rules: one icon column and one text line, headers on the icon edge, toolbars on one centre line, and "Fix the container, not one item."
+**Why I care:** A repeatable alignment pass — the README's line is "Draw the lines first, then move the items" — aimed at the optical-alignment nits that are easy to miss by eye.
+**Notes:** Found via [Pritam Paul's X post](https://x.com/pritamux/status/2124157134212673722). A [continuation](https://x.com/pritamux/status/2124157134627909707) calls it free and open source and links this repo. Install: `npx skills add pritamux/gridlines`, or copy `skills/gridlines/` into the agent's skills folder (the README names `~/.claude/skills/gridlines/` for Claude Code). Then `/gridlines line up the settings sidebar`. The README's audit script needs Playwright; the probe can also be pasted into a page console as `window.__gridlines()`. The README credits the rules to Karri Saarinen's redraw of the Linear sidebar and his notes on rhythm, edges and centring, plus the layout chapter of Apple's Human Interface Guidelines. About 126 GitHub stars as of 2026-11-22 (Asia/Taipei). MIT, © 2026 Pritam Paul. Source media was a video only; no stills. Not tested.
+
 ### [CreateX](https://logofx.app/createx)
 `status: watching` · `tags: logo, typography, grid, branding, browser-tool, svg` · added 2026-11
 
