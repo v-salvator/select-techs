@@ -6,6 +6,19 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [蒼焔静威](https://www.threads.com/@sousai_japan/post/Df9Xrw1EZRa)
+`status: watching` · `tags: illustration, ukiyo-e, samurai, armor, japanese` · added 2026-11
+
+A ukiyo-e style illustration by SOU SAI 宗斎 (@sousai_japan). The post text is bilingual English and Japanese, beginning "The flames grow wild. / I only grow quieter." / 「炎が荒ぶるほど、 / 私の心は、澄んでゆく。」 A samurai woman in blue and gold armor stands against a full moon, with pale blue flames along her helmet and robes; a red-bordered seal at the upper right reads 蒼焔静威 宗斎.
+**Why I care:** A tight indigo-and-cream woodblock language — quiet face, wild blue flame, and one full moon — that holds the armor, flame pattern, and title seal in a single poster-like frame.
+**Notes:** No prompt, model, or tool is named in the post, and no license is stated. The author's bio describes the account as "SOU SAI UKIYOE | OSAKA" and mentions an online store with free worldwide shipping; no store URL is given in the post, so none is recorded. No author continuations. All 1 source image shown. Not tested.
+
+<p>
+  <img src="assets/design-references/sousai-souen-seii-1.webp" width="200" alt="Ukiyo-e style samurai woman in blue and gold armor standing before a full moon, pale blue flames along her helmet and robes, with a red-bordered seal reading 蒼焔静威 宗斎">
+</p>
+
+<sub>All 1 images from [@sousai_japan's post](https://www.threads.com/@sousai_japan/post/Df9Xrw1EZRa).</sub>
+
 ### [AI Shooting](https://www.threads.com/@niina217p/post/Df6HVPFjw1J)
 `status: watching` · `tags: photography, fashion, editorial, floral` · added 2026-11
 
