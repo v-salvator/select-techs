@@ -189,6 +189,186 @@ An image-to-image prompt by Chloe_Lai (@lch1776244). The post text is "這個提
 
 <sub>All 4 images from [@lch1776244's post](https://www.threads.com/@lch1776244/post/Df4BA96m7cs).</sub>
 
+### [RED SPIDER prompt](https://www.threads.com/@herudhihely/post/DfzahXAmDx2)
+`status: watching` · `tags: prompt, sref, seedream, portrait, fashion` · added 2026-11
+
+A portrait prompt by Herudhi Hermansyah Ely (@herudhihely). The post text is "New drop pt5: RED SPIDER ♥️" and "Single sref, full set. Prompt inside →", and it tags #AISeedream. The first carousel graphic is labeled "SEEDREAM PROMPT". The written prompt replaces the man in a first reference image with the face from a second reference, keeps the black kimono-style robe and red spider-lily bouquet from the first reference, and adds small round black-tinted sunglasses. It asks for a 4:5 vertical portrait.
+**Why I care:** A tightly specified face-swap and outfit-lock recipe with a strong black-and-crimson lily palette — useful when you want to reuse a pose and scene while changing only the person.
+**Notes:** Needs two reference images (face from reference 2; outfit, pose, and scene from reference 1). The post describes the set as a "Single sref" and tags #AISeedream; those claims are recorded as stated by the post, not independently verified. The full prompt is printed in the fifth carousel image. No author continuations, license, or other model or tool name is stated. No separate Threads AI-content label was visible; the post is shown in the AI Threads community. The saved copy of carousel image 3 was identical to image 2, so the examples below are the four unique stills from the first five of the 10-image post. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+Replace the man in reference image 1 with the man from reference image 2. Keep the face identity, facial structure, skin tone, black wavy hair with natural receding hairline, and subtle stubble of the man in reference image 2 exactly, adapted naturally to the pose in reference image 1: standing frontal, head slightly lifted, calm and distant gaze toward the camera, lips closed with a neutral serene expression.
+
+Add a pair of small round black-tinted sunglasses in a Japanese-style (retro Harajuku / Tokyo street fashion) look: thin black metal frame, small circular dark lenses, sitting lightly on the bridge of his nose. The lenses are dark enough to look stylish but still hint at the eyes behind them. Do not add them to the original reference outfit in any other way.
+
+Keep the outfit from reference image 1 unchanged: a loose, flowing black kimono-style robe with wide sleeves and subtle tonal embroidery on the shoulders and sleeves, open V-neckline, fabric falling in soft heavy folds down to the ground. Do not use the leather jacket, white tee, jeans, sneakers, or watch from reference image 2.
+
+He holds a small bouquet of red spider lilies (lycoris) with long green stems against his chest with both hands, in the same hand position as reference image 1.
+
+Keep everything else identical to reference image 1: the composition, camera distance, and subject placement in the center of the frame; the field of red spider lilies with wet dark ground and green stems; the dark, dense forest background; the large out-of-focus red spider lilies with long curling stamens framing the foreground, top, and sides; the same shallow depth of field and bokeh.
+
+Lighting, mood, and color grading identical to reference image 1: soft, diffused, overcast light, moody and cinematic, deep blacks, saturated crimson reds against dark teal-green shadows, slightly desaturated skin tones, the same contrast curve and tonal gradation. Photorealistic, high detail, fine skin texture, fabric texture, and natural film-like grain.
+
+Aspect ratio 4:5, vertical portrait.
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/herudhi-red-spider-1.webp" width="155" alt="Graphic of a man in a black robe and round sunglasses holding a red spider-lily bouquet in a field of red lilies, with SEEDREAM PROMPT type at the bottom">
+  <img src="assets/image-generation/herudhi-red-spider-2.webp" width="155" alt="Full-length portrait of a man in a black robe and round sunglasses standing in a field of red spider lilies, holding a bouquet, with out-of-focus lilies in the foreground">
+  <img src="assets/image-generation/herudhi-red-spider-3.webp" width="155" alt="Closer portrait of the man looking down toward a red spider-lily bouquet, wearing round sunglasses, surrounded by lilies">
+  <img src="assets/image-generation/herudhi-red-spider-4.webp" width="155" alt="Side-angle portrait of the man among red spider lilies, with the full English generation prompt overlaid in small white type">
+</p>
+
+<sub>4 unique stills from the first 5 of 10 images from [@herudhihely's post](https://www.threads.com/@herudhihely/post/DfzahXAmDx2).</sub>
+
+### [Korean fashion prompt set](https://www.threads.com/@ngkhanhvukhoa/post/DfzOHHSCQEV)
+`status: watching` · `tags: prompt, fashion, editorial, portrait, film` · added 2026-11
+
+A set of Korean-fashion photograph prompts shared by Nguyễn Khánh Vũ Khoa (@ngkhanhvukhoa). The post text is "Bộ prompt hàn quốc này ngon à…". The post is tagged "Prompt ChatGPT". Three prompts are printed on continuation media ([part 1](https://www.threads.com/@ngkhanhvukhoa/post/DfzPAxSmIEX), [part 2](https://www.threads.com/@ngkhanhvukhoa/post/DfzPDMrmKYy), [part 3](https://www.threads.com/@ngkhanhvukhoa/post/DfzPFIkGMZK)); they describe high-end vertical fashion photographs "shot on medium-format film" with Kodak Portra 400, in scenes such as painted Korean palace eaves, rows of Jeju dolharubang stone statues, and a climbing kiln.
+**Why I care:** A tight editorial-fashion recipe that locks palette, lens, and film stock, and stages one subject against a single monumental Korean prop or setting.
+**Notes:** The "Prompt ChatGPT" tag and the Kodak Portra 400 film-stock wording are recorded as stated in the post and prompt text, not independently verified. No other model or software tool is named in the prompt text. An "AI content" label is visible on a continuation post. No license or external URL is stated. Not tested.
+
+<details>
+<summary>Full prompt — palace eaves</summary>
+
+```
+High-end fashion photograph shot on medium-format film, vertical, extreme low angle looking straight up. Pure seamless black void. The model and the structure are lit bright, crisp and luminous with rich true colour. Hero prop: a colossal cluster of Korean palace eave brackets painted in dancheong – interlocking wooden beams and bracket arms painted malachite green, cinnabar red, lapis blue and white with lotus and cloud patterns – rising and converging toward the top of the frame like the underside of a giant palace roof. Casting: (men in photo attached), narrow monolid eyes, real skin texture with visible pores, sleek black hair pulled into a high bun. Pose: sitting on the protruding end of a painted beam high in the frame, one leg dangling over the edge toward the camera, the other bent, one hand gripping the beam. Expression: cool, non-smiling, looking straight down into the lens. Outfit: a malachite-green silk danggui ceremonial jacket with gold-leaf stamped hem worn over a black ribbed tank, black leather cargo trousers, pointed black leather boots seen from below. Small prop: a single cinnabar-red silk tassel hanging from her wrist. Foreground: a blurred painted beam crossing the lower corner right at the lens. Palette locked to malachite green, cinnabar red, lapis blue, white and black. Lighting: hard top light from above her, soft fill from below lighting the painted undersides, blacks crushed. Lens: 20mm ultra-wide at f/8. Kodak Portra 400, fine grain, matte finish, photorealistic. Pure photograph only: no text, letters, logos or graphics anywhere in the image.
+```
+
+</details>
+
+<details>
+<summary>Full prompt — dolharubang statues</summary>
+
+```
+High-end fashion photograph shot on medium-format film, vertical medium-long shot with a long telephoto lens from far away, compressing the space. A dense crowd of dozens of Jeju dolharubang stone grandfather statues, carved from porous black volcanic basalt, packed in rows one behind another all the way to the top of the frame, each with bulging round eyes, a broad nose, a tight-lipped mouth, a flat cap-like hat and both hands resting on its belly. She stands among them in the middle row, the only soft figure, mirroring their pose: both hands resting on her stomach, shoulders square, chin up. Casting: (men in photo attached) with visible pores. Expression: a wide-eyed unblinking stare straight into the lens, echoing the statues. Outfit: a charcoal bouclé wool coat with a texture like the porous stone, a bright cobalt-blue satin headscarf tied under his chin. Colour: charcoal basalt and black; the cobalt headscarf is the only colour. Lighting: soft, even frontal light, porous stone texture crisp. Lens: 200mm at f/8. Kodak Portra 400, fine grain, matte finish, photorealistic. Pure photograph only: no text, letters, logos or graphics anywhere in the image.
+```
+
+</details>
+
+<details>
+<summary>Full prompt — climbing kiln</summary>
+
+```
+High-end fashion photograph shot on medium-format film, vertical medium shot from a low crouching height. Pure seamless black void. The arched brick mouth of a traditional Korean climbing kiln fills the frame, rough soot-darkened bricks curving overhead, the chamber inside glowing deep orange with embers. He crouches in the arched opening, forearms resting on her knees, the fire glow lighting one side of his face and body, the other side falling into black. Casting: men in photo attached, square jaw, hooded eyes, real skin texture with visible pores and a faint sheen of heat, black hair tied back tightly. Expression: unsmiling, unflinching eyes straight into lens. Outfit: an ash-grey quilted hanbok jumpsuit with sleeves pushed up, grey suede work boots. Colour: soot black, ash grey and ember orange only. Lighting: the kiln's ember glow as the key from inside, a faint soft fill from the front, deep blacks. Lens: 50mm at f/5.6. Kodak Portra 400, fine grain, matte finish, photorealistic. Pure photograph only: no text, letters, logos or graphics anywhere in the image.
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/khoa-korean-fashion-1.webp" width="155" alt="Nine-panel Korean-fashion editorial collage around a centered PROMPT label, including stone statues, a red door, a rope-framed seat, and a painted-eave pose">
+  <img src="assets/image-generation/khoa-korean-fashion-2.webp" width="155" alt="Person in a charcoal textured coat and cobalt-blue headscarf standing among rows of carved dark stone grandfather statues, hands resting on their stomach">
+  <img src="assets/image-generation/khoa-korean-fashion-3.webp" width="155" alt="Person in a black coat and glasses peeking through the gap of a red door studded with gold bosses, wearing a green ring">
+  <img src="assets/image-generation/khoa-korean-fashion-4.webp" width="155" alt="Person in a blue sweater, red skirt, and blue boots seated in a large red-and-blue knotted-rope frame with hanging tassels">
+  <img src="assets/image-generation/khoa-korean-fashion-5.webp" width="155" alt="Person in a green jacket, black cargo trousers, sunglasses, and a red wrist tassel sitting on painted Korean palace eaves against a black sky">
+</p>
+
+<sub>First 5 of 10 images from [@ngkhanhvukhoa's post](https://www.threads.com/@ngkhanhvukhoa/post/DfzOHHSCQEV).</sub>
+
+### [Photo + geometric-illustration split poster prompt](https://www.threads.com/@matthew.relax.photo/post/Dfy5SIiGeJW)
+`status: watching` · `tags: prompt, photo-to-poster, swiss, risograph, typography, geometric, editorial` · added 2026-11
+
+A revised photo-to-poster prompt by matthew_relax_photo (@matthew.relax.photo). The post text is "與相片結合的prompt 這風格很好看". In a [continuation](https://www.threads.com/@matthew.relax.photo/post/Dfy9ttWmQ2c) he writes "不懂用原post那個 出來實在簡約到不行😂", then shares his own modified prompt across [part 1](https://www.threads.com/@matthew.relax.photo/post/Dfy-v1QGcHD), [part 2](https://www.threads.com/@matthew.relax.photo/post/Dfy-v3ZGTpa), and [part 3](https://www.threads.com/@matthew.relax.photo/post/Dfy-v0cGa_x). It asks for a 3:4, 1536 × 2048 poster split in half: the original photo on top, a geometric editorial illustration of the same subject below, with Swiss/editorial grid lines, small `No. 001`-style labels, color chips, and risograph-like print wear.
+**Why I care:** A more pictorial cousin of the abstract-symbol poster recipe — keeps the source photograph in the frame and rebuilds the scene as a geometric illustration instead of compressing it into a mark.
+**Notes:** Needs an uploaded photo. The author presents this as his own AI-modified version of a simpler original post; related to the [abstract visual-identity poster prompt](#abstract-visual-identity-poster-prompt), which uses a similar Swiss / risograph / `No. 001` labeling language but outputs an abstract symbol instead of a photo-plus-illustration split. No model, tool, or license is stated. No separate Threads AI-content label was visible. The examples below are the first 5 stills from the main post only (later continuation images are not included). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+所以自己用AI修改了一下：
+請根據我上傳的原相製作一張獨立的 **3:4 直版海報，1536 × 2048 px**。 畫布在正中央水平分割，上下各 **1536 × 1024 px**。 上半幅是原相，下半幅是由原相重新構成的幾何編輯插畫。
+如果另附風格參考圖，請沿用參考海報下半幅的**主圖比例、圖層密度、製圖網格、邊欄註記與復古印刷質感**。 插畫的主體、姿態、色彩和場景關係一律從本次原相提取。
+**上半幅｜原相**
+直接使用上傳的照片，等比例排入上半幅，保留原有五官、姿態、主體比例、材質、自然光影與色彩氛圍。 優先以輕微裁切保留完整主體和關鍵場景，必要時只延展背景。 全幅只做輕微調色，禁止重繪、拉伸、扭曲或補造主體細節。
+**下半幅｜幾何編輯插畫**
+先從原相辨認三個層次：**主體最有辨識度的姿態、兩至四個關鍵特徵，以及一個與主體有遮擋、接觸或方向關係的景物**。 把這些線索重組成一幅完整的幾何插畫。 人物可保留側臉方向、手勢與衣領轉折。 動物可保留頭部傾斜、視線與前爪。 建築可保留立面的轉角、開窗節奏與仰視透視。 街景可保留行進方向、路面標記與主體投影。
+
+中央插畫約佔下半幅 **50–60% 寬、75–80% 高**，以約 **6–10 個大小不一的幾何色塊**建立主次。 用圓弧、切角、多邊形、狹長切口與紙色留白表現遮擋、轉折和動勢。 保留足以辨認原相的局部細節。 若照片中有物件從前景遮住主體，請把這個重疊關係做成插畫的構圖重心。 避免把整幅縮成一個小型 Logo、單一剪影或兩三個漂浮色塊。
+**版面｜製圖網格與檔案註記**
+在暖灰白紙底上，加入 **2–3 條細橫線、2–3 條細直線、一個不完整的大圓弧**，以及少量虛線與方形定位點。 讓部分線條從留白穿過插畫或沿色塊邊緣延伸，形成可見的構圖骨架。 線條應比主圖細淡，但縮小到手機畫面仍看得出來。
+左上放小型編號如 `No. 001` ，數字可以隨意更改或順序，加上兩三個從原相提取的英文關鍵詞。 左下放三枚採自原相的圓形色樣。 右側可放一組與照片情緒相關的極短註記，右下再放細小索引。 文字用細小等寬字，並維持清楚的邊欄對齊。 省略大標題、假座標與無意義文字。 畫面保留四周留白，中央插畫始終是焦點。
+
+**色彩與印刷** 從原相抽取 **2–3 個主色及一個少量點色**，以暖灰白紙色形成留白與切口。
+將不均勻的油墨顆粒、細擦痕與輕微套印偏移主要放在**下半幅的大色塊內與局部邊緣**，讓印刷磨損清楚可見，同時保留幾何輪廓的可讀性。 整體呈現瑞士編輯排版、幾何拼貼與舊式印刷品的質感。 避免光滑漸層、立體陰影、霓虹色和全畫面均勻覆蓋的雜訊。
+輸出一張完整海報。 檢查上下是否精確各佔一半、上半幅是否使用原相、下半幅縮小觀看時是否仍能辨認原相的主體姿態與場景關係。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/matthew-split-poster-1.webp" width="155" alt="Overhead photo of a cyclist on a street with yellow grid markings and tram tracks, above a geometric yellow-and-black illustration labeled No. 005 cyclist urban grid">
+  <img src="assets/image-generation/matthew-split-poster-2.webp" width="155" alt="Black-and-white photo of two pedestrians walking past a slatted wall, above a geometric illustration labeled No. 010 LOUVRES / PASSAGE">
+  <img src="assets/image-generation/matthew-split-poster-3.webp" width="155" alt="Photo of string players on a stage surrounded by a field of yellow candles, above a geometric illustration of four musicians under a red tent labeled No. 005 STRINGS / CANDLELIGHT">
+  <img src="assets/image-generation/matthew-split-poster-4.webp" width="155" alt="Photo of a brown monogram-patterned building with gold corner caps and a red tram at a street corner, above a geometric illustration labeled No. 001 CENTRAL / TRAM">
+  <img src="assets/image-generation/matthew-split-poster-5.webp" width="155" alt="Photo of skyscrapers framed in a circular opening against blue sky, above a geometric illustration labeled No. 002 CITYSCAPE APERTURE">
+</p>
+
+<sub>First 5 of 10 images from [@matthew.relax.photo's post](https://www.threads.com/@matthew.relax.photo/post/Dfy5SIiGeJW).</sub>
+
+### [Bold flat illustration sref](https://www.threads.com/@punkgod/post/Dfyj6GNm9OQ)
+`status: watching` · `tags: sref, midjourney, illustration, flat, cartoon, print` · added 2026-11
+
+A style-reference prompt by punkgod (@punkgod). The post text is the prompt itself: Chinese guidance for 粗线平涂插画 (bold-line flat illustration) in 明黄 / 黑 / 米白 (bright yellow / black / off-white), plus `--sref 415019216--v 8.2` exactly as written (no space before `--v`). The first carousel graphic is labeled "By Midjourney", "tool Midjourney", and "V8.2 alpha". The examples are thick-line, flat yellow-black-cream cartoons and posters.
+**Why I care:** A compact, high-contrast flat-print look — useful when you want punchy poster-like cartoons with a tight three-color palette.
+**Notes:** The Midjourney / V8.2 alpha labeling and the `--sref 415019216--v 8.2` string are recorded as printed in the post and first graphic, not independently verified. No license or external URL is stated. The post is shown in the AI Threads community; no separate Threads AI-content label was visible. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+粗线平涂插画
+色彩：明黄 / 黑 / 米白
+风格：平涂插画 / 粗线版画 / 简约卡通
+特性：粗犷 / 醒目 / 平面化
+--sref 415019216--v 8.2
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/punkgod-flat-sref-1.webp" width="155" alt="Four-panel cream-and-yellow flat illustration grid labeled ai PUNKGOD and By Midjourney, with a bearded man holding a phone, a horned figure at a computer, a performer with a mic, and a PUNKGOD character making a rude gesture; footer reads tool Midjourney V8.2 alpha">
+  <img src="assets/image-generation/punkgod-flat-sref-2.webp" width="155" alt="Yellow-and-black poster of a short-haired, tattooed PUNKGOD character in a white tank making a rude gesture, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-flat-sref-3.webp" width="155" alt="Flat illustration of a performer in a yellow hooded jacket, white tee, dark pants, and sneakers, arms raised with a mic cable, beside a cassette player on a crate">
+  <img src="assets/image-generation/punkgod-flat-sref-4.webp" width="155" alt="Flat close-up of a bearded man in orange sunglasses and a yellow sweater looking at a yellow phone">
+  <img src="assets/image-generation/punkgod-flat-sref-5.webp" width="155" alt="Flat concert illustration of a blond guitarist at a mic on a stadium stage, with a second guitarist, a drummer, crowd, and yellow lights, labeled By Midjourney">
+</p>
+
+<sub>First 5 of 10 images from [@punkgod's post](https://www.threads.com/@punkgod/post/Dfyj6GNm9OQ).</sub>
+
+### [Abstract visual-identity poster prompt](https://www.threads.com/@lovely_cat_diary/post/Dfyi_o_kqjJ)
+`status: watching` · `tags: prompt, photo-to-poster, swiss, risograph, typography, abstract, identity` · added 2026-11
+
+A prompt shared by LovelyCatdiary (@lovely_cat_diary). The post text is "歐買尬 這指令做圖也太美❤️❤️❤️ 網友分享指令於回覆". It turns an uploaded photo into a vertical design poster of deconstructed, diagrammatic symbols — geometric modules, fine construction lines, negative space, and xerox/risograph texture — rather than a literal depiction of the subject. The prompt asks for a "16:9 直式" poster, as written.
+Also shared by Renee｜默默💗生活 (@reneemorelife) in [this post](https://www.threads.com/@reneemorelife/post/Dfy3l_Bj7_r), with the same prompt. Her post text is "看網友分享AI插畫，也好想幫家裡的貓貓做幾張。 我把網友分享的指令貼留言".
+**Why I care:** A compact photo-to-identity recipe: extract a recognizable symbol, keep typography as small system labels, and build a brand-like color set from the photo. Related to other photo-to-poster prompts here, but aimed at an abstract Swiss/risograph mark instead of a collage or sketch.
+**Notes:** Needs an uploaded photo. Both authors say the prompt was shared by another user (LovelyCatdiary continuation: ["取之於脆／分享於脆😊"](https://www.threads.com/@lovely_cat_diary/post/DfykWAREuem); Renee's caption also attributes it to a "網友"). The original prompt author is not named. Full prompt is split across two author continuations in each thread: LovelyCatdiary [part 1](https://www.threads.com/@lovely_cat_diary/post/DfyjCP7EjaR) and [part 2](https://www.threads.com/@lovely_cat_diary/post/DfykqkTEgMC); Renee [part 1](https://www.threads.com/@reneemorelife/post/Dfy3o1Oj-qG) and [part 2](https://www.threads.com/@reneemorelife/post/Dfy3o3ED6jW). No model, tool, or license is stated. Threads labels both posts as AI content. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+請將我上傳的照片製作成一張獨立的 16:9 直式高階設計海報；整張畫布提煉自主體核心的抽象視覺符號。提取照片核心識別資訊：主體輪廓、結構、姿態、敘事關係，不復刻完整物象，壓縮成可識別的抽象視覺識別（Visual Identity）。運用幾何解構、模組化形態、線條結構、負空間、符號化手法，做成高端品牌識別、實驗設計系統裡的核心符號。抓核心氣質而非細碎細節，保證極簡圖形仍能關聯原圖對象。視覺風格：post-digital graphic design、deconstructed Swiss design、generative symbol system、diagrammatic abstraction。使用幾何模組、細線條、圓弧軌跡、網格、微型符號、編號邏輯、抽象節點搭建系統化符號。追求秩序 × 誤差、精密 × 手工痕跡、數位 × 類比、理性 × 情緒的對沖感，以最少元素塑造強識別度，拒絕繁複。構圖高度克制，主體符號為唯一視覺焦點，置中或微偏移，大面積留白透氣。禁止堆砌多圖示、做成資訊圖表（Infographic），對標藝術機構、建築事務所、實驗廠牌、高端品牌的核心視覺識別。
+
+文字僅作為系統組件，不做主標題；可搭配極小的編號、字母、短句，和符號形成索引關聯，字體精細克制，是檔案、實驗刊物式的標註感。色彩從上圖提取標誌性色調，重構為品牌色彩體系。少量高識別色作為功能編碼，如青綠、藍、洋紅、澄，搭配灰白、暖白底色形成對比；色彩是系統標記而非裝飾，避開雜亂配色、廉價霓虹、流水線商業漸層。材質融合：xerox texture、risograph grain、print registration error、scanner noise、subtle paper texture。增加微弱印刷錯位、顆粒、掃描噪點、邊緣不完美感，賦予數位符號實體印刷質感。最終目標是從照片萃取獨立自洽的視覺基因：克制精簡、帶有文化記憶與系統美學的抽象 Logo。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/lovelycat-symbol-poster-1.webp" width="155" alt="Cream vertical poster of a geometric orange cat built from overlapping circles and construction lines, with small type reading CAT, SMALL COMPANION BIG JOY, and No. 001">
+  <img src="assets/image-generation/lovelycat-symbol-poster-2.webp" width="155" alt="Photograph of a ginger kitten sitting indoors by a window, with a small NOV 11 desk calendar in the foreground">
+  <img src="assets/image-generation/reneemorelife-symbol-poster-1.webp" width="155" alt="Cream vertical poster of an orange-and-white cat wearing a black polka-dot ruff with a pumpkin badge, over construction lines and small type reading No. 014, CAT / FELINE, and H.01">
+  <img src="assets/image-generation/reneemorelife-symbol-poster-2.webp" width="155" alt="Cream vertical poster of an orange-and-white cat with its head in a red bucket, over construction lines and small type reading No. 015, CAT / CURIOUS, and H.02">
+</p>
+
+<sub>All 2 images from [@lovely_cat_diary's post](https://www.threads.com/@lovely_cat_diary/post/Dfyi_o_kqjJ) and all 2 images from [@reneemorelife's post](https://www.threads.com/@reneemorelife/post/Dfy3l_Bj7_r).</sub>
+
 ### [Verdantism sref](https://www.threads.com/@olga.volosin/post/Dfuwyf1CJiw)
 `status: watching` · `tags: sref, midjourney, fashion, editorial, landscape, illustration` · added 2026-11
 
