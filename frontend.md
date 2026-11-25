@@ -6,6 +6,20 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [primitive-first-design](https://github.com/daniellee-ux/primitive-first-design)
+`status: watching` · `tags: agent-skill, product-design, primitives, claude-code, codex` · added 2026-11
+
+An agent skill by Daniel (GitHub [daniellee-ux](https://github.com/daniellee-ux)) for finding a product's core primitives and designing features, tabs, or information architecture from them. The README says it walks a coding agent through six checks and produces a brief with a product model, derived-state rules, and decisions for the user to confirm. The README states that the method draws on Ryo Lu's ideas about product primitives.
+**Why I care:** A way to push an agent back to the product's core objects when features start to sprawl, instead of stacking one-off cases.
+**Notes:** From [Daniel's Threads post (@daniellee.wip)](https://www.threads.com/@daniellee.wip/post/DgDPf8zGX3i) (no stills). In that post he describes Ryo as a former Cursor design lead and a Notion founding designer; that role description is from the post, not independently verified here. His post examples are Notion → Block, Cursor → Agent, and Stripe → Token; `SKILL.md` uses a fuller set (Notion: blocks, pages, databases, and views; Cursor: Agent; Stripe: a token associated with a person) and says those Notion and Cursor examples come from accounts of Lu's approach, with the Stripe example from a talk. Daniel also says in the post that the skill is early and has not been heavily validated. README install is to keep `SKILL.md`, `assets/`, and `references/` together, with symlink examples for Codex (`~/.agents/skills`) and Claude Code (`~/.claude/skills`). The post's GitHub card showed 4 stars; GitHub showed 4 stars as of 2026-11-23 (Asia/Taipei). MIT (Copyright 2026 daniellee-ux), confirmed in the repo `LICENSE`. Not tested.
+
+### [gridlines](https://github.com/pritamux/gridlines)
+`status: watching` · `tags: agent-skill, ui, alignment, layout, padding` · added 2026-11
+
+An agent skill by Pritam Paul (@pritamux) for alignment passes on a UI. The README says it draws vertical guide lines down an interface, finds every item that misses its line, and fixes the padding so sidebars, toolbars, panels, menus and tables share a small set of edges. The X post lists working rules: one icon column and one text line, headers on the icon edge, toolbars on one centre line, and "Fix the container, not one item."
+**Why I care:** A repeatable alignment pass — the README's line is "Draw the lines first, then move the items" — aimed at the optical-alignment nits that are easy to miss by eye.
+**Notes:** Found via [Pritam Paul's X post](https://x.com/pritamux/status/2124157134212673722). A [continuation](https://x.com/pritamux/status/2124157134627909707) calls it free and open source and links this repo. Install: `npx skills add pritamux/gridlines`, or copy `skills/gridlines/` into the agent's skills folder (the README names `~/.claude/skills/gridlines/` for Claude Code). Then `/gridlines line up the settings sidebar`. The README's audit script needs Playwright; the probe can also be pasted into a page console as `window.__gridlines()`. The README credits the rules to Karri Saarinen's redraw of the Linear sidebar and his notes on rhythm, edges and centring, plus the layout chapter of Apple's Human Interface Guidelines. About 126 GitHub stars as of 2026-11-22 (Asia/Taipei). MIT, © 2026 Pritam Paul. Source media was a video only; no stills. Not tested.
+
 ### [CreateX](https://logofx.app/createx)
 `status: watching` · `tags: logo, typography, grid, branding, browser-tool, svg` · added 2026-11
 
