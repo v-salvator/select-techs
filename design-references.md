@@ -23,6 +23,19 @@ A nine-image series of AI-illustrated archer and warrior posters by viktori's ar
 
 <sub>First 5 of 9 images from [@viktori.s.art's post](https://www.threads.com/@viktori.s.art/post/Df2-6xqiBk0).</sub>
 
+### [Cocktails for lesechosweekend](https://www.threads.com/@maite_franchi/post/Dfy9XkgiSDs)
+`status: watching` · `tags: illustration, editorial, still-life, poster, cocktail` · added 2026-11
+
+A cocktail still-life illustration by Maïté Franchi (@maite_franchi). The post text is "Cocktails for lesechosweekend 🥃💅". Two liquor bottles, a coupe with a cherry, and three domino tiles sit on a black-and-white diamond floor, framed in deep red, in a flat graphic editorial style.
+**Why I care:** A tight, poster-like drinks still life — bold geometric bottles, a limited amber palette, and the checkerboard plus dominoes doing a lot of the composition.
+**Notes:** The caption names lesechosweekend. No prompt, model, tool, license, or external URL is stated. No author continuations. No separate Threads AI-content label was visible. Single source image. Not tested.
+
+<p>
+  <img src="assets/design-references/maite-cocktails-1.webp" width="200" alt="Flat editorial illustration of two ornate liquor bottles and a coupe glass with a cherry, with three domino tiles on a black-and-white diamond floor, framed in deep red">
+</p>
+
+<sub>Image from [@maite_franchi's post](https://www.threads.com/@maite_franchi/post/Dfy9XkgiSDs).</sub>
+
 ### [忠犬](https://www.threads.com/@karinto_ai/post/DfwpoT1EeCS)
 `status: watching` · `tags: illustration, character-design, animal, sketch, atmosphere` · added 2026-11
 
