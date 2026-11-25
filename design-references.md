@@ -6,6 +6,13 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [A brand is not a logo](https://www.threads.com/@alvarodiazds_/post/Df-T97BAF0I)
+`status: watching` · `tags: branding, typography, layout, video` · added 2026-11
+
+A brand-identity video by Álvaro Díaz (@alvarodiazds_), a graphic designer. The post text is "Founders: a brand is not a logo. It’s a system that works everywhere." The video shows a 2×2 brand-system layout for a company named Thermora, with on-screen copy such as "Stored all night. Out in a second." and "Thermora turns cheap renewable power into 1,050 °C of stored heat, and delivers it to your factory as steam, day and night. No combustion on site."
+**Why I care:** A compact reminder that a brand has to hold across a set of applications — headline, product line, and supporting copy — not just a mark. Related to the same author's [Morphiq shape-to-pattern motion](#morphiq-shape-to-pattern-motion), a different, motion-pattern video.
+**Notes:** No thumbnail saved (source is video only; no stills). No prompt, model, or tool is named in the post, and no license is stated. Thermora is the name shown in the video; the post does not say whether it is a client project. A continuation links the author's studio, [Alvaro Studio](https://alvarostudio.es/es) ("Identidad de marca y webs para startups tech"), which loaded when checked. Not tested.
+
 ### [蒼焔静威](https://www.threads.com/@sousai_japan/post/Df9Xrw1EZRa)
 `status: watching` · `tags: illustration, ukiyo-e, samurai, armor, japanese` · added 2026-11
 
@@ -520,7 +527,7 @@ A 20-image AI series shared by VESARIÉ (@vesarie.co) of white cliffside village
 
 A video post by Álvaro Díaz (@alvarodiazds_) captioned "Morphiq turns simple shapes into patterns that move."
 **Why I care:** The caption promises a shape-to-pattern motion workflow, which could be useful for generative motion graphics or looping backgrounds.
-**Notes:** Video-only post; footage not reviewed, so no visual details confirmed. No replies, prompt, settings, tool, model, or demo link visible. Morphiq is named only in the caption; its nature (software, technique, or concept) is unclear from the post alone.
+**Notes:** Video-only post; footage not reviewed, so no visual details confirmed. No replies, prompt, settings, tool, model, or demo link visible. Morphiq is named only in the caption; its nature (software, technique, or concept) is unclear from the post alone. Same author as the [A brand is not a logo](#a-brand-is-not-a-logo) brand-system video.
 
 ### [Design Rule No. 11: Negative Space](https://www.threads.com/@346eur/post/DfcTv1UEVNd)
 `status: watching` · `tags: design-education, negative-space, layout, principles, slides` · added 2026-11
