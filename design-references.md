@@ -6,6 +6,172 @@ Design work to look at and learn from: layouts, color, typography, and branding.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [A brand is not a logo](https://www.threads.com/@alvarodiazds_/post/Df-T97BAF0I)
+`status: watching` · `tags: branding, typography, layout, video` · added 2026-11
+
+A brand-identity video by Álvaro Díaz (@alvarodiazds_), a graphic designer. The post text is "Founders: a brand is not a logo. It’s a system that works everywhere." The video shows a 2×2 brand-system layout for a company named Thermora, with on-screen copy such as "Stored all night. Out in a second." and "Thermora turns cheap renewable power into 1,050 °C of stored heat, and delivers it to your factory as steam, day and night. No combustion on site."
+**Why I care:** A compact reminder that a brand has to hold across a set of applications — headline, product line, and supporting copy — not just a mark. Related to the same author's [Morphiq shape-to-pattern motion](#morphiq-shape-to-pattern-motion), a different, motion-pattern video.
+**Notes:** No thumbnail saved (source is video only; no stills). No prompt, model, or tool is named in the post, and no license is stated. Thermora is the name shown in the video; the post does not say whether it is a client project. A continuation links the author's studio, [Alvaro Studio](https://alvarostudio.es/es) ("Identidad de marca y webs para startups tech"), which loaded when checked. Not tested.
+
+### [蒼焔静威](https://www.threads.com/@sousai_japan/post/Df9Xrw1EZRa)
+`status: watching` · `tags: illustration, ukiyo-e, samurai, armor, japanese` · added 2026-11
+
+A ukiyo-e style illustration by SOU SAI 宗斎 (@sousai_japan). The post text is bilingual English and Japanese, beginning "The flames grow wild. / I only grow quieter." / 「炎が荒ぶるほど、 / 私の心は、澄んでゆく。」 A samurai woman in blue and gold armor stands against a full moon, with pale blue flames along her helmet and robes; a red-bordered seal at the upper right reads 蒼焔静威 宗斎.
+**Why I care:** A tight indigo-and-cream woodblock language — quiet face, wild blue flame, and one full moon — that holds the armor, flame pattern, and title seal in a single poster-like frame.
+**Notes:** No prompt, model, or tool is named in the post, and no license is stated. The author's bio describes the account as "SOU SAI UKIYOE | OSAKA" and mentions an online store with free worldwide shipping; no store URL is given in the post, so none is recorded. No author continuations. All 1 source image shown. Not tested.
+
+<p>
+  <img src="assets/design-references/sousai-souen-seii-1.webp" width="200" alt="Ukiyo-e style samurai woman in blue and gold armor standing before a full moon, pale blue flames along her helmet and robes, with a red-bordered seal reading 蒼焔静威 宗斎">
+</p>
+
+<sub>All 1 images from [@sousai_japan's post](https://www.threads.com/@sousai_japan/post/Df9Xrw1EZRa).</sub>
+
+### [AI Shooting](https://www.threads.com/@niina217p/post/Df6HVPFjw1J)
+`status: watching` · `tags: photography, fashion, editorial, floral` · added 2026-11
+
+An AI fashion editorial photo series by Niina (@niina217p). The post text is "AI Shooting". Models sit in grass garden sets wearing oversized floral or knit garments with puffed sleeves, paired with foxgloves, cotton-puff trees, mushrooms, and other planted props.
+**Why I care:** A consistent garden-studio editorial — oversized patterned knits and ruffled florals posed like still lifes in the grass, with a slightly surreal outdoor set.
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post, and no readable prompt text is visible in the images. No license or external URL is stated. No author continuations. First 5 of 10 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/niina-ai-shooting-1.webp" width="155" alt="Short-haired model seated on grass in a periwinkle knit cardigan with white-bird motifs and huge puffed sleeves, a pale green floral skirt, mint socks, and brown loafers, beside pink irises and two cotton-puff trees">
+  <img src="assets/design-references/niina-ai-shooting-2.webp" width="155" alt="Overhead view of a buzz-cut model lying in grass in a periwinkle floral jacket with huge sleeves, a yellow dotted skirt, and a wide green floral overskirt, among white and pink flowers">
+  <img src="assets/design-references/niina-ai-shooting-3.webp" width="155" alt="Model with cropped wavy hair seated on a grassy mound against a blue ground, in a pale yellow fuzzy argyle cardigan, white collar, and a green floral skirt with a cream argyle fringe at the hem, beside red mushrooms and heather">
+  <img src="assets/design-references/niina-ai-shooting-4.webp" width="155" alt="Model seated on a lawn in a cream floral gown with huge puffed sleeves and a ruffled hem spread across the grass, with yellow, pink, and red foxgloves or lupines behind">
+  <img src="assets/design-references/niina-ai-shooting-5.webp" width="155" alt="Overhead view of a short-haired model in grass, in a blue cloudy floral dress with yellow puffed sleeves, a navy-and-white diamond panel, pink and green patches, and a ruffled cream hem, beside magenta foxgloves">
+</p>
+
+<sub>First 5 of 10 images from [@niina217p's post](https://www.threads.com/@niina217p/post/Df6HVPFjw1J).</sub>
+
+### [Closer to the moon](https://www.threads.com/@viktori.s.art/post/Df55SegkevD)
+`status: watching` · `tags: illustration, fantasy, children, water, atmosphere, color` · added 2026-11
+
+A three-image series of AI illustrations by viktori's art (@viktori.s.art). The post text is "Closer to the moon 🌙". Pale-haired children in loose, patterned clothes hang or lean toward a pool of water, a finger just touching the ripples, against teal or blue grounds.
+**Why I care:** A quiet, repeatable gesture — one reaching hand, one ring of ripples — restaged with inverted or leaning poses and a limited teal, cream, and red palette. Related to the same artist's [Balance is controlled power](#balance-is-controlled-power) series, which uses a similar fantasy atmosphere around a different emblem (the scales).
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post itself. No license or external URL is stated. No author continuations. All 3 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/viktori-moon-1.webp" width="155" alt="Pale-haired child in loose teal-and-cream clothes hanging upside down against a dark teal ground, reaching a finger to touch rippling blue water">
+  <img src="assets/design-references/viktori-moon-2.webp" width="155" alt="Pale-haired child in a white blouse leaning down against a blue sky, a drop falling as a finger reaches toward rippling water">
+  <img src="assets/design-references/viktori-moon-3.webp" width="155" alt="Pale-haired child in teal, cream, and red clothing hanging upside down over a circular pool, a finger just touching the water">
+</p>
+
+<sub>All 3 images from [@viktori.s.art's post](https://www.threads.com/@viktori.s.art/post/Df55SegkevD).</sub>
+
+### [Sculptural black-and-pink fashion illustrations](https://www.threads.com/@elendostudio/post/Df5IFjviluW)
+`status: watching` · `tags: illustration, fashion, editorial, character-design` · added 2026-11
+
+AI fashion illustrations by Hesso | AI Creator (@elendostudio). The post text is "🧪⚠️" plus the hashtags #midjourney #ai #prompt #higgsfield #aicreator. The stills show figures in oversized black garments with pearl details, pink underlayers or haze, and a muted pale ground.
+**Why I care:** A strong silhouette-first fashion language — exaggerated hats, coats, and collars, with a tight black/pink palette and a slightly unreal skin tone.
+**Notes:** Threads labels the post as AI content. Midjourney and Higgsfield are named only as hashtags; the post includes #prompt but no prompt text, sref, or other tool name is given in the post or visible in the images. No license or external URL is stated. No author continuations. All 4 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/elendostudio-fashion-1.webp" width="155" alt="Figure in a wide black conical hat, long pearl necklaces, and an oversized black wrap over a pink underlayer, with a small swoosh mark at the hem, on a pale pink-to-white ground">
+  <img src="assets/design-references/elendostudio-fashion-2.webp" width="155" alt="Figure walking in a flared black coat with pink-and-black spots, a pink haze around the hem, and dark sneakers with a small swoosh">
+  <img src="assets/design-references/elendostudio-fashion-3.webp" width="155" alt="Close-up of a pale figure with long black hair and yellow eyes, wearing a black coat whose shoulders are covered in long spikes set with pearls">
+  <img src="assets/design-references/elendostudio-fashion-4.webp" width="155" alt="Pale figure with a buzzed light hairline and pink-lit eyes, in a high black collar with pearl studs and lettering, a pink streak behind the head">
+</p>
+
+<sub>All 4 images from [@elendostudio's post](https://www.threads.com/@elendostudio/post/Df5IFjviluW).</sub>
+
+### [Happy Dragon Day](https://www.threads.com/@mo_iai_/post/Df42NoGDNHH)
+`status: watching` · `tags: fashion, editorial, fantasy, photography, character-design` · added 2026-11
+
+AI dragon-and-character fashion imagery by mo_iai_ (@mo_iai_). The post text is "Happy Dragon Day". Pale-haired figures in long coats or gowns stand on pale stone architecture with oversized dragons — red, cream, gold, dark, or blue-grey — and trailing red fabric.
+**Why I care:** A strong, repeatable fashion-editorial silhouette: one figure, one dragon, pale stone and open sky, with a tight cream / red / black palette.
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post, and no readable prompt text is visible in the first 5 images. The author's bio mentions Adobe Firefly Ambassador and ElevenLabs Ambassador; that is bio context only and is not a claim about how these images were made. No license or external URL is stated. No author continuations. First 5 of 16 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/moiai-dragon-day-1.webp" width="155" alt="White-haired figure in a black coat and trailing red cape standing on a pale stone pylon, with a huge red dragon coiled above against a blue sky">
+  <img src="assets/design-references/moiai-dragon-day-2.webp" width="155" alt="Pale-haired figure with an eyepatch, a long black coat, and a spreading red cape standing in front of a massive cream dragon">
+  <img src="assets/design-references/moiai-dragon-day-3.webp" width="155" alt="White-haired figure in a cream gown and red-lined cape on pale stone stairs, a hand on the head of a golden horned dragon">
+  <img src="assets/design-references/moiai-dragon-day-4.webp" width="155" alt="White-haired figure in a white gown with a long burgundy train standing at the top of a pale stone pyramid, beside a dark red dragon">
+  <img src="assets/design-references/moiai-dragon-day-5.webp" width="155" alt="Pale-haired figure in a puffed cream gown with a trailing red sash, standing before a blue-grey dragon and a large pale moon">
+</p>
+
+<sub>First 5 of 16 images from [@mo_iai_'s post](https://www.threads.com/@mo_iai_/post/Df42NoGDNHH).</sub>
+
+### [Keep experiments with AI](https://www.threads.com/@helena.davlet/post/Df4zJVpgGay)
+`status: watching` · `tags: botanical, floral, photography, still-life, texture` · added 2026-11
+
+AI botanical flower macros by Helena (@helena.davlet). The post text is "Keep experiments with AI." Extreme close-ups of fringed, speckled, and translucent blooms on dark grounds, each watermarked "HELENA.DAVLET AI CREATED".
+**Why I care:** Tight, almost tactile flower studies — ruffled petal edges, glittery stamens, and coral-like forms that sit somewhere between a botanical close-up and a still-life object.
+**Notes:** Threads labels the post as AI content and tags it "AI Art". No prompt, sref, model, or tool is named in the post. No license or external URL is stated. No author continuations. All 5 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/helena-flower-macros-1.webp" width="155" alt="Close-up of pale peach trumpet flowers with fringed edges, red speckles, and curling stamens on a dark ground, watermarked HELENA.DAVLET AI CREATED">
+  <img src="assets/design-references/helena-flower-macros-2.webp" width="155" alt="Close-up of a white-and-pink bottlebrush-like bloom with radiating stamens beside a white anemone-like flower and fuzzy white petals, watermarked HELENA.DAVLET AI CREATED">
+  <img src="assets/design-references/helena-flower-macros-3.webp" width="155" alt="Close-up of fan-shaped pale pink flowers with translucent ribs, lilac-tipped stamens, and tight clusters of curled buds on a green ground, watermarked HELENA.DAVLET AI CREATED">
+  <img src="assets/design-references/helena-flower-macros-4.webp" width="155" alt="Close-up of a pale pink orchid-like flower among bubble-textured pale clusters and translucent, water-beaded blooms, watermarked HELENA.DAVLET AI CREATED">
+  <img src="assets/design-references/helena-flower-macros-5.webp" width="155" alt="Close-up of a fuzzy green stem, white petals with rust speckles, and a burst of curled cream stamens, watermarked HELENA.DAVLET AI CREATED">
+</p>
+
+<sub>All 5 images from [@helena.davlet's post](https://www.threads.com/@helena.davlet/post/Df4zJVpgGay).</sub>
+
+### [Taehyoung Jeon's fantasy botanicals](https://www.threads.com/@icantaffordthisbutmaybeshecan/post/Df4L3pIkUqb)
+`status: watching` · `tags: illustration, botanical, herbarium, print` · added 2026-11
+
+Fantasy botanicals by illustrator Taehyoung (Maria) Jeon, shared by @icantaffordthisbutmaybeshecan. The post text is "Meet Taehyoung Jeon’s fantasy botanicals, a herbarium of plants that have only ever grown in her imagination, dozens of them, every one invented. Hard to pick a favourite even harder to stop at one. A garden that never needs watering, only wall space. Link in images and stories (George)". The stills are invented-plant herbarium illustrations; two slides include on-image text in which she says she makes Giclée prints of digital illustrations inspired by the plants in her apartment.
+**Why I care:** A vivid invented herbarium — bold, flat, almost emblem-like plants with a limited palette and a clear print-ready graphic sense.
+**Notes:** No prompt, sref, model, or tool is named. A slide asks "Hi Taehyoung Maria Jeon, what do you make?" and answers that she is "an artist based in Seoul living with my cat Fuzzy" who creates "Giclée prints of digital illustrations inspired by the plants in my apartment." Another slide says Giclée prints of her Plant series are "the key products on my website," but no artist or shop URL is given in the post or visible slide text, so none is recorded here. The caption mentions "Link in images and stories," but no URL is exposed in the post. No license is stated. No author continuations were visible. Shown here as first 5 of 8 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/taehyoung-botanicals-1.webp" width="155" alt="Cream-ground illustration of a two-headed blue plant with orange outlines, black inner slits, and a coiled orange-striped stem around a teal pot, signed at right">
+  <img src="assets/design-references/taehyoung-botanicals-2.webp" width="155" alt="Interview slide headed Hi Taehyoung Maria Jeon, what do you make?, showing a dotted hand holding scissors beside blue leaf forms, with text about Giclée prints of apartment-plant illustrations">
+  <img src="assets/design-references/taehyoung-botanicals-3.webp" width="155" alt="Cream-ground illustration of stacked pink leaf forms with green dots over a scalloped teal leaf, signed at lower right">
+  <img src="assets/design-references/taehyoung-botanicals-4.webp" width="155" alt="Interview slide headed What's your best seller?, showing a pink two-leaf plant in a patterned green bowl, with text about Giclée prints of the Plant series">
+  <img src="assets/design-references/taehyoung-botanicals-5.webp" width="155" alt="Cream-ground illustration of two spotted pod-like forms, one yellow with black dots and one black with yellow dots, linked by a blue curve and a red stem">
+</p>
+
+<sub>First 5 of 8 images from [@icantaffordthisbutmaybeshecan's post](https://www.threads.com/@icantaffordthisbutmaybeshecan/post/Df4L3pIkUqb).</sub>
+
+### [Women I met in The Backrooms](https://www.threads.com/@hannibalvector/post/Df3ZZYumU2X)
+`status: watching` · `tags: illustration, portrait, cyborg, sketch, character-design` · added 2026-11
+
+An AI illustration series by Taul Waters Universe (@hannibalvector). The post text is "Women I met in The Backrooms 🧍". The five stills are close-up faces of women and cyborg-like figures, with a sketch-like, faceted treatment — geometric planes, cracked mask-like shells, and mechanical plates over pale skin.
+**Why I care:** A tight portrait set that keeps a drawing-in-progress feel even in the more mechanical faces — useful as a reference for hybrid sketch-and-render portraits. Same creator as [Mother Trucker](#mother-trucker) and [mass_TECH after midnight](#mass_tech-after-midnight).
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post. No license or external URL is stated. No author continuations. All 5 source images shown. Not tested.
+
+<p>
+  <img src="assets/design-references/hannibal-backrooms-1.webp" width="155" alt="Close-up of a pale woman with dark hair and red lips, her face and hands breaking into flat, sketched geometric planes, a streak of red at the temple">
+  <img src="assets/design-references/hannibal-backrooms-2.webp" width="155" alt="Close-up of a freckled woman in a hood, chin resting in both hands, rendered in grey sketch-like planes with faceted fingers">
+  <img src="assets/design-references/hannibal-backrooms-3.webp" width="155" alt="Cyborg-like face on a blue ground, pale skin and red lips with white mechanical plates around the ear, jaw, and cheek, and red wires along the neck">
+  <img src="assets/design-references/hannibal-backrooms-4.webp" width="155" alt="Layered, fractured face on a cream ground, dark hair with bangs, overlapping translucent planes and a second mouth lower on the neck">
+  <img src="assets/design-references/hannibal-backrooms-5.webp" width="155" alt="Close-up of a freckled woman resting her cheek on her shoulder, her head enclosed in a cracked, faceted white mask-like shell">
+</p>
+
+<sub>All 5 images from [@hannibalvector's post](https://www.threads.com/@hannibalvector/post/Df3ZZYumU2X).</sub>
+
+### [A weapon is only as dangerous as its intention](https://www.threads.com/@viktori.s.art/post/Df2-6xqiBk0)
+`status: watching` · `tags: illustration, fantasy, character-design, archer, poster, atmosphere` · added 2026-11
+
+A nine-image series of AI-illustrated archer and warrior posters by viktori's art (@viktori.s.art). The post text is "A weapon is only as dangerous as its intention. 🌙". The stills show archers in ornate robes and headdresses drawing bows against large red discs, with red-sun, moon, lotus, peony, sword, and dragon motifs.
+**Why I care:** A tight, poster-like set that restages one archer silhouette across costume and motif changes — useful as a reference for high-contrast red-sun compositions and dense ornamental detail. Related to the same artist's [Balance is controlled power](#balance-is-controlled-power) series, which uses a similar teal-and-orange fantasy palette around a different emblem (the scales).
+**Notes:** Threads labels the post as AI content. No prompt, sref, model, or tool is named in the post itself. The author's bio mentions Midjourney; that is profile context only and is not attributed to this post. No license or external URL is stated. No author continuations. Shown here as first 5 of 9 source images. Not tested.
+
+<p>
+  <img src="assets/design-references/viktori-archer-1.webp" width="155" alt="Dark-haired archer in a radiating ornate headdress and white-and-red robe drawing a longbow before a red sun, with a teal dragon in clouds at lower left">
+  <img src="assets/design-references/viktori-archer-2.webp" width="155" alt="Pale-haired braided archer drawing a bow before a large red disc, with pink lotuses at the hem, a sword at the hip, and a yin-yang in the dark smoke above">
+  <img src="assets/design-references/viktori-archer-3.webp" width="155" alt="Dark-haired archer with peonies in an elaborate hair ornament, drawing a bow across the face before a red sun, in a white robe with red patterning">
+  <img src="assets/design-references/viktori-archer-4.webp" width="155" alt="Close-up of an archer drawing a bow, with a gold disc earring and a green dragon painted on the robe, a red sun behind">
+  <img src="assets/design-references/viktori-archer-5.webp" width="155" alt="Archer wearing a white dragon headdress and drawing a bow before a red sun, with a tattooed chest, red sash, and vertical red typography at the upper right">
+</p>
+
+<sub>First 5 of 9 images from [@viktori.s.art's post](https://www.threads.com/@viktori.s.art/post/Df2-6xqiBk0).</sub>
+
+### [Cocktails for lesechosweekend](https://www.threads.com/@maite_franchi/post/Dfy9XkgiSDs)
+`status: watching` · `tags: illustration, editorial, still-life, poster, cocktail` · added 2026-11
+
+A cocktail still-life illustration by Maïté Franchi (@maite_franchi). The post text is "Cocktails for lesechosweekend 🥃💅". Two liquor bottles, a coupe with a cherry, and three domino tiles sit on a black-and-white diamond floor, framed in deep red, in a flat graphic editorial style.
+**Why I care:** A tight, poster-like drinks still life — bold geometric bottles, a limited amber palette, and the checkerboard plus dominoes doing a lot of the composition.
+**Notes:** The caption names lesechosweekend. No prompt, model, tool, license, or external URL is stated. No author continuations. No separate Threads AI-content label was visible. Single source image. Not tested.
+
+<p>
+  <img src="assets/design-references/maite-cocktails-1.webp" width="200" alt="Flat editorial illustration of two ornate liquor bottles and a coupe glass with a cherry, with three domino tiles on a black-and-white diamond floor, framed in deep red">
+</p>
+
+<sub>Image from [@maite_franchi's post](https://www.threads.com/@maite_franchi/post/Dfy9XkgiSDs).</sub>
+
 ### [忠犬](https://www.threads.com/@karinto_ai/post/DfwpoT1EeCS)
 `status: watching` · `tags: illustration, character-design, animal, sketch, atmosphere` · added 2026-11
 
@@ -361,7 +527,7 @@ A 20-image AI series shared by VESARIÉ (@vesarie.co) of white cliffside village
 
 A video post by Álvaro Díaz (@alvarodiazds_) captioned "Morphiq turns simple shapes into patterns that move."
 **Why I care:** The caption promises a shape-to-pattern motion workflow, which could be useful for generative motion graphics or looping backgrounds.
-**Notes:** Video-only post; footage not reviewed, so no visual details confirmed. No replies, prompt, settings, tool, model, or demo link visible. Morphiq is named only in the caption; its nature (software, technique, or concept) is unclear from the post alone.
+**Notes:** Video-only post; footage not reviewed, so no visual details confirmed. No replies, prompt, settings, tool, model, or demo link visible. Morphiq is named only in the caption; its nature (software, technique, or concept) is unclear from the post alone. Same author as the [A brand is not a logo](#a-brand-is-not-a-logo) brand-system video.
 
 ### [Design Rule No. 11: Negative Space](https://www.threads.com/@346eur/post/DfcTv1UEVNd)
 `status: watching` · `tags: design-education, negative-space, layout, principles, slides` · added 2026-11
