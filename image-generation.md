@@ -6,6 +6,189 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Spiral staircase vector storybook prompt](https://www.threads.com/@stanislava_ai_mode/post/Df6asDPDCEV)
+`status: watching` · `tags: prompt, illustration, vector, architecture, staircase, storybook` · added 2026-11
+
+An image-generation prompt by Stanislava (@stanislava_ai_mode). The post text is the prompt itself, recorded verbatim below: a vector illustration of a lone robed figure climbing a spiral stone staircase inside a tower, with flat warm torchlight against cool stone greys, geometric simplified architecture, bold clean shapes, and a minimalist storybook illustration style. The stills show the same climber from different angles — a red robe on a swirling stair, a top-down spiral, a silhouette against an orange arch, and a figure under a circular skylight with red walls.
+**Why I care:** A compact storybook recipe — one robed climber, one spiral stair, and a tight warm-torch / cool-stone palette that holds up across viewpoints.
+**Notes:** Threads labels the post as AI content and tags it "AI Art". The prompt is the post text, recorded verbatim. No model, tool, sref, license, or external URL is stated. No author continuations. All 4 source images shown. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+Vector illustration of a lone robed figure climbing a spiral stone staircase inside a tower, flat warm torchlight tones against cool stone greys, geometric simplified architecture, bold clean shapes, minimalist storybook illustration style.
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/stanislava-spiral-staircase-1.webp" width="155" alt="Vector storybook illustration of a red-robed figure holding a torch on a swirling stone staircase, with warm orange light against cool grey architecture">
+  <img src="assets/image-generation/stanislava-spiral-staircase-2.webp" width="155" alt="Top-down vector illustration of a red-cloaked figure walking a spiral stone stair inside a tower, lit by two wall torches">
+  <img src="assets/image-generation/stanislava-spiral-staircase-3.webp" width="155" alt="Silhouette of a robed figure with a torch on a grey spiral stair, framed by a warm orange arched opening in dark geometric stone">
+  <img src="assets/image-generation/stanislava-spiral-staircase-4.webp" width="155" alt="Silhouette of a robed figure with a staff and torch on stairs, looking up at a circular skylight, with red-orange curved walls">
+</p>
+
+<sub>All 4 images from [@stanislava_ai_mode's post](https://www.threads.com/@stanislava_ai_mode/post/Df6asDPDCEV).</sub>
+
+### [Photo-to-magazine poster prompt (一天一個提示詞 × 画外有光)](https://www.threads.com/@ellain_tech/post/Df55JHAmvNF)
+`status: watching` · `tags: prompt, photo-to-poster, split, typography, editorial` · added 2026-11
+
+A photo-to-poster prompt by ellain_tech (@ellain_tech). The post text is "一天一個提示詞 × 画外有光". The [continuation](https://www.threads.com/@ellain_tech/post/Df55J0cGoCp) gives the full prompt (Traditional Chinese, recorded verbatim below). It asks for a 3:4 vertical poster split evenly in half: the original photograph keeps its subject, pose, texture, and color on top (with only light tonal adjustment); the lower half restages the same subject so it breaks out of a narrow, low-saturation geometric color block on an ivory or very light-grey ground, with short English titles and a little fine typography in an art-magazine layout.
+**Why I care:** A clean magazine-poster recipe that keeps the source photograph in the frame and lets the subject step through a simple geometric window, with short English titles and a lot of ivory space.
+**Notes:** Needs an uploaded photo. No model, tool, sref, license, or external URL is stated. Threads labels the post as AI content. The examples are each a before-and-after poster (photo on top, designed poster below). Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+請將我上傳的每張照片，分別製作成獨立的高級設計海報，不要多圖拼接。
+採用 3:4 直式構圖，上下區域各佔 50%。
+上半部保留原照的主體、姿態、真實質感與色彩氛圍，僅微調攝影色調；必要時自然延伸背景，不改變主體。
+下半部以「真實物象穿越幾何情緒窗口」重新設計：從原照提取主體與敘事關係，搭配一個窄長、低飽和的幾何色塊，讓主體局部伸出、越界或穿過邊框。色塊方向依主體動勢決定。
+使用米白或極淺灰背景、大面積留白，以及若隱若現的線條。配色取自原照，保留真實攝影感，維持單一視覺焦點。
+加入簡短英文標題與少量精緻小字，呈現藝術雜誌般的編排。整體輕盈、乾淨、有自然生命力。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/ellain-magazine-poster-1.webp" width="155" alt="Photo of three ducks on a pond below a yellow bush, above a magazine poster titled STILL / GOLD, FRAMELESS LIGHT / STUDY 01, with the same scene in a slanted rectangular window">
+  <img src="assets/image-generation/ellain-magazine-poster-2.webp" width="155" alt="Photo of a deer drinking from a creek in an alpine meadow, above a magazine poster titled ALPINE / STILLNESS, FRAMELESS LIGHT / STUDY 07, with the deer in a slanted window">
+  <img src="assets/image-generation/ellain-magazine-poster-3.webp" width="155" alt="Photo of a smiling red-haired woman in a striped shirt leaning on a stone wall with blue shutters, above a magazine poster titled EASY / LIGHT, FRAMELESS LIGHT / STUDY 06">
+  <img src="assets/image-generation/ellain-magazine-poster-4.webp" width="155" alt="Photo of a woman in a flowing red dress crossing a paved square, above a magazine poster titled SCARLET MOTION, FRAMELESS LIGHT / STUDY 03, with the figure breaking a vertical blue color block">
+  <img src="assets/image-generation/ellain-magazine-poster-5.webp" width="155" alt="Photo of a smiling woman and a beagle in a field of yellow flowers, above a magazine poster titled SUNLIT COMPANY, FRAMELESS LIGHT / STUDY 04, with the pair in a slanted window">
+</p>
+
+<sub>First 5 of 7 images from [@ellain_tech's post](https://www.threads.com/@ellain_tech/post/Df55JHAmvNF).</sub>
+
+### [Low-saturation flat cartoon Risograph sref](https://www.threads.com/@punkgod/post/Df54d_ajQPU)
+`status: watching` · `tags: sref, midjourney, illustration, risograph, cartoon, grain` · added 2026-11
+
+A style-reference post by punkgod (@punkgod). The post text is the style guidance itself, recorded verbatim below: 噪点平涂版画, 色彩：低饱和彩 / 米白, 风格：Risograph 版画 / 扁平卡通 / 复古颗粒插画, 特性：圆润 / 粗轮廓线 / 噪点肌理, plus the line `risograph textured illustration --sref 2887984680` exactly as written. Images in the set are labeled "By Midjourney" and "tool Midjourney V8.2 alpha". The examples are rounded, thick-outline flat cartoons with a low-saturation, grainy Risograph texture.
+**Why I care:** A softer, more pastel cousin of punkgod's high-contrast stencil look — useful when you want chunky cartoon characters with visible grain and a muted print palette. Related to the same author's [Grainy stencil Risograph doodle sref](#grainy-stencil-risograph-doodle-sref) (`--sref 4125407381`), which uses a red/black/white stencil-doodle language instead.
+**Notes:** The Midjourney / V8.2 alpha wording is recorded as printed on the images, not independently verified. The `risograph textured illustration --sref 2887984680` line is recorded as written in the post. No license or external URL is stated. The post is shown in the AI Threads community. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+噪点平涂版画
+
+色彩：低饱和彩 / 米白
+风格：Risograph 版画 / 扁平卡通 / 复古颗粒插画
+特性：圆润 / 粗轮廓线 / 噪点肌理
+
+risograph textured illustration --sref 2887984680
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-1.webp" width="155" alt="Four-panel grainy flat-cartoon grid labeled ai PUNKGOD and By Midjourney, with a girl in a dinosaur hood, a skull-faced soldier with a rifle, a rounded samurai with gadgets and headphones, and a tattooed PUNKGOD character making a rude gesture; footer reads tool Midjourney V8.2 alpha">
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-2.webp" width="155" alt="Close-up grainy flat-cartoon portrait of a short-haired girl with rosy cheeks, a black tank, and floral tattoos, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-3.webp" width="155" alt="Grainy flat-cartoon samurai in a horned helmet and headphones, holding a phone, with rounded creatures in the background, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-4.webp" width="155" alt="Grainy close-up of a nun with face and neck tattoos, a septum ring, and praying hands, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-flat-cartoon-riso-5.webp" width="155" alt="Grainy flat-cartoon monkey in a beanie, plaid shirt, and shorts riding a scooter with an orange suitcase, labeled By Midjourney and CREATED by PUNKGOD">
+</p>
+
+<sub>First 5 of 10 images from [@punkgod's post](https://www.threads.com/@punkgod/post/Df54d_ajQPU).</sub>
+
+### [F1 cinematic sports portrait prompt](https://www.threads.com/@glooomyboy/post/Df43ygDiBT3)
+`status: watching` · `tags: prompt, midjourney, sref, sports, portrait, poster` · added 2026-11
+
+A prompt by Hamza Qureshi Ai Artist (@glooomyboy). The post text is a reusable F1-driver prompt, recorded verbatim below: a cinematic sports portrait of a driver in a racing suit and helmet, mid-stride celebration, with neon particle dispersion and `--ar 4:5`. The post itself names no tool. Image 3 is a prompt card labeled "4:5 | Midjourney"; the car-campaign prompt printed on that card is transcribed in a second block below. The stills show leaping drivers with motion-blur or particle breakup, and a teal-and-silver F1 car on a dusk circuit.
+**Why I care:** A tight sports-campaign look — full-body celebration poses on a pale field with neon particle trails, plus a complete Midjourney F1-car recipe on the card.
+**Notes:** Midjourney is attributed only from the image-3 card ("4:5 | Midjourney"), not from the post text. The card transcription was checked against the image; the printed parameters are `--chaos 15`, `--ar 4:5`, `--sref 2405248426 12133245 3433999548 3520654377 96937294 1444598803`, `--sw 300`, `--stylize 500`, `--hd`, and `--v 8.2`, recorded as they appear on the card, not independently verified. That `--sref` stack is the same set of codes as the [CR7 poster prompt](#cr7-poster-prompt), which prints `--stylize 300` rather than 500. No license or external URL is stated. The post is shown with an AI Threads topic tag. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+A cinematic sports portrait of an F1 driver in a racing suit and helmet, mid-stride celebration. Moody minimal background, high-contrast studio lighting with vibrant neon particle dispersion trailing behind in blue, purple, and orange gradient. High-speed motion blur, 8K, photorealistic --ar 4:5
+```
+
+</details>
+
+<details>
+<summary>Prompt transcribed from image 3</summary>
+
+```
+A MERCEDES-AMG PETRONAS F1 CAR IN TEAL AND SILVER LIVERY WITH BLACK CARBON FIBRE AND PETRONAS TEAL ACCENTS, FRONT WING AND NOSE CONE WITH GLOWING LED LIGHT STRIPS, FOLLOWING A GENTLE SWEEPING BEND ON A HIGH-TECH FUTURE CITY STREET CIRCUIT OF KUALA LUMPUR, PETRONAS TWIN TOWERS KLCC IN THE BACKGROUND, DRIVER NATURALLY SEATED IN THE COCKPIT WEARING THE REFERENCED BLACK HELMET WITH AN ORANGE VISOR AND A BLACK RACING SUIT, HALO AND COCKPIT STRUCTURE CLEARLY VISIBLE, REALISTIC F1 CAR PROPORTIONS, A CONTINUOUS WARM SIDE-BACK HIGHLIGHT TRACING THE ENGINE COVER AND SIDEPOD, READABLE HYBRID POWER UNIT AND SUSPENSION DETAIL IN THE SHADOWS, THIN TYRE SPRAY AND RUBBER DUST TRAILING BEHIND, LAYERED DISTANT MOUNTAINS AND ATMOSPHERIC DEPTH, SUBJECT SHARP WITH RESTRAINED BACKGROUND MOTION BLUR, 100MM TELEPHOTO LENS, COMPOSED POWERFUL MOTORSPORT CAMPAIGN PHOTOGRAPHY --CHAOS 15 --AR 4:5 --SREF 2405248426 12133245 3433999548 3520654377 96937294 1444598803 --SW 300 --STYLIZE 500 --HD --V 8.2
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/glooomyboy-f1-1.webp" width="155" alt="F1 driver in a dark racing suit and helmet leaping against a pale field, with orange-to-purple motion streaks trailing behind">
+  <img src="assets/image-generation/glooomyboy-f1-2.webp" width="155" alt="F1 driver in a light PETRONAS suit and helmet, arm raised, dissolving into a spray of blue-to-orange particles on a pale gradient, with a small F1 mark at the bottom">
+  <img src="assets/image-generation/glooomyboy-f1-3.webp" width="155" alt="Prompt card over a teal-and-silver F1 car on a sweeping bend at dusk, with a PROMPT label, a block of white prompt text, and 4:5 Midjourney">
+  <img src="assets/image-generation/glooomyboy-f1-4.webp" width="155" alt="Teal-and-silver F1 car on a sweeping bend at dusk, nose lights glowing, mountains in the haze, without the prompt overlay">
+  <img src="assets/image-generation/glooomyboy-f1-5.webp" width="155" alt="F1 driver in a dark suit and helmet leaping with a fist raised, trailing horizontal neon streaks in blue, purple, and orange on a pale field">
+</p>
+
+<sub>First 5 of 10 images from [@glooomyboy's post](https://www.threads.com/@glooomyboy/post/Df43ygDiBT3).</sub>
+
+### [Grainy stencil Risograph doodle sref](https://www.threads.com/@punkgod/post/Df4OiGEGwid)
+`status: watching` · `tags: sref, midjourney, illustration, risograph, stencil, doodle` · added 2026-11
+
+A style-reference post by punkgod (@punkgod). The post text is the style guidance itself, recorded verbatim below: 颗粒孔版涂鸦, 色彩：红 / 黑 / 白, 风格：孔版印刷 / 粗线条手绘 / Risograph 版画, 特性：粗犷 / 色块平涂 / 质朴颗粒感, plus `--sref 4125407381` exactly as written. Images in the set are labeled "By Midjourney" and "tool Midjourney V8.2 alpha". The examples are grainy red-black-white stencil and Risograph-like doodles.
+**Why I care:** A rough, high-contrast stencil-print look with a tight red/black/white palette — useful when you want crude poster doodles with visible grain and flat color blocks.
+**Notes:** The Midjourney / V8.2 alpha wording is recorded as printed on the images, not independently verified. The `--sref 4125407381` string is recorded as written in the post. Same author as the [Low-saturation flat cartoon Risograph sref](#low-saturation-flat-cartoon-risograph-sref) (`--sref 2887984680`), a different code with a lower-saturation, rounded flat-cartoon look. No license or external URL is stated. The post is shown in the AI Threads community. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+颗粒孔版涂鸦
+色彩：红 / 黑 / 白
+风格：孔版印刷 / 粗线条手绘 / Risograph 版画
+特性：粗犷 / 色块平涂 / 质朴颗粒感
+--sref 4125407381
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/punkgod-riso-sref-1.webp" width="155" alt="Four-panel red-black-white stencil grid labeled ai PUNKGOD and By Midjourney, with a suited figure holding pencils and a gun, a red guitarist, a bearded man with a phone, and a PUNKGOD character making a rude gesture; footer reads tool Midjourney V8.2 alpha">
+  <img src="assets/image-generation/punkgod-riso-sref-2.webp" width="155" alt="Grainy stencil illustration of a red-and-black biker seen from behind, standing by a motorcycle under street lamps, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-riso-sref-3.webp" width="155" alt="Grainy red-and-black stencil of a suited figure holding a large black gun, with rockets and a knife behind, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-riso-sref-4.webp" width="155" alt="Red poster labeled PULP FICTION of a black-haired figure with radiating handwritten marks, labeled By Midjourney and CREATED by PUNKGOD">
+  <img src="assets/image-generation/punkgod-riso-sref-5.webp" width="155" alt="Four grainy red-and-black stencil doodles of dogs and a cat, labeled By Midjourney and CREATED by PUNKGOD">
+</p>
+
+<sub>First 5 of 10 images from [@punkgod's post](https://www.threads.com/@punkgod/post/Df4OiGEGwid).</sub>
+
+### [Photo + crayon/pastel split illustration prompt](https://www.threads.com/@lch1776244/post/Df4BA96m7cs)
+`status: watching` · `tags: prompt, photo-to-illustration, split, crayon, pastel, screenprint, interior` · added 2026-11
+
+An image-to-image prompt by Chloe_Lai (@lch1776244). The post text is "這個提示詞真的很棒！". The [continuation](https://www.threads.com/@lch1776244/post/Df4BBn5G5ij) gives the full prompt (Simplified Chinese, recorded verbatim below). It splits the canvas in half: the original photo keeps its photographic look on the top half (cropped naturally in landscape); the same scene becomes a centered horizontal illustration on an ivory handmade-paper ground below, in a retro crayon, pastel, and screen-print manner, with two small left-aligned English serif lines at the foot of the illustration.
+**Why I care:** A compact photo-plus-illustration recipe for interiors — the photograph stays in the frame, and the lower half restyles the same room as a quiet, low-saturation print. Related to her earlier [retro type poster prompt (詩意復古海報)](#retro-type-poster-prompt-詩意復古海報), which also starts from a photo but outputs a typographic poster rather than a split photo-and-illustration.
+**Notes:** Needs an uploaded photo. No model, tool, sref, license, or external URL is stated. No separate Threads AI-content label was visible on the post. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+上下对半均分，上半保留原图摄影质感、横向自然裁切;下半象牙白手工纸底色，原图场景转居中横向插画，插画主体占下半宽60%，四周大量留白。
+造型:剔除杂背景、光影、次要细节，只留标志性主体;拙感几何色块+细手绘线，轮廓微歪、断续错位，不拘泥透视和精细结构。
+色彩:取原图4-6色，低饱和柔和平涂，无渐变、立体感与重阴影。
+质感:蜡笔+粉彩+丝网印旧书插图质感，纸底透白、细颗粒、上色不均、边缘磨损、轻微套色偏移，温暖朴素，复古杂志插画感。
+文字:插画底部左对齐两行小号复古衬线英文，生成不稳则留白，不出乱码。
+保留核心物体，移除界面、字幕、截图元素;禁止写实、水彩、动漫、矢量、油画、厚涂、3D、logo、水印、黑边。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/chloe-crayon-split-1.webp" width="155" alt="Photo of a green living room with a curved sofa, arched windows, and a floral painting, above a crayon-style illustration of the same scene captioned The room, a quieter kind of freedom.">
+  <img src="assets/image-generation/chloe-crayon-split-2.webp" width="155" alt="Photo of a cream living room with a curved sofa, round rug, and a disc-shaped pendant light, above a crayon-style illustration captioned Home is a feeling, not just a place.">
+  <img src="assets/image-generation/chloe-crayon-split-3.webp" width="155" alt="Photo of a green dining room with a stone table, round-back chairs, and open shelves, above a crayon-style illustration captioned Home is a quiet place where everyday feels a little softer.">
+  <img src="assets/image-generation/chloe-crayon-split-4.webp" width="155" alt="Photo of a living room with a brown sofa, red rocking chair, blue-striped rug, and wood wall, above a crayon-style illustration captioned Better Homes Slower Days">
+</p>
+
+<sub>All 4 images from [@lch1776244's post](https://www.threads.com/@lch1776244/post/Df4BA96m7cs).</sub>
+
 ### [RED SPIDER prompt](https://www.threads.com/@herudhihely/post/DfzahXAmDx2)
 `status: watching` · `tags: prompt, sref, seedream, portrait, fashion` · added 2026-11
 
