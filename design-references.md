@@ -527,7 +527,7 @@ A 20-image AI series shared by VESARIÉ (@vesarie.co) of white cliffside village
 
 A video post by Álvaro Díaz (@alvarodiazds_) captioned "Morphiq turns simple shapes into patterns that move."
 **Why I care:** The caption promises a shape-to-pattern motion workflow, which could be useful for generative motion graphics or looping backgrounds.
-**Notes:** Video-only post; footage not reviewed, so no visual details confirmed. No replies, prompt, settings, tool, model, or demo link visible. Morphiq is named only in the caption; its nature (software, technique, or concept) is unclear from the post alone.
+**Notes:** Video-only post; footage not reviewed, so no visual details confirmed. No replies, prompt, settings, tool, model, or demo link visible. Morphiq is named only in the caption; its nature (software, technique, or concept) is unclear from the post alone. Same author as the [A brand is not a logo](#a-brand-is-not-a-logo) brand-system video.
 
 ### [Design Rule No. 11: Negative Space](https://www.threads.com/@346eur/post/DfcTv1UEVNd)
 `status: watching` · `tags: design-education, negative-space, layout, principles, slides` · added 2026-11
