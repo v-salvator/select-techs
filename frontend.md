@@ -6,6 +6,13 @@ UI frameworks, component libraries, styling, and build tools.
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [primitive-first-design](https://github.com/daniellee-ux/primitive-first-design)
+`status: watching` · `tags: agent-skill, product-design, primitives, claude-code, codex` · added 2026-11
+
+An agent skill by Daniel (GitHub [daniellee-ux](https://github.com/daniellee-ux)) for finding a product's core primitives and designing features, tabs, or information architecture from them. The README says it walks a coding agent through six checks and produces a brief with a product model, derived-state rules, and decisions for the user to confirm. The README states that the method draws on Ryo Lu's ideas about product primitives.
+**Why I care:** A way to push an agent back to the product's core objects when features start to sprawl, instead of stacking one-off cases.
+**Notes:** From [Daniel's Threads post (@daniellee.wip)](https://www.threads.com/@daniellee.wip/post/DgDPf8zGX3i) (no stills). In that post he describes Ryo as a former Cursor design lead and a Notion founding designer; that role description is from the post, not independently verified here. His post examples are Notion → Block, Cursor → Agent, and Stripe → Token; `SKILL.md` uses a fuller set (Notion: blocks, pages, databases, and views; Cursor: Agent; Stripe: a token associated with a person) and says those Notion and Cursor examples come from accounts of Lu's approach, with the Stripe example from a talk. Daniel also says in the post that the skill is early and has not been heavily validated. README install is to keep `SKILL.md`, `assets/`, and `references/` together, with symlink examples for Codex (`~/.agents/skills`) and Claude Code (`~/.claude/skills`). The post's GitHub card showed 4 stars; GitHub showed 4 stars as of 2026-11-23 (Asia/Taipei). MIT (Copyright 2026 daniellee-ux), confirmed in the repo `LICENSE`. Not tested.
+
 ### [gridlines](https://github.com/pritamux/gridlines)
 `status: watching` · `tags: agent-skill, ui, alignment, layout, padding` · added 2026-11
 
