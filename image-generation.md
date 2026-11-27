@@ -6,6 +6,48 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [Silent geometries prompt](https://www.threads.com/@p2nda/post/DgNF6_ElUyv)
+`status: watching` · `tags: prompt, illustration, modernist, geometry, figure, animal` · added 2026-11
+
+A template prompt by Edson Pires (@p2nda), a photographer, art director, and motion designer. The post text is "Silent geometries. Prompt in comment 📄. Made with GPT image 2.6". Slot in `[HUMAN]`, `[ANIMAL]`, `[SETTING]`, `[OUTFIT]`, `[SCENERY]`, and `[COLORS]`. The stills are modernist figurative illustrations of a person with an animal, built from elongated silhouettes, overlapping geometric planes, arches, and circular forms on a warm ivory ground, with a small "prompt by @p2nda" signature in each image.
+**Why I care:** A tighter, more architectural cousin of the same author's earlier human-and-animal template — this one uses solid black shapes, ivory space, and one chromatic accent instead of translucent ink washes. Related to [Ethereal human-animal composition prompt](#ethereal-human-animal-composition-prompt).
+**Notes:** Threads labels the post and the continuation as AI content. The author states it was "Made with GPT image 2.6" (unverified model wording). No sref, license, or external URL is stated. The full prompt is in a continuation comment, recorded verbatim below. The prompt specifies a 4:5 aspect ratio and asks for a tiny "prompt by @p2nda" signature in the scene. First 5 of 8 source images shown. Not tested.
+
+<details>
+<summary>Full prompt</summary>
+
+```
+Sophisticated modernist figurative illustration featuring [HUMAN] accompanied by one [ANIMAL] in [SETTING].
+
+Single vertical composition built from elegant elongated silhouettes, overlapping geometric planes, asymmetrical arches, circular forms, and flowing ribbon-like shapes.
+
+The human is rendered through highly simplified yet recognizable facial geometry, delicate almond-shaped eyes, precise minimal features, sculptural hair contours, and refined proportions. Clothing: [OUTFIT], interpreted as broad flat color planes with graceful linear details.
+
+The animal shares exactly the same visual language: elegant stylized anatomy, recognizable species-specific silhouette, expressive minimal eyes, selective fine-line detailing, and carefully balanced proportions.
+
+Environment: [SCENERY], reduced to precise architectural silhouettes, ornamental linework, delicate botanical drawing, and layered abstract geometry.
+
+Strict harmonious palette: [COLORS]. Dominant warm ivory space, substantial solid-black shapes, restrained muted intermediate tones, and one carefully positioned chromatic accent.
+
+Ultra-fine black ink contours, hairline architectural guides, subtle translucent overlapping shapes, occasional delicate metallic-beige lines, matte pigment surfaces, and understated fine-paper texture.
+
+Exceptional negative-space control, rhythmic shape relationships, refined asymmetrical balance, sophisticated modernist editorial illustration, and quiet poetic atmosphere.
+
+Tiny signature “prompt by @p2nda” integrated into scene. 4:5
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/p2nda-silent-geometries-1.webp" width="155" alt="White-haired woman in a black-and-ivory robe beside a pink blobfish in a sailor cap, with teal geometric water, arches, and a small sailboat">
+  <img src="assets/image-generation/p2nda-silent-geometries-2.webp" width="155" alt="Elderly white-haired man in a grey coat and rust-red scarf by a lake, with a large-eyed brown-striped bird on the railing, a white house, and a sailboat under a pale moon">
+  <img src="assets/image-generation/p2nda-silent-geometries-3.webp" width="155" alt="Red-haired woman in a long black coat and rust scarf standing in an arched modernist plaza with a spotted hyena and a coral sun">
+  <img src="assets/image-generation/p2nda-silent-geometries-4.webp" width="155" alt="Long silver-haired man in glasses and a black coat with a red panel, a honey badger on a ledge, and a pale geometric arch">
+  <img src="assets/image-generation/p2nda-silent-geometries-5.webp" width="155" alt="Purple-bobbed woman in a black robe with a sugar glider on her arm, a steaming teacup, and overlapping lavender circles">
+</p>
+
+<sub>First 5 of 8 images from [@p2nda's post](https://www.threads.com/@p2nda/post/DgNF6_ElUyv).</sub>
+
 ### [Spiral staircase vector storybook prompt](https://www.threads.com/@stanislava_ai_mode/post/Df6asDPDCEV)
 `status: watching` · `tags: prompt, illustration, vector, architecture, staircase, storybook` · added 2026-11
 
@@ -688,7 +730,7 @@ A prompt by @ammiamia_ that turns an uploaded photo into a 3:4 poetic printed po
 
 A template prompt by Edson Pires (@p2nda) for ethereal fine-art compositions: a human figure with an animal companion, both rendered in translucent ink washes and flowing silhouettes on luminous ivory paper. Slot in `[HUMAN]`, `[ANIMAL]`, `[SETTING]`, `[ACTION]`, `[OUTFIT]`, `[MOTIF]`, and `[COLORS]`.
 **Why I care:** The prompt's palette ratios (65% ivory negative space, 20% transparent pigment, 10% charcoal silhouette, 5% gold light) and material vocabulary (organza, sheer silk, folded translucent paper) give specific control over the ethereal look. Embeds the creator's signature in the image.
-**Notes:** Author states "Made with GPT image 2.6" (unverified model wording). No license visible. The [full prompt](https://www.threads.com/@p2nda/post/DfeTX6ymxqN) is in the continuation post. Not tested.
+**Notes:** Author states "Made with GPT image 2.6" (unverified model wording). No license visible. The [full prompt](https://www.threads.com/@p2nda/post/DfeTX6ymxqN) is in the continuation post. Same author as the later [Silent geometries prompt](#silent-geometries-prompt), a related human-and-animal template in a modernist geometric style instead of translucent ink washes. Not tested.
 
 <details>
 <summary>Full prompt</summary>
