@@ -6,6 +6,41 @@ Image models, prompts, skills, and tools you can generate with. Designs with no 
 
 <!-- Add entries below using the format in _template.md. Newest first. -->
 
+### [ChatGPT photo-enhancement prompts (讓照片更好看)](https://www.threads.com/@bibi._.0614/post/DgM9j4PmB7j)
+`status: watching` · `tags: prompt, photo-enhancement, color-grade, chatgpt` · added 2026-11
+
+Photo-enhancement prompts by 陳熏凝 | 平面設計 (@bibi._.0614), whose bio is 設計 × AI × 教學. The post text is "分享五個可以讓照片更好看的ChatGPT提示詞". The author names ChatGPT as the tool. Only two of the five prompts appear in the author's thread, recorded verbatim below: [Prompt 01](https://www.threads.com/@bibi._.0614/post/DgM9jxWmNm8) asks for a realistic high-end DSLR look with a cinematic Lightroom-style grade, and to change nothing in the scene; [Prompt 03](https://www.threads.com/@bibi._.0614/post/DgM9r5QmPUN) asks for a natural grade at "iPhone 18 Pro Smart HDR" level that still looks like a real photo. The stills are side-by-side before/after comparisons of the same photographs.
+**Why I care:** Practical grading recipes that keep the original subject, framing, and camera angle — one pushed toward a contrasty cinematic DSLR look, the other toward a cleaner natural-phone grade.
+**Notes:** The post announces five ChatGPT prompts; only Prompt 01 and Prompt 03 are in the author's thread. In a [reply](https://www.threads.com/@bibi._.0614/post/DgNa5XcmK-q), the author says the per-photo prompts are in a quoted post by @pb_design_lab (URL not captured); the other three prompts were not in this thread and are not recorded here. The "ChatGPT", "Lightroom 風格", and "iPhone 18 Pro Smart HDR" wording is recorded as stated by the author / in the prompt text, not independently verified. The original post is not labeled AI content. No sref, license, or external URL is stated. Needs an uploaded photo. First 5 of 12 source images shown; they are the author's before/after comparisons. Not tested.
+
+<details>
+<summary>Prompt 01</summary>
+
+```
+請將這張照片轉換成令人驚豔、超寫實的高階專業單眼相機（DSLR）照片，搭配高級的電影感調色。請套用濃郁鮮明的色彩、深沉自然的對比、極度銳利清晰的細節、強化的質感紋理、平衡的 HDR 光線、鮮豔的天空、翠綠飽滿的綠色、溫暖的亮部與乾淨的暗部。打造高級的 Lightroom 風格成品，具備出色的清晰度、動態範圍與自然的景深層次。讓畫面具有強烈的視覺衝擊、色彩繽紛，看起來像專業拍攝，但不顯得人工或過度修圖。保留原本的主體、人物特徵、物件、構圖與相機角度。不要新增或移除任何東西。
+```
+
+</details>
+
+<details>
+<summary>Prompt 03</summary>
+
+```
+請套用濃郁自然的調色，呈現深邃的綠色、溫暖的黃金時刻亮部、乾淨的藍天、準確的膚色，以及柔和的中性陰影，沒有橘色或黃色偏色。請將動態範圍、局部對比、質感與細節提升到 iPhone 18 Pro Smart HDR 的效果，同時保持完全照片級寫實。請照這張圖原本的樣子交付，而不是 AI 生成的藝術作品。
+```
+
+</details>
+
+<p>
+  <img src="assets/image-generation/bibi-photo-enhancement-1.webp" width="155" alt="Side-by-side before and after of a cyclist on a small cream bike under an overpass on a green bike lane; the after has richer green, warmer light, and a stronger shadow">
+  <img src="assets/image-generation/bibi-photo-enhancement-2.webp" width="155" alt="Side-by-side before and after of a porter carrying a load down stairs marked CẦU THANG SỐ 13; the after is a warmer golden grade">
+  <img src="assets/image-generation/bibi-photo-enhancement-3.webp" width="155" alt="Side-by-side before and after of concrete highway piers under an overpass labeled AP8; the after has deeper teal structure and a clearer blue sky">
+  <img src="assets/image-generation/bibi-photo-enhancement-4.webp" width="155" alt="Side-by-side before and after of a motorcyclist riding beside the sea at sunset; the after has a richer orange sky and sharper contrast">
+  <img src="assets/image-generation/bibi-photo-enhancement-5.webp" width="155" alt="Side-by-side before and after of two cyclists crossing a city street; the after is a warmer golden-hour grade with deeper shadows">
+</p>
+
+<sub>First 5 of 12 images from [@bibi._.0614's post](https://www.threads.com/@bibi._.0614/post/DgM9j4PmB7j); these are the author's before/after comparisons.</sub>
+
 ### [Spiral staircase vector storybook prompt](https://www.threads.com/@stanislava_ai_mode/post/Df6asDPDCEV)
 `status: watching` · `tags: prompt, illustration, vector, architecture, staircase, storybook` · added 2026-11
 
